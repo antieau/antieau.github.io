@@ -1,9 +1,0 @@
----
-layout: post
-title:  "K-theory blog"
-categories: announcements admin
----
-I am beginning a blog to discuss new developments in K-theory, Hochschild
-homology, de Rham cohomology, and other topics I'm interested in. In
-particular, I will be explaining examples, highlighting new work I think is
-interesting, and discussing the major themes in the development of the subject.

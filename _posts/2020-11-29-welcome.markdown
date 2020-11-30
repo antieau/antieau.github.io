@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "K-theory blog"
+categories: announcements admin
+---
+I am beginning a blog to discuss new developments in K-theory, Hochschild
+homology, de Rham cohomology, and other topics I'm interested in. In
+particular, I will be explaining examples, highlighting new work I think is
+interesting, and discussing the major themes in the development of the subject.
+
+Comments will be welcome via [email](mailto:antieau@northwestern.edu).
+
+I owe thanks to [Pieter Belmans](https://pbelmans.ncag.info/) for getting me
+set up on the technical side. The site is hosted on <tt>[Github
+Pages](https://pages.github.com/)</tt> and run using the static site builder
+<tt>[Jekyll](https://jekyllrb.com/)</tt> with a slightly customized version of the <tt>[Minima](https://github.com/jekyll/minima)</tt> theme.
+Math is rendered via <tt>[MathJax](https://www.mathjax.org/)</tt>.

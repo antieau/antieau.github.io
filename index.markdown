@@ -4,3 +4,7 @@
 
 layout: home
 ---
+I am a professor of mathematics at Northwestern University.
+
+My research is currently funded by the National Science Foundation and the
+Simons Foundation.
