@@ -4,15 +4,51 @@ title: cv
 permalink: /cv/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Full cv \[[pdf](../assets/pdf/cv.pdf)\] \(20 Aug 2020\).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Employment
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+2020 _Professor_ at Northwestern.
+
+2017 _Associate Professor_ at UIC.
+
+2014 _Assistant Professor_ at UIC.
+
+2013 _Postdoc_ at UW.
+
+2010 _Postdoc_ at UCLA.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+# Education
+
+2010 PhD in Mathematics at the UIC.
+
+2006 MS in Mathematics at the UIC.
+
+2004 AB in Philosophy at the University of Chicago.
+
+
+
+# Notable grants and awards
+
+2020 NSF Grant _Cyclotomic spectra and p-divisible groups_.
+
+2020 Simons Fellowship.
+
+2020 Rising Star Researcher of the Year Award, UIC.
+
+2018 K-Theory Prize.
+
+2016 NSF CAREER Award _Higher Brauer groups and topological Azumaya
+algebras_.
+
+2016 co-PI of LAS Faculty Award _The Mathematical Computing Laboratory: an
+undergraduate research center_.
+
+2013 NSF Grant _Topological methods for Azumaya algebras_.
+
+
+# Publications
+
+See [research](../research/).

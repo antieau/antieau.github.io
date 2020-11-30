@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {%- if site.description -%}
+  <div class="page-content">
+      <div class="wrapper">
+          <img style="float: right; padding: 10px" width="400" src="assets/coverpic.jpg">
+          {{ site.description | escape }}
+      </div>
+  </div>
+  {%- endif -%}
+
+</div>
