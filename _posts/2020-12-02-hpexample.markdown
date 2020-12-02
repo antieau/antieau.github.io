@@ -96,11 +96,11 @@ J. Algebra **107** (1987), no. 1, 195–216.
 [6] Majadas, *Derived de Rham complex and cyclic homology*, 
 Mathematica Scandinavica **79**, no. 2 (1996), pp. 176-188.
 
-[7] Moulinos, Robalo, and Toën, _A universal HKR theorem_, arXiv preprint [arXiv:1906.00118](https://arxiv.org/abs/1906.00118).
+[7] Moulinos, Robalo, and Toën, _A universal HKR theorem_, [<tt>arXiv:1906.00118</tt>](https://arxiv.org/abs/1906.00118).
 
 [8] Raksit, _Hochschild homology and the derived de Rham complex
-revisited_, arXiv preprint
-[arXiv:2007.025760l](https://arxiv.org/abs/2007.02576).
+revisited_,
+[<tt>arXiv:2007.025760l</tt>](https://arxiv.org/abs/2007.02576).
 
 [9] Toën, Vezzosi, *Algèbres simpliciales S1-équivariantes, théorie de de Rham et théorèmes HKR multiplicatifs*,
 Compos. Math. **147** (2011), no. 6, 1979–2000.
