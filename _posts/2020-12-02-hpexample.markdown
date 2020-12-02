@@ -100,7 +100,7 @@ Mathematica Scandinavica **79**, no. 2 (1996), pp. 176-188.
 
 [8] Raksit, _Hochschild homology and the derived de Rham complex
 revisited_,
-[<tt>arXiv:2007.025760l</tt>](https://arxiv.org/abs/2007.02576).
+[<tt>arXiv:2007.025760</tt>](https://arxiv.org/abs/2007.02576).
 
 [9] Toën, Vezzosi, *Algèbres simpliciales S1-équivariantes, théorie de de Rham et théorèmes HKR multiplicatifs*,
 Compos. Math. **147** (2011), no. 6, 1979–2000.
