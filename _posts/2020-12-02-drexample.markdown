@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A de Rham cohomology example"
-categories: homology examples
+tags: homology examples
 ---
 <div style="display:none">
 $

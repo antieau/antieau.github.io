@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A counterexample for the de Rham filtration on HP"
-categories: homology examples
+tags: homology examples
 ---
 Here is an example where the de Rham filtration on periodic cyclic homology
 is not exhaustive, motivated by the example of Bhatt and Mondal I describe in the previous [post]({% post_url 2020-12-02-drexample %}).
