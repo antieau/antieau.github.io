@@ -8,7 +8,7 @@ permalink: /research/
 
 0.  B. Antieau, A. Mathew, M. Morrow, and T. Nikolaus, _On the Beilinson fiber square_, submitted. \[[arxiv:2003](https://arxiv.org/abs/2003.12541)\].
 0.  B. Antieau and B. Williams, _The topological period-index conjecture_, to appear in Mathematical Research Letters. \[[arxiv:2003](https://arxiv.org/abs/2003.10539)\].
-0.  B. Antieau and R. Datta, _Valuation rings are derived splinters_, submitted. \[[arxiv:2002](https://arxiv.org/abs/2002.01067)\].
+0.  B. Antieau and R. Datta, _Valuation rings are derived splinters_, to appear in Math. Z. \[[arxiv:2002](https://arxiv.org/abs/2002.01067)\].
 0.  B. Antieau and E. Elmanto, _Descent for semiorthogonal decompositions_, submitted. \[[arxiv:1912](https://arxiv.org/abs/1912.08970)\].
 0.  B. Antieau, B. Bhatt, and A. Mathew, _Counterexamples to Hochschild-Kostant-Rosenberg in characteristic p_, submitted. \[[arxiv:1909](https://arxiv.org/abs/1909.11437)\]. \[[Video](https://northwestern.zoom.us/rec/share/tMZeF-r3_FxOQIGTzVDiZoszHt6iX6a82yAf-vILzkupReKlAhITZRWnsoenib4r?startTime=1590005802000)\].
 0.  B. Antieau and D. Bragg, _Derived invariants from topological Hochschild homology_, submitted. \[[arxiv:1906](https://arxiv.org/abs/1906.12267)\].
