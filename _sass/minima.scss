@@ -9,6 +9,7 @@ $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
+$spacing-unit-small:    5px;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
@@ -51,3 +52,13 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+.post-list-small {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit-small;
+  }
+}
+
