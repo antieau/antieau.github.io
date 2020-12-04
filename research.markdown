@@ -4,6 +4,8 @@ title: research
 permalink: /research/
 ---
 
+I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
+
 # publications and preprints
 
 0.  B. Antieau, A. Mathew, M. Morrow, and T. Nikolaus, _On the Beilinson fiber square_, submitted. \[[arxiv:2003](https://arxiv.org/abs/2003.12541)\].
