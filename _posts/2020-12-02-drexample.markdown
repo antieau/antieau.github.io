@@ -11,7 +11,6 @@ $
 \newcommand\dR{\mathrm{dR}}
 $
 </div>
-
 While discussing an interesting forthcoming preprint [2], I asked [Shubhodip Mondal](https://lsa.umich.edu/math/people/phd-students/smondal.html)
 whether there was an example in characteristic $$0$$ where Hodge-complete
 derived de Rham cohomology is not coconnective, i.e., whether there is a

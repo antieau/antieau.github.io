@@ -47,6 +47,9 @@ author:
 minima:
   date_format: "%-d %b %Y"
 
+# Show excerpts for blog posts by default? 
+show_excerpts: False
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
