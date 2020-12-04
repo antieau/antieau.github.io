@@ -14,4 +14,6 @@ I owe thanks to [Pieter Belmans](https://pbelmans.ncag.info/) for getting me
 set up on the technical side. The site is hosted on <tt>[Github
 Pages](https://pages.github.com/)</tt> and run using the static site builder
 <tt>[Jekyll](https://jekyllrb.com/)</tt> with a slightly customized version of the <tt>[Minima](https://github.com/jekyll/minima)</tt> theme.
-Math is rendered via <tt>[MathJax](https://www.mathjax.org/)</tt>.
+Math is rendered via <tt>[MathJax](https://www.mathjax.org/)</tt>. The favicon
+in the tab was created with
+<tt>[favicon.io](https://favicon.io/favicon-generator/)</tt>.
