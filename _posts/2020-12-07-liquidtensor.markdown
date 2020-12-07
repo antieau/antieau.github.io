@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scholze's liquid tensor experiment"
-tags: homology examples
+tags: condensed
 ---
 Peter Scholze
 [proposes](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/) to formalize 
