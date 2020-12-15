@@ -63,7 +63,7 @@ $$\mathrm{F}^\star_\mathrm{H}\widehat{\mathrm{dR}}_{R/k}\rightarrow\mathrm{F}^\s
 By base change up to $k^{\mathrm{t}S^1}$, we get a filtered map
 $$\mathrm{F}^\star_{\mathrm{H}}\widehat{\mathrm{dR}}_{R/k}\otimes_kk^{\mathrm{t}S^1}\rightarrow\mathrm{F}^\star_{\mathrm{HKR}}\mathrm{HP}(R/k).$$
 
-**Edited 15 December 2020**:
+**Added 15 December 2020**:
 I previously claimed that this map is an equivalence on associated graded
 pieces, but this is not true in general as
 $$\Lambda^s\mathrm{L}_{R/k}\otimes_kk^{\mathrm{t}S^1}\rightarrow(\Lambda^s\mathrm{L}_{R/k})^{\mathrm{t}S^1}$$ is not typically an equivalence.
@@ -71,6 +71,16 @@ Nor is it true that in general $R\otimes_kk^{\mathrm{t}S^1}\simeq
 R^{\mathrm{t}S^1}$. In particular, the map above does not become an equivalence
 upon completing the left-hand side in general. Thanks to Thomas Nikolaus for
 pointing this out.
+
+**Added 15 December 2020**:
+contemplation of the previous remark leads one to conclude that there is an
+easier example of the phenomenon outlined in this post, but one must leave the
+world of discrete rings altogether. Indeed, if $R$ is as above, so that
+$\pi_*R\cong\mathbf{Q}[x]$ where $|x|=2$, then the de
+Rham filtration $\mathrm{F}^\star\mathrm{HP}(R/R)$ on $\mathrm{HP}(R/R)\simeq R^{\mathrm{t}S^1}$ is not exhaustive!
+In fact, this is basically the same example as the one above given that
+$$R\simeq\widehat{\mathrm{dR}}_{R/R}\rightarrow\widehat{\mathrm{dR}}_{\mathbf{Q}/R}$$
+is an equivalence.
 
 # References
 
