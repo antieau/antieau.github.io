@@ -14,9 +14,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 0.  B. Antieau and E. Elmanto, _Descent for semiorthogonal decompositions_, submitted. \[[arxiv:1912](https://arxiv.org/abs/1912.08970)\].
 0.  B. Antieau, B. Bhatt, and A. Mathew, _Counterexamples to Hochschild-Kostant-Rosenberg in characteristic p_, submitted. \[[arxiv:1909](https://arxiv.org/abs/1909.11437)\]. \[[Video](https://northwestern.zoom.us/rec/share/tMZeF-r3_FxOQIGTzVDiZoszHt6iX6a82yAf-vILzkupReKlAhITZRWnsoenib4r?startTime=1590005802000)\].
 0.  B. Antieau and D. Bragg, _Derived invariants from topological Hochschild homology_, submitted. \[[arxiv:1906](https://arxiv.org/abs/1906.12267)\].
-0.  N. Addington, B. Antieau, S. Frei, and K. Honigs, _Rational points and derived equivalence_, submitted. \[[arxiv:1906](https://arxiv.org/abs/1906.02261)\].
+0.  N. Addington, B. Antieau, S. Frei, and K. Honigs, _Rational points and derived equivalence_, to appear in Compositio Math. \[[arxiv:1906](https://arxiv.org/abs/1906.02261)\].
 0.  B. Antieau, _On the uniqueness of infinity-categorical enhancements of triangulated categories_, submitted. \[[arxiv:1812](http://arxiv.org/abs/1812.01526)\].
-0.  B. Antieau and T. Nikolaus, _Cartier modules and cyclotomic spectra_, to appear in J. Amer. Math. Soc. \[[arxiv:1809](http://arxiv.org/abs/1809.01714)\].
+0.  B. Antieau and T. Nikolaus, _Cartier modules and cyclotomic spectra_, J. Amer. Math. Soc. **34** (2021), no. 1, 1-78. \[[arxiv:1809](http://arxiv.org/abs/1809.01714)\].
 0.  B. Antieau, _Periodic cyclic homology and derived de Rham cohomology_, Annals of K-Theory **4** (2019), no. 3, 505-519. \[[arxiv:1808](https://arxiv.org/abs/1808.05246)\].
 0.  B. Antieau and G. Vezzosi, _A remark on the Hochschild-Kostant-Rosenberg theorem in characteristic p_, Ann. Sc. Norm. Super. Pisa Cl. Sci. (5) **XX** (2020), 1135-1145. \[[arxiv:1710](https://arxiv.org/abs/1710.06039)\]. \[[Video](https://northwestern.zoom.us/rec/share/xvApMqH63UxJTonLxh7yQKsvII76aaa80CMY-vQKmR2u811QkEh8HJLT4kBsQgph?startTime=1589401045000)\].
 0.  B. Antieau, A. Mathew, and T. Nikolaus, _On the Blumberg-Mandell Künneth theorem for TP_, Selecta Mathematica, **24** (2018), no. 5, 4555-4576. \[[Selecta](https://link.springer.com/article/10.1007%2Fs00029-018-0427-x)\]. \[[arxiv:1710](https://arxiv.org/abs/1710.05658)\].
