@@ -59,22 +59,18 @@ for a map of ordinary commutative rings $k\rightarrow R$, but I would be very
 interested if there is such an example.
 
 Finally, let me mention that in characteristic $0$ there is a canonical map
-from Hodge filtered derived de Rham cohomology
 $$\mathrm{F}^\star_\mathrm{H}\widehat{\mathrm{dR}}_{R/k}\rightarrow\mathrm{F}^\star_{\mathrm{HKR}}\mathrm{HP}(R/k).$$
-Which by base change up to $k^{\mathrm{t}S^1}$ induces a filtered map
+By base change up to $k^{\mathrm{t}S^1}$, we get a filtered map
 $$\mathrm{F}^\star_{\mathrm{H}}\widehat{\mathrm{dR}}_{R/k}\otimes_kk^{\mathrm{t}S^1}\rightarrow\mathrm{F}^\star_{\mathrm{HKR}}\mathrm{HP}(R/k).$$
-This map is an equivalence on associated graded pieces and the right-hand side is
-complete, but it is not an equivalence in general as the example above shows. It follows that $\mathrm{HP}(R/k)$ is the _completed_ tensor product
-$$\widehat{\mathrm{dR}}_{R/k}\widehat{\otimes}_kk^{tS^1},$$ where we complete with
-respect to the induced Hodge filtration. Finally, we can rewrite these
-equivalences as
 
-$$\widehat{\mathrm{dR}}_{R^{\mathrm{t}S^1}/k^{\mathrm{t}S^1}}\simeq\widehat{\mathrm{dR}}_{R/k}\widehat{\otimes}_kk^{\mathrm{t}S^1}\simeq\mathrm{HP}(R/k),$$
-
-where we omit the Hodge and HKR filtrations from the notation. In other words,
-in characteristic $0$, $\mathrm{HP}(R/k)$ is the Hodge-complete derived
-de Rham cohomology of the $2$-periodic ring $R^{\mathrm{t}S^1}$ over the
-$2$-periodic ring $k^{\mathrm{t}S^1}$.
+**Edited 15 December 2020**:
+I previously claimed that this map is an equivalence on associated graded
+pieces, but this is not true in general as
+$$\Lambda^s\mathrm{L}_{R/k}\otimes_kk^{\mathrm{t}S^1}\rightarrow(\Lambda^s\mathrm{L}_{R/k})^{\mathrm{t}S^1}$$ is not typically an equivalence.
+Nor is it true that in general $R\otimes_kk^{\mathrm{t}S^1}\simeq
+R^{\mathrm{t}S^1}$. In particular, the map above does not become an equivalence
+upon completing the left-hand side in general. Thanks to Thomas Nikolaus for
+pointing this out.
 
 # References
 
