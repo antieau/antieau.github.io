@@ -1,0 +1,233 @@
+---
+layout: post
+title:  "Best of 2020: Neeman's counterexample"
+tags: 2020 bestof
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\E{\mathrm{E}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+$
+</div>
+This is the first post in our [series]({% post_url 2020-12-16-bestof2020 %}) on my favorite work of 2020.
+
+# Schlichting's conjecture
+Let $R$ be a regular noetherian commutative ring. It has been known since the
+time of Bass and the definition of negative K-groups that $\K_n(R)=0$ for $n<0$. More generally, $\G_n(R)=0$ for $n<0$
+when $R$ is a noetherian ring. Here, $\K(R)$ is short-hand for the algebraic
+K-theory of $\Perfscr(R)$, the $\infty$-category of perfect complexes of
+$R$-modules, while $\G(R)$ denotes the algebraic $K$-theory of $\Dscr^b(R)$,
+the $\infty$-category of complexes of $R$-modules with bounded and finitely
+presented homology.
+
+When $R$ is regular and noetherian, the natural inclusion
+$\Perfscr(R)\rightarrow\Dscr^b(R)$ is an equivalence so we have $\K(R)\simeq\G(R)$
+and in particular the more general vanishing for negative G-theory implies
+vanishing for negative K-theory, in this case.
+
+In [\[5\]](#schlichting-negative), Schlichting proved that for any small abelian category
+$\Ascr$ one has
+
+$$\K_{-1}(\Dscr^b(\Ascr))=0.$$
+
+If moreover $\Ascr$ is noetherian, then an inductive argument is used to prove
+that
+
+$$\K_n(\Dscr^b(\Ascr))=0$$
+
+for all $n<0$.
+Schlichting made the following conjecture.
+
+**Conjecture**. If $\Ascr$ is any small abelian category, then
+$\K_{n}(\Dscr^b(\Ascr))=0$ for $n<0$.
+
+
+
+# Stable $\infty$-categories
+Let $\Escr$ be a stable $\infty$-category equipped with a *bounded* $t$-structure. Neeman had long ago realized that there was a
+connection between the K-theory of the triangulated homotopy category
+$\Ho(\Escr)$ and of the heart $\Escr^\heart$ of the $t$-structure, although
+this was phrased in the language of his K-theory of triangulated categories.
+For example, it is easy to check that $\K_0(\Escr^\heart)\cong\K_0(\Escr)$.
+
+Barwick proved the following fantastic theorem in [\[3\]](#barwick-negative).
+
+**Theorem**. If $\Escr$ is a stable $\infty$-category with a bounded
+$t$-structure, then the natural map
+$\K^{\cn}(\Escr^\heart)\rightarrow\K^{\cn}(\Escr)$ is an equivalence.
+
+Here, $\K^{\cn}$ denotes connective K-theory. Barwick's *Theorem of the Heart*
+implies that $\K_n(\Escr^\heart)\cong\K_n(\Escr)$ for all $n\geq 0$.
+It is natural to wonder if Barwick's theorem extends to negative degrees.
+Together with David Gepner and Jeremiah Heller, I proved the following analogs
+of Schlichting's theorems in [\[2\]](#agh).
+
+If $\Escr$ is a stable $\infty$-category with a bounded $t$-structure, then
+
+$$\K_{-1}(\Escr)=0.$$
+
+If $\Escr^\heart$ is noetherian, then
+
+$$\K_{n}(\Escr)=0$$
+
+for all $n<0$.
+
+In particular, in the case where the heart is noetherian, one gets a
+nonconnective theorem of the heart $\K(\Escr^\heart)\simeq\K(\Escr)$,[^1] simply by
+combining the vanishing results in negative degrees and Barwick's theorem of
+the heart.
+
+We then proposed a generalization of Schlichting's conjecture.
+
+**Conjecture**. If $\Escr$ is a stable $\infty$-category with a bounded
+$t$-structure, then $\K_n(\Escr)=0$ for $n<0$.
+
+
+
+# Amnon Neeman's counterexample
+Both conjectures are false! Here is the idea.
+
+Neeman considers in [3] a general idempotent complete exact category $\Escr$ and the
+associated localization sequence
+
+$$\Acscr^b(\Escr)\rightarrow\Kscr^b(\Escr)\rightarrow\Perfscr(\Escr)$$
+
+of idempotent complete stable $\infty$-categories, where $\Kscr^b(\Escr)$
+models bounded chain complexes of objects of $\Escr$ up to chain homotopy and
+$\Acscr^b(\Escr)$ is the full subcategory of acyclics.
+
+The universal property of $K$-theory implies that there is a cofiber sequence
+
+$$\K(\Acscr^b(\Escr))\rightarrow\K(\Kscr^b(\Escr))\rightarrow\K(\Perfscr(\Escr))$$
+
+of nonconnective K-theory spectra.
+
+Moreover, Neeman makes a basic but very clever observation: $\Acscr^b(\Escr)$
+always admits a bounded $t$-structure! The heart is a certain subcategory of
+the abelian category of additive functors $\Escr^\op\rightarrow\Mod_{\bZ}$.
+It follows that to disprove the generalized Schlichting conjecture, one can
+find $\Escr$ such that $\K_{-1}(\Perfscr(\Escr))\neq 0$ and where the boundary
+map
+
+$$\K_{-1}(\Perfscr(\Escr))\rightarrow\K_{-2}(\Acscr^b(\Escr))$$
+
+is non-zero.
+
+It is well-known if $X$ is a projective nodal (and non-smooth) curve over a
+field $k$, then $\K_{-1}(X)=\K_{-1}(\Perfscr(X))=\K_{-1}(\Perfscr(\mathrm{Vect}(X)))$
+is non-zero. For instance, this can be seen by using the Nisnevich descent
+spectral sequence
+
+$$\E_2^{s,t}=\H^{-s}_{\mathrm{Nis}}(X,\K_{t})\Rightarrow\K_{s+t}(X),$$
+
+which degenerates for a $1$-dimensional scheme,
+together with the fact that
+$$\H^1_{\mathrm{Nis}}(X,\K_0)\cong\H^1_{\mathrm{Nis}}(X,\bZ)\neq 0$$. Here, $\K_t$
+dentoes the Nisnevich sheafification of the presheaf $U\mapsto\K_t(U)$.
+
+Amazingly, Neeman takes this simple case, where the exact category $\Escr$ is
+$\mathrm{Vect}(X)$, and shows that it possesses the desiderata above: we already have
+that $\K_{-1}(\Perfscr(\mathrm{Vect}(X)))\neq 0$. Neeman proves that
+$\K_{-1}(\Kscr^b(\mathrm{Vect}(X)))=0$ by analyzing idempotents on complexes of
+vector bundles on the curve using slope stability. This gives the
+counterexample.
+
+Neeman also proves that in this case the natural map
+$\Dscr^b(\Acscr^b(\Escr)^\heart)\rightarrow\Acscr^b(\Escr)$ is an equivalence,
+so that he also gets a counterexample to Schlichting's original conjecture.
+
+There's not much more to say about this simple and elegant argument.
+
+
+
+# Open problems
+
+**Problem 1**.
+It remains possible that Barwick's theorem of the heart could extend to give an
+equivalence $\K(\Escr^\heart)\rightarrow\K(\Escr)$ for all stable
+$\infty$-categories with bounded $t$-structures. Prove or disprove this.
+
+**Problem 2**. Non-vanishing negative K-theory is an obstruction to regularity
+for schemes. In [\[2\]](#abg), we observed that if $X$ is a scheme with
+$\K_{-1}(X)\neq 0$, then there is no bounded $t$-structure on $\Perfscr(X)$.
+Similarly, if $\K_{n}(X)\neq 0$ for some $n<0$, then there is no bounded
+$t$-structure on $\Perfscr(X)$ with noetherian heart. We made the following
+conjecture.
+
+**Conjecture**. If $X$ is a noetherian scheme which is not regular, then there
+is no bounded $t$-structure on $\Perfscr(X)$.
+
+Neeman's counterexample complicates the search for a proof, but it is also the
+case that one can have singular schemes $X$ where $\K_{n}(X)=0$ for all
+$n<0$.[^2]
+In other words, the vanishing of negative $K$-theory is not a perfect test for
+singularities: there are false negatives.
+
+My PhD student Harry Smith showed in his thesis [\[6\]](#smith) that the conjecture is
+true for noetherian affine schemes of finite Krull dimension. He even shows more strongly that for irreducible
+noetherian affine schemes of finite Krull dimension there are no non-trivial $t$-structures at all on $\Perfscr(X)$!
+
+Resolving the conjecture in the remaining cases is the second open problem.
+Smith's methods, which rely heavily on the results of [\[1\]](#atjls) classifying compactly generated $t$-structures on the derived $\infty$-categories of noetherian commutative rings, seem quite far from extending to the non-affine case, so a significant new idea is needed.
+
+# References
+
+<span id="atjls">
+[1] Alonso Tarrio, Jeremias Lopez, and Saorin, *Compactly generated t-structures on
+the derived category of a Noetherian ring*, J. Algebra **324** (2010), no. 3, 313-346.
+</span>
+
+<span id="agh">
+[2] Antieau, Gepner, and Heller, *K-theoretic obstructions to bounded t-structures*, Invent. Math. **216** (2019), no. 1, 241-300.
+</span>
+
+<span id="barwick-heart">
+[3] Barwick, *On exact $\infty$-categories and the theorem of the heart*, Compos. Math. **151** (2015), no. 11, 2160-2186.
+</span>
+
+<span id="neeman-counterexample">
+[4] Neeman, *A counterexample to some recent conjectures*, [<tt>arXiv:2006.16536</tt>](https://arxiv.org/abs/2006.16536).
+</span>
+
+<span id="schlichting-negative">
+[5] Schlichting, *Negative K-theory of derived categories*, Math. Z. **253** (2006), no. 1, 97–134.
+</span>
+
+<span id="smith">
+[6] Smith, *Bounded t-structures on the category of perfect complexes over a
+Noetherian ring of finite Krull dimension*,
+[<tt>arXiv:1910.07697</tt>](https://arxiv.org/abs/1910.07697).
+</span>
+
+# Footnotes
+
+[^1]: At this point, $\K(\Escr^\heart)$ stands for $\K(\Dscr^b(\Escr^\heart))$.  This is the only known definition of *nonconnective* algebraic K-theory of an abelian category.
+
+[^2]: For example, if $X=\Spec(k[x]/(x^2))$ where $k$ is a field, then $\K_n(X)=0$ for $n<0$.

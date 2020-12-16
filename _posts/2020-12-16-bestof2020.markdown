@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Best of 2020"
+tags: 2020 bestof
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\E{\mathrm{E}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+$
+</div>
+I am writing this month about the papers and results I have most enjoyed or
+thought about this year. As always with such lists, exclusion is not meant to
+indicate that I have a poor opinion of a given work or paper.
+
+The first [post]({% post_url 2020-12-16-neeman2020 %}) is about Neeman's fantastic counterexample to some conjectures
+in negative K-theory.
