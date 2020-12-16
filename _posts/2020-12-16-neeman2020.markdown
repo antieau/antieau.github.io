@@ -36,7 +36,7 @@ $
 \newcommand\Spec{\mathrm{Spec}}
 $
 </div>
-This is the first post in our [series]({% post_url 2020-12-16-bestof2020 %}) on my favorite work of 2020.
+This is the first post in a [series]({% post_url 2020-12-16-bestof2020 %}) on my favorite work of 2020.
 
 # Schlichting's conjecture
 Let $R$ be a regular noetherian commutative ring. It has been known since the
