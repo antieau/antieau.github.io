@@ -92,6 +92,7 @@ Talk 8 (02/18). Finiteness results. **Deven Manam**.
 Talk 9 (02/25). The $q$-logarithm. **Adam Holeman**.
 
 Talk 10 (03/04). Fully faithfulness.
+
 Talk 11 (03/11). Essential surjectivity.
 
 Talk 12 (03/18). Mondal’s paper [\[3\]](#mondal). **Artem Prikhodko**.
