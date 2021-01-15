@@ -1,0 +1,381 @@
+---
+layout: post
+title:  "Best of 2020: the filtered circle"
+tags: 2020 bestof
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+$
+</div>
+
+<!--ë-->
+
+This is the second post in a [series]({% post_url 2020-12-16-bestof2020 %}) on my favorite work of 2020.
+
+Two recent papers, those of Moulinos, Robalo, and Toën [\[1\]](#mrt) and Raksit [\[2\]](#raksit),
+explain the existence of the Hochschild--Kostant--Rosenberg
+filtration on Hochschild homology via the existence of a *filtered
+circle*.
+
+We will let $k$ be a base commutative ring and $R$ be any commutative $k$-algebra.
+In fact, it is possible to allow $k$ and $R$ to be more generally *animated
+commutative rings* or even so-called *derived commutative rings* in the sense of
+Bhatt and Mathew. The theory of animated commutative rings (terminology of Clausen) is the
+$\infty$-category underlying the homotopy theory of simplicial commutative
+rings and weak equivalences, while derived commutative rings are a nonconnective generalization. These notions are important for expressing the
+correct universal properties of the theories that arise here.
+
+# Hochschild homology
+
+Let $\aCAlg_k$ denote the $\infty$-category of animated commutative rings and
+let $\aCAlg_k^{BS^1}\simeq\Fun(BS^1,\aCAlg_k)$ denote the $\infty$-category of
+animated commutative rings with a circle action. Choosing a basepoint $x\in
+BS^1$, there is an evident forgetful functor
+
+$$x^*\colon\aCAlg_k^{BS^1}\rightarrow\aCAlg_k.$$
+
+Hochschild homology is defined to be the *left adjoint*
+
+$$x_!\colon\aCAlg_k\rightarrow\aCAlg_k^{BS^1}.$$
+
+Often, this left adjoint is written $x_!R\simeq S^1\otimes_k R$, but I prefer to
+use the copower $x_!R\simeq {^{S^1}R}$. In any case, we will write
+
+$$\HH(R/k)=x_!R.$$
+
+The universal property is evident: given an animated commutative ring $S$ with
+circle action, there is a natural equivalence
+
+$$\{\text{maps $R\rightarrow S$}\}\simeq\{\text{$S^1$-equivariant maps $\HH(R/k)\rightarrow
+    S$}\}.$$
+
+
+
+# The HKR filtration
+
+When $R$ is a smooth commutative $k$-algebra, there are canonical isomorphisms
+$$\Omega^i_{R/k}\cong\HH_i(R/k).$$ From this, we can build for any animated
+commutative $k$-algebra $R$ a complete decreasing
+filtration $\F^\star\HH(R/k)$ on Hochschild homology with
+
+$$\gr^i\HH(R/k)\simeq\Lambda^i\L_{R/k}[i]$$
+
+by left Kan extending the Whitehead tower on $\HH(R/k)$
+in the polynomial case.
+
+**Question**. Where does the HKR filtration come from? Does it admit a
+universal property similar to the one given above for Hochschild homology
+itself?
+
+This is the question answered by the papers of Moulinos--Robalo--Toën and
+Raksit.
+
+
+
+# Weighing down the circle
+
+Let $R$ be a smooth commutative $k$-algebra. The Postnikov filtration
+on $\HH(R/k)$ is a filtration by complexes with $S^1$-action. It follows that
+in general the HKR filtration $\F^\star\HH(R/k)$ is a filtered complex with
+$S^1$-action. The circle acts trivially on the graded pieces. However, we would
+like the circle to act in such a way as to recover the classical `B-operator' on
+Hochschild homology, which gives the de Rham differential
+$\Omega^i_{R/k}\rightarrow\Omega^{i+1}_{R/k}$ in the smooth case. 
+
+Here, note that giving a complex with $S^1$-action amounts to giving a dg
+module over the chain algebra $\C_\bullet(S^1,k)$. If we let $B$ be a generator
+of $\H_1(S^1,k)$, then we get an operator $B\colon
+\HH(R/k)\rightarrow\HH(R/k)[-1]$. However, on the associated gradeds of the HKR
+filtration, this operator
+
+$$B\colon\gr^\star\HH(R/k)\rightarrow\gr^\star\HH(R/k)[-1]$$
+
+is necessarily nullhomotopic as each
+$\Lambda^i\L_{R/k}[i]\rightarrow\Lambda^i\L_{R/k}[i-1]$ is nullhomotopic.[^1]  What we want instead is for $B$ to have weight
+$1$ so that it induces an operator
+
+$$B\colon\gr^\star\HH(R/k)\rightarrow\gr^{\star+1}\HH(R/k)[-1]$$
+
+which on graded pieces is the de Rham differential
+
+$$d\colon\Lambda^i\L_{R/k}[i]\rightarrow\Lambda^{i+1}\L_{R/k}[i].$$
+
+Moulinos--Robalo--Toën and
+Raksit attack this problem in different ways. The former is essentially
+geometric, and works over $\bZ_{(p)}$, while the latter is essentially
+algebraic and works over $\bZ_{(p)}$. The geometric approach crucially uses the
+perspective that filtered complexes are quasicoherent sheaves on $\bA^1/\Gm$.
+In this picture, the underlying object being filtered is the value of the
+quasicoherent sheaf at the generic point $\Gm/\Gm\simeq\ast$ while the associated
+graded is the restriction at $0/\Gm$.
+
+# The MRT approach
+
+Moulinos--Robalo--Toën construct in [\[1\]](#mrt) a group scheme
+$\bH_{p^\infty}$ over
+$\bA^1/\Gm$ which correctly interpolates between the circle at the generic
+point and the homology of the circle at the special fiber. (See Definition 2.3.7.)
+
+From now on, we assume that our base $k$ is a commutative $\bZ_{(p)}$-algebra.
+Let $\bW$ be the ring scheme of $p$-typical Witt vectors. As sheaf of sets,
+$\bW$ is equivalent to $\prod_{i=0}^\infty\bG_a$, but this ignores the
+additive and multiplicative structures on both sides.
+There is a Frobenius endomorphism $F\colon\bW\rightarrow\bW$. The authors
+define
+
+$$\mathbf{Ker}=\ker(F)$$
+
+and
+
+$$\mathbf{Fix}=\ker(1-F).$$
+
+These are both group schemes.
+
+**Theorem** (MRT [\[1\]](#mrt)). The group stack $B\bH_{p^\infty}$ over
+$\bA^1/\Gm$ has underlying group stack $B\mathbf{Fix}$ and associated graded $B\mathbf{Ker}$. The cohomology of $B\mathbf{Ker}$ is the
+cohomology of the circle $\H^\star(S^1,k)$ as a graded object. The classifying stack $B\mathbf{Fix}$ is the
+affinization of the circle; in particular, $$\C^\bullet(B\mathbf{Fix},\Oscr)\simeq\C^\bullet(S^1,k)$$ as $\bE_\infty$-rings.
+
+One can summarize by saying that $\bH_{p^\infty}$ *is* a filtration on $\mathbf{Fix}$ with
+associated graded $\mathbf{Ker}$.
+
+**Definition**. The filtered circle is defined to be the group stack
+$$S^1_\fil=B\bH_{p^\infty}$$ over $\bA^1/\Gm$.
+
+To construct a filtered version of Hochschild homology, recall first that if
+$X=\Spec(R)$, then the (derived) loop stack $\Lscr X=X^{S^1}\simeq\bMap_k(S^1,X)$ has global sections
+$$\C^\bullet(\Lscr X,\Oscr)\simeq\HH(R/k)$$. The group $S^1$ acts via rotation
+of loops.
+
+Now, given $X=\Spec(R)$ over $\Spec k$, we can form the filtered loop stack
+
+$$\Lscr_\fil X=\bMap_{\bA^1/\Gm}(S^1_\fil,X\times \bA^1/\Gm).$$
+
+**Definition**.
+The global sections $$\C^\bullet(\Lscr_\fil X,\Oscr)$$ is defined to be
+$\HH_\fil(R/k)$. It is a
+quasicoherent sheaf on $\bA^1/\Gm$ with $S^1_\fil$-action. By the previous
+theorem, the underlying object is $\HH(R/k)$.
+
+**Theorem** (MRT). The associated graded of $\HH_\fil(R/k)$ is
+$$\Lambda^\star\L_{R/k}[\star]$$ with action by $$\gr^\star S^1_\fil$$ given by the
+de Rham differential. Moreover, upon taking $S^1_\fil$-fixed points
+$$\HH_\fil(R/k)^{\h S^1_\fil}$$, one
+obtains a filtration on $\HC^-(R/k)=\HH(R/k)^{\h S^1}$ with
+
+$$\gr^n\HC^-(R/k)\simeq\widehat{\dR}_{R/k}^{\geq n}[2n],$$
+
+where $\widehat{\dR}_{R/k}$ denotes Hodge-complete derived de Rham cohomology.
+
+For more on this filtration, see our previous [post]({%- post_url 2020-12-02-hpexample -%}).
+
+
+
+# Raksit's approach
+
+The approach here is somewhat different. Raksit works directly with the circle
+and upgrades it to a filtered object, without affinization.
+
+Writes $\bT$ for
+$\C_\bullet(S^1,k)$. This is a bicommutative bialgebra in $\D(k)$ and we
+have $\Mod_{\bT}(\D(k))\simeq\D(k)^{BS^1}$. In particular, the symmetric
+monoidal structure on $\D(k)^{BS^1}$ comes from the
+$\bE_\infty$-comultiplication on $\bT$. Raksit lets $\bT_\fil$ denote
+$\tau_{\geq\star}\bT$, the Whitehead tower of $\bT$ viewed as a filtered object. This turns out again to be
+a bicommutative bialgebra, this time in $\F\D(k)=\Fun(\bZ^\op,\D(k))$, the $\infty$-category of decreasing filtrations. By definition, a complex
+with *filtered circle action* is a $\bT_\fil$-module in $\F\D(k)$.
+
+In order to study Hochschild homology, we must bring some notion of derived
+commutative rings into play. For this, Raksit finds it more appropriate to work
+with the dual object $\bT_\fil^\vee$, which is the Whitehead filtration of
+*cochains* on the circle. Note that $\bT_\fil$-modules in $\F\D(k)$ are
+equivalent to $\bT_\fil^\vee$-comodules.
+
+The advantage of $\bT_\fil^\vee$ is that the algebra structure is derived
+commutative and moreover the comultiplication makes $\bT_\fil^\vee$ into an
+$\bE_\infty$-coalgebra in $\dCAlg(\F\D(k))$, the $\infty$-category of derived
+commutative rings in filtered complexes (a notion which Raksit defines). By definition a derived
+commutative algebra in filtered complexes *with filtered $S^1$-action* is a
+$\bT_\fil^\vee$-comodule in $\dCAlg(\F\D(k))$.
+
+Now, there is a limit-preserving functor
+
+$$\coMod_{\bT_\fil^\vee}(\dCAlg(\F\D(k)))\rightarrow\dCAlg_k$$
+
+obtained by forgetting the $\bT_\fil$-action to obtain derived commutative
+algebra $\F^\star S$ and then taking $\F^0S$.
+
+Raksit defines *filtered Hochschild homology* as the left adjoint
+
+$$\HH_\fil(-/k)\colon\dCAlg_k\rightarrow\coMod_{\bT_\fil^\vee}(\dCAlg(\F\D(k))).$$
+
+The universal property becomes the following: given a derived commutative filtered ring $\F^\star S$ with
+filtered circle action, there is a natural equivalence
+
+$$\{\text{maps $R\rightarrow \F^0 S$}\}\simeq\{\text{$\bT_\fil$-equivariant maps $\HH_\fil(R/k)\rightarrow
+    \F^\star S$}\}.$$
+
+
+
+**Theorem** (Raksit [\[2\]](#raksit)). If $R$ is an animated commutative
+$k$-algebra, $\HH_\fil(R/k)$ is equivalent to $\HH(R/k)$ with the HKR
+filtration (as animated commutative rings with $S^1$-action). Moreover, the
+associated graded $\gr^\star\HH_\fil(R/k)$ *is* Hodge-complete derived de Rham
+cohomology.
+
+Let us explain the final sentence. Consider first the difference between a
+$\bT$-module $\F^\star X$ in $\F\D(k)$ versus a $\bT_\fil$-module $\F^\star Y$. In the first case, on associated gradeds we get a graded $\bT$-module $\gr^\star X$ where $\bT$ has weight $0$.
+For the second, we get a $\gr^\star\bT_\fil$-module $\gr^\star Y$. But,
+$$\gr^\star\bT_\fil\simeq k\oplus k[1](1)$$. In particular, the action map
+$\gr^\star\bT_\fil\otimes_k\gr^\star Y\rightarrow\gr^\star Y$ induces maps
+$\gr^{\star}Y\rightarrow\gr^{\star+1}Y[-1]$.
+
+Now, $\gr^\star\HH_\fil(R/k)$ is a $\gr^\star\bT_\fil$-module. Let $\Gr\D(k)$ be
+the $\infty$-category of $\bZ$-graded complexes. There is a *shear
+down*
+equivalence $\Gr\D(k)\xrightarrow{[-2\star]}\Gr\D(k)$ which sends a graded
+object $X(\star)$ to $X(\star)[-2\star]$.
+The shear down equivalence is symmetric monoidal. In particular, if we shear
+down, we get an action of $$\gr^\star\bT_\fil[-2\star]\simeq k\oplus k[-1](1)$$ on
+$$\gr^\star\HH_\fil(R/k)[-2\star]\simeq\Lambda^\star\L_{R/k}[-\star]$$.
+The action of this sheared down graded circle, gives the derived de Rham
+complex as a homotopy coherent chain complex:
+
+$$R\rightarrow\L_{R/k}\rightarrow\Lambda^2\L_{R/k}\rightarrow\cdots.$$
+
+Raksit also establishes the de Rham filtrations on $\HC^-(R/k)$ and
+$\HP(R/k)$ by applying the homotopy fixed points $\HH_\fil(R/k)^{\h\bT_\fil}$ or
+Tate construction $\HH_\fil(R/k)^{\t\bT_\fil}$, respectively.
+
+As a bonus, Raksit also proves a universal property for Hodge-complete derived
+de Rham cohomology which is obtained by shearing down the associated graded of
+the universal property for $\bT_\fil$-equivariant filtered Hochschild homology.
+
+
+
+# Final remarks
+
+Each of the papers discussed here contains a lot more material than I've
+written about.
+There is some nice material in MRT on the geometry of the Witt vectors and
+affinization,
+while Raksit has written on derived algebraic contexts, a notion to
+formalize some constructions of Bhatt and Mathew. Both of these will see
+a lot of use in the future.
+
+There is one thing that remains to be done: show that the filtered circles of
+MRT and Raksit agree in some appropriate sense. Specifically, I expect that
+
+$$\Mod_{\bT_\fil}\F\D(k)\simeq\D(B^2\bH_{p^\infty})$$
+
+as symmetric monoidal $\infty$-categories (and even as commutative $\F\D(k)$-algebras).
+This is alluded to in Remark 4.2.5 of MRT without proof.
+
+
+
+# References
+
+<!-- 
+<span id="antieau">
+[1] Antieau, *Periodic cyclic homology and derived de Rham cohomology*, Ann.
+K-Theory **4** (2019), no. 3, 505-519.
+
+<span id="bms2">
+[2] Bhargav Bhatt, Matthew Morrow, and Peter Scholze, *Topological Hochschild homology and integral p-adic Hodge theory*, Publ. Math. Inst. Hautes Études Sci.
+**129** (2019), 199–310.
+</span>
+
+<span id="feigin-tsygan">
+[3] Feĭgin, Tsygan,
+_Cyclic homology of algebras with quadratic relations, universal enveloping algebras and group algebras_ in K-theory, arithmetic and geometry (Moscow, 1984–1986), 210–239,
+Lecture Notes in Math., **1289**, Springer, Berlin, 1987.
+</span>
+
+<span id="kassel">
+[4] Kassel, _Cyclic homology, comodules, and mixed complexes_,
+J. Algebra **107** (1987), no. 1, 195–216.
+</span>
+
+<span id="loday">
+[5] Loday, _Cyclic homology_, second ed., vol. **301**, Springer-Verlag, Berlin, 1998.
+</span>
+
+<span id="majadas">
+[6] Majadas, *Derived de Rham complex and cyclic homology*, 
+Mathematica Scandinavica **79**, no. 2 (1996), pp. 176-188.
+</span>
+-->
+
+<span id="mrt">
+[1] Moulinos, Robalo, and Toën, _A universal HKR theorem_, [<tt>arXiv:1906.00118</tt>](https://arxiv.org/abs/1906.00118).
+</span>
+
+<span id="raksit">
+[2] Raksit, _Hochschild homology and the derived de Rham complex
+revisited_,
+[<tt>arXiv:2007.025760</tt>](https://arxiv.org/abs/2007.02576).
+</span>
+
+<!--
+<span id="tv-simpliciales">
+[9] Toën, Vezzosi, *Algèbres simpliciales S1-équivariantes, théorie de de Rham et théorèmes HKR multiplicatifs*,
+Compos. Math. **147** (2011), no. 6, 1979–2000.
+</span>
+-->
+
+# Footnotes
+
+[^1]: Here we use that the circle acts trivially on any (shifted) discrete complex. Since the HKR filtration has (shifted) discrete graded pieces in the smooth case, the circle action is trivial on the graded pieces in general.

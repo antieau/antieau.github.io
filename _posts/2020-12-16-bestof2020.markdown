@@ -42,3 +42,6 @@ indicate that I have a poor opinion of a given work or paper.
 
 The first [post]({% post_url 2020-12-16-neeman2020 %}) is about Neeman's fantastic counterexample to some conjectures
 in negative K-theory.
+
+The second [post]({% post_url 2021-01-15-filtered2020 %}) is about the filtered
+circle(s) of Moulinos--Robalo--Toën and Raksit.
