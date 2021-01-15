@@ -1,0 +1,123 @@
+---
+layout: seminar
+term: 2021 Winter
+title: Prismatic Dieudonné theory
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+$
+</div>
+
+We will follow, with some minor modifications, the Bonn
+[syllabus](https://www.math.uni-bonn.de/people/scholze/ARGOS_WS1920.pdf) from one year ago to study the paper on
+prismatic Dieudonn\'e theory from Anschütz and Le Bras [\[1\]](#alb), concluding with an addendum for
+Mondal's paper [\[3\]](#mondal) on the stacky approach to the theory.
+
+The seminar meets from 1300 to 1500 central time on Thursdays.
+
+# Syllabus
+
+Talk 1 (01/14). Classical Dieudonné theory over perfect fields of characteristic $p>0$. **Bao Le Hung**.
+
+Talk 2 (01/21). The crystalline Dieudonné module. **Benjamin Antieau**.
+
+Talk 3 (01/28). Dieudonné theory over perfect rings of characteristic $p>0$.
+**Micah Darrell**.
+
+Talk 4 (skip). Dieudonné theory over $\Oscr_C$.
+
+Talk 5 (02/04). Prisms and perfectoid rings. **Eivind Hjelle**.
+
+Talk 5.5 (02/04). Prismatic cohomology. Go over the main results of the Bhatt-—Scholze paper [\[2\]](#bs) on prismatic cohomology. **Carlos Cortez**.
+
+Talk 6 (02/11). Filtered prismatic Dieudonné crystals. **Elchanan Nafcha**.
+
+Talk 7 (02/18). Definition of the functor.
+
+Talk 8 (02/18). Finiteness results. **Deven Manam**.
+
+Talk 9 (02/25). The $q$-logarithm. **Adam Holeman**.
+
+Talk 10 (03/04). Fully faithfulness.
+Talk 11 (03/11). Essential surjectivity.
+
+Talk 12 (03/18). Mondal’s paper [\[3\]](#mondal). **Artem Prikhodko**.
+
+# References
+
+
+<span id="alb">
+[1] Anschütz and Le Bras, Prismatic Dieudonné theory, [<tt>arXiv:1907.10525</tt>](https://arxiv.org/abs/1907.10525).
+</span>
+
+<span id="bs">
+[2] Bhatt and Scholze, Prisms and prismatic cohomologhy,
+    [<tt>arXiv:1905.08229</tt>](https://arxiv.org/abs/1905.08229).
+</span>
+
+<span id="mondal">
+[3] Mondal, Dieudonné theory via cohomology of classifying stacks,
+[<tt>arXiv:2002.05413</tt>](https://arxiv.org/abs/2002.05413).
+</span>
+
+<!--
+<span id="tv-simpliciales">
+[9] Toën, Vezzosi, *Algèbres simpliciales S1-équivariantes, théorie de de Rham et théorèmes HKR multiplicatifs*,
+Compos. Math. **147** (2011), no. 6, 1979–2000.
+</span>
+-->
+
+

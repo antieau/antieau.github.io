@@ -42,6 +42,10 @@ author:
     city: Evanston, IL 60208
     country: USA
 
+collections:
+    seminars:
+        output: true
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
