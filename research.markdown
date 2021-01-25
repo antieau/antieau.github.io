@@ -16,7 +16,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 [37]  B. Antieau and E. Elmanto, _Descent for semiorthogonal decompositions_, submitted. \[[arxiv:1912](https://arxiv.org/abs/1912.08970)\].
 
-[36]  B. Antieau, B. Bhatt, and A. Mathew, _Counterexamples to Hochschild-Kostant-Rosenberg in characteristic p_, submitted. \[[arxiv:1909](https://arxiv.org/abs/1909.11437)\]. \[[Video](https://northwestern.zoom.us/rec/share/tMZeF-r3_FxOQIGTzVDiZoszHt6iX6a82yAf-vILzkupReKlAhITZRWnsoenib4r?startTime=1590005802000)\].
+[36]  B. Antieau, B. Bhatt, and A. Mathew, _Counterexamples to Hochschild-Kostant-Rosenberg in characteristic p_, to appear in Forum of Mathematics, Sigma. \[[arxiv:1909](https://arxiv.org/abs/1909.11437)\]. \[[Video](https://northwestern.zoom.us/rec/share/tMZeF-r3_FxOQIGTzVDiZoszHt6iX6a82yAf-vILzkupReKlAhITZRWnsoenib4r?startTime=1590005802000)\].
 
 [35]  B. Antieau and D. Bragg, _Derived invariants from topological Hochschild homology_, submitted. \[[arxiv:1906](https://arxiv.org/abs/1906.12267)\].
 
