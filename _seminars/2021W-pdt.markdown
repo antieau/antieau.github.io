@@ -85,7 +85,7 @@ Talk 5.5 (02/04). Prismatic cohomology. Go over the main results of the Bhatt-‚Ä
 
 Talk 6 (02/11). Filtered prismatic Dieudonn√© crystals. **Elchanan Nafcha**.
 
-Talk 7 (02/18). Definition of the functor.
+Talk 7 (02/18). Definition of the functor. **Joel Stapleton**.
 
 Talk 8 (02/18). Finiteness results. **Deven Manam**.
 
