@@ -1,0 +1,206 @@
+---
+layout: post
+title:  "arXiv reviews 1: K-theory and polynomial functors"
+stitle: "XR 1: K-theory and polynomial functors"
+tags: 2021 XR
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+$
+</div>
+
+<!--ë-->
+
+The long-awaited paper [\[1\]](#bgmn) of Barwick, Glasman, Mathew, and Nikolaus has arrived.
+They prove that the algebraic $K$-theory space functor
+$$\K\colon\Cat_\infty^\perf\rightarrow\Sscr$$ extends to a functor
+$$\Cat_\infty^\poly\rightarrow\Sscr,$$ where $\Cat_\infty^\poly$ is the
+$\infty$-category of idempotent-complete stable $\infty$-categories and
+polynomial functors, in the sense of Goodwillie calculus.
+Moreover, the paper generalizes the main result of Blumberg--Gepner--Tabuada [\[2\]](#bg1) to prove that $K$-theory admits a universal property among all polynomial functors to spaces.
+
+Recall that [\[2\]](#bgt1) gives a universal property of algebraic $K$-theory as a
+functor on stable $\infty$-categories and exact functors. This result has been
+the bedrock of many of the major results in $K$-theory in the past 10 years. Of
+those, I give special mention to the work of Kerz--Strunk--Tamme proving
+Weibel's conjecture, Tamme and Land--Tamme on excision, the collaboration of
+various among Clausen, Mathew, Naumann, and Noel on nilpotence and descent in
+algebraic $K$-theory, the work of Clausen, Mathew, and Morrow on descent and
+rigidity in algebraic $K$-theory, and finally the work of Land, Meier, Tamme
+(now with Mathew!) on telescopically localized $K$-theory.
+
+One common feature of the works above is the interplay between the
+universal and the specific. While the universal property enjoyed by $K$-theory
+is used throughout, it is the study of what makes $K$-theory special
+among localizing or additive invariants that has attracted attention and made
+the area so interesting.
+
+The present paper expands on this theme by endowing algebraic $K$-theory with
+additional functoriality, generalizing, for example, the existence
+the $\lambda$-ring structure on $\K_0(R)$ when $R$ is commutative.
+This functoriality is not present on other well-studied localizing invariants,
+such as topological Hochschild homology.
+
+Let me say something about the precise statement of the theorem and the proof.
+
+**Definition**. Let $\Cscr$ and $\Dscr$ be idempotent-complete stable $\infty$-categories. A
+functor $F\colon\Cscr\rightarrow\Dscr$ is polynomial of degree $0$ if it is
+constant. Inductively, $F$ is polynomial of degree $\leq n$ for some $n\geq 1$
+if it preserves finite geometric realizations (i.e., geometric realizations of
+        diagrams which are left Kan extended from $\Delta_{\leq
+        d}^\op\subseteq\Delta^\op$ for some $d\geq 0$) and if for each $X\in\Cscr$ the
+functor
+
+$$D_XF(-)=\mathrm{fib}(F(X\oplus(-))\rightarrow F(-))$$
+
+is polynomial of degree $\leq n-1$.
+
+**Examples**. 
+- Exact functors are polynomial of degree $\leq 1$.
+- If $\Cscr$ is a symmetric monoidal idempotent-complete stable
+$\infty$-category, then the functor $X\mapsto X^{\otimes n}$ is polynomial of
+degree $\leq n$.
+- The derived functors $\L\mathrm{Sym}^n$, $\L\Lambda^n$, and $\L\Gamma^n$ on
+$\mathrm{Perf}(\bZ)$ of the
+symmetric, exterior, and divided powers are polynomial of degree $\leq n$.
+
+Fix a regular uncountable cardinal $\kappa$ and let
+$\Cat_{\infty,\kappa}^\perf\subseteq\Cat_\infty^\perf$ be the full subcategory
+of $\kappa$-compact objects. Let
+$\Cat_{\infty,\kappa}^\poly\subseteq\Cat_{\infty}^\poly$ be the full
+subcategory on the objects which are $\kappa$-compact in $\Cat_\infty^\perf.$
+One has a natural functor
+$\Cat_{\infty,\kappa}^\perf\rightarrow\Cat_{\infty,\kappa}^\poly$.
+
+We are interested in product preserving functors $L$ on
+$\Cat_{\infty,\kappa}^\perf$ or $\Cat_{\infty,\kappa}^\poly$ with values in
+spaces (or, better, animae). Such functors
+have the property that $L(\Cscr)$ is an $\bE_\infty$-space (a highly structured
+version of an infinite loop space) and this is natural in exact
+functors, but not polynomial functors.
+We call such a functor **additive** if the abelian monoid $\pi_0(\Cscr)$ is an
+abelian group for every $\Cscr$ and if for any split exact sequence
+$\Cscr\rightarrow\Dscr\rightarrow\Escr$ in the sense of [\[2\]](#bgt1) the induced map
+$L(\Dscr)\rightarrow\L(\Cscr)\times\L(\Escr)$ is an equivalence. Note that this
+depends only on the restriction of the functor to $\Cat_{\infty,\kappa}^\perf$.
+If $L$ is a
+functor $\Cat_{\infty,\kappa}^\poly$, let $L^{\perf}$ denote its restriction to
+$\Cat_{\infty,\kappa}^\perf$.
+
+There is a universal **additivization** $L^\mathrm{ad}$ of a product preserving functor on
+$\Cat_{\infty,\kappa}^\perf$ and a universal **polynomial additivization**
+$L^\mathrm{pad}$ of a product preserving functor on
+$\Cat_{\infty,\kappa}^\poly$. The main theorem relates the two. 
+
+**Theorem**. For any product preserving functor
+$L\colon\Cat_{\infty,\kappa}^\perf$, the natural map
+$L^{\perf,\mathrm{ad}}\rightarrow L^{\mathrm{pad},\perf}$ is an equivalence.
+
+The theorem implies the polynomial functoriality of $K$-theory as follows. Let
+$\iota$ denote the functor which takes $\Cscr$ to its underlying space of
+objects. This is naturally a product preserving functor
+$\iota\colon\Cat_{\infty,\kappa}^\poly\rightarrow\Sscr$.
+The main result of [\[2\]](#bgt1) implies that $\iota^{\perf,\mathrm{ad}}\simeq\K$. Thus,
+the theorem above implies that $\K\simeq\iota^{\mathrm{pad},\perf}$. In
+particular,
+$\iota^{\mathrm{pad}}\colon\Cat_{\infty,\kappa}^\poly\rightarrow\Sscr$ is
+the algebraic $K$-theory space functor with its polynomial functoriality.
+
+The strategy of the proof is as follows. First the authors produce polynomial
+functoriality
+on the additive Grothendieck group functor $\K_0^\oplus$. This goes back to
+work of Dold and Joukhovitski and relies on a simple observation about
+polynomial functions, namely, that if $M$ is an abelian monoid, $M^+$ its group
+completion, and $A$ an abelian group, the natural restriction map
+
+$$\mathrm{Hom}_{\leq n}(M^+,A)\rightarrow\mathrm{Hom}_{\leq n}(M,A)$$
+
+on polynomial functions of degree $\leq n$ is a bijection.
+
+Second, one produces polynomial functoriality on the Grothendieck group functor
+$\K_0$, obtained from $\K_0^\oplus$ by further killing the classes
+$[B]-[A]-[C]$ whenever $A\rightarrow B\rightarrow C$ is an exact sequence.
+This leverages the fact that polynomial functors preserve finite geometric
+realizations and the Čech complex of $B\rightarrow C$ to reduce to
+the split case.
+
+Third and finally, the authors show that a compatibility between the two
+additivization localizations. This relies on the notion of a universal
+$K$-equivalence $\Cscr\rightarrow\Dscr$ and the fact that a certain
+construction $\Gamma_n(-)$ preserves universal $K$-equivalences. Here,
+$\Gamma_n\Cscr$ is an idempotent-complete stable $\infty$-category with the
+property that exact functors $\Gamma_n\Cscr\rightarrow\Dscr$ correspond to
+polynomial functors $\Cscr\rightarrow\Dscr$ of degree $\leq n$. The point is
+that universal $K$-equivalences are checked in $\K_0$, so the previous
+polynomial functoriality on $\K_0$ completes the proof.
+
+
+
+# References
+
+<span id="bgmn">
+[1] Barwick, Glasman, Mathew, and Nikolaus, _K-theory and polynomial functors_, [<tt>arXiv:2102.00936</tt>](https://arxiv.org/abs/2102.00936).
+</span>
+
+<span id="bgt1">
+[2] Blumberg, Gepner, and Tabuada, _A universal characterization of higher algebraic K-theory_,
+Geom. Topol. **17** (2013), no. 2, 733–838.
+</span>
+
