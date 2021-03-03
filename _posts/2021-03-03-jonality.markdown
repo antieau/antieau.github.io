@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "Jonality"
+tags: 2021
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+$
+</div>
+
+<!--ë-->
+
+[Asher Auel](https://math.dartmouth.edu/~auel/) and I have discussed the following definition, which is fun to think
+about.
+
+**Jonality**. Let $X$ be an algebraic variety over a field $k$. The *jonality*
+of $X$ is the smallest $g$ such that there exists a smooth proper geometrically connected curve $C$ of genus $g$
+defined over $k$ and a *non-constant* morphism $C\rightarrow X$.
+
+Jonality is pronounced as in "Johan" plus "gonality".
+
+The jonality of a curve of genus $g$ is ... $g$.
+
+The jonality of projective space $\bP^r$ is $0$ since $\bP^r$ contains lines.
+
+The jonality of a degree $d$ hypersurface $X$ in $\bP^r$ is at most the jonality of
+a degree $d$ smooth plane curve, i.e., $\frac{(d-1)(d-2)}{2}$ since we can
+intersect $X$ with $(r-2)$ generic hyperplanes. But, the jonality is typically
+smaller: think of the lines in a cubic surface.
+
+If $A$ is a simple abelian $g$-fold, its jonality is at least $g$. If
+additionally $A$ is not isogeneous to a Jacobian, then the jonality is at least
+$g+1$.
+
+The jonality of K3 surfaces is interesting: apparently it is zero (at least over $\bC$).
+
+The previous examples were geometric in nature. The jonality is also an
+interesting arithmetic invariant. Asher Auel and I are working on the open problem of whether every Severi--Brauer variety $X$ defined over a field $k$ contains a (possibly singular
+genus $1$ curve). In other words, we are asking whether the jonality of $X$ is
+at most $1$. This was a question asked, in different terms, by Pete Clark and
+David Saltman.
+
+Let $D$ be a division algebra of degree $d$ and let $X$ be its
+Severi--Brauer variety, an étale-twisted form of $\bP^{d-1}$. If $d=2$, then
+$X$ is a genus $0$ curve so its jonality is $0$. If $d\geq 3$, then $X$ contains no
+maps from any (geometrically) rational curve, so its jonality is at least $1$.
+
+If $d=3,4,5$, then Johan de Jong and Wei Ho showed [\[1\]](#dejongho) that there is a genus $1$ curve
+mapping to $X$; i.e., the jonality is $1$ in these cases. Auel has proved the
+same result for $d=6$ using cohomological techniques to combine the cases of
+$d=2,3$.
+
+Above $d=6$, little is known in general. Recently, with an observation of Saltman, Auel
+and I proved the following theorem.
+
+**Theorem**. If $D$ is a division algebra of degree $7$ over a *global* field
+of characteristic prime to $7$,
+then $D$ is split by a genus $1$ curve; i.e., the jonality of the
+Severi--Brauer variety of $D$ is $1$.
+
+This result will appear in forthcoming work which also gives new examples in
+degrees $8,9,10$. In the meantime, I would be very interested to hear of other
+arithmetically interesting cases of jonality computations.
+
+# References
+
+<span id="dejongho">
+[1] de Jong and Ho, _Genus one curves and Brauer--Severi varieties_, Math. Res.
+Lett. **19** (2012), no. 6, 1357-1359.
+[<tt>arXiv:1207.4810</tt>](https://arxiv.org/abs/1207.4810).
+</span>
