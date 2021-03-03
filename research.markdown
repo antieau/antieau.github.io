@@ -14,7 +14,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 [38]  B. Antieau and R. Datta, _Valuation rings are derived splinters_, to appear in Math. Z. \[[arxiv:2002](https://arxiv.org/abs/2002.01067)\].
 
-[37]  B. Antieau and E. Elmanto, _Descent for semiorthogonal decompositions_, Adv. Math. **380**, 26 March 2021, \[[Advances](https://doi.org/10.1016/j.aim.2021.107600)\]. \[[arxiv:1912](https://arxiv.org/abs/1912.08970)\].
+[37]  B. Antieau and E. Elmanto, _Descent for semiorthogonal decompositions_, Adv. Math. **380**, 26 March 2021. \[[Advances](https://doi.org/10.1016/j.aim.2021.107600)\]. \[[arxiv:1912](https://arxiv.org/abs/1912.08970)\].
 
 [36]  B. Antieau, B. Bhatt, and A. Mathew, _Counterexamples to Hochschild-Kostant-Rosenberg in characteristic p_, to appear in Forum of Mathematics, Sigma. \[[arxiv:1909](https://arxiv.org/abs/1909.11437)\]. \[[Video](https://northwestern.zoom.us/rec/share/tMZeF-r3_FxOQIGTzVDiZoszHt6iX6a82yAf-vILzkupReKlAhITZRWnsoenib4r?startTime=1590005802000)\].
 
