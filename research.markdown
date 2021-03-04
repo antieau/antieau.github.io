@@ -12,7 +12,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 [39] B. Antieau and B. Williams, _The topological period-index conjecture_, to appear in Mathematical Research Letters. \[[arxiv:2003](https://arxiv.org/abs/2003.10539)\].
 
-[38]  B. Antieau and R. Datta, _Valuation rings are derived splinters_, to appear in Math. Z. \[[arxiv:2002](https://arxiv.org/abs/2002.01067)\].
+[38]  B. Antieau and R. Datta, _Valuation rings are derived splinters_, Math. Z., 3 March 2021. \[[Math. Z.](https://doi.org/10.1007/s00209-020-02683-6)\]. \[[arxiv:2002](https://arxiv.org/abs/2002.01067)\].
 
 [37]  B. Antieau and E. Elmanto, _Descent for semiorthogonal decompositions_, Adv. Math. **380**, 26 March 2021. \[[Advances](https://doi.org/10.1016/j.aim.2021.107600)\]. \[[arxiv:1912](https://arxiv.org/abs/1912.08970)\].
 
