@@ -104,7 +104,7 @@ Severi--Brauer variety, an étale-twisted form of $\bP^{d-1}$. If $d=2$, then
 $X$ is a genus $0$ curve so its jonality is $0$. If $d\geq 3$, then $X$ contains no
 maps from any (geometrically) rational curve, so its jonality is at least $1$.
 
-If $d=3,4,5$, then Johan de Jong and Wei Ho showed [\[1\]](#dejongho) that there is a genus $1$ curve
+If $d=3,4,5$, then Johan de Jong and Wei Ho showed [\[3\]](#dejongho) that there is a genus $1$ curve
 mapping to $X$; i.e., the jonality is $1$ in these cases. Auel has proved the
 same result for $d=6$ using cohomological techniques to combine the cases of
 $d=2,3$.
@@ -121,10 +121,56 @@ This result will appear in forthcoming work which also gives new examples in
 degrees $8,9,10$. In the meantime, I would be very interested to hear of other
 arithmetically interesting cases of jonality computations.
 
+**Added 04 March 2021**: Asher has done some more digging and has uncovered the
+following additional facts. The jonality has been extensively studied for
+abelian varieties.
+ - The jonality of abelian varieties is studied in a paper [\[1\]](#bcv) of Bardelli,
+ Ciliberto, and Verra. They write $\gamma(X)$ for the jonality of $X$ and prove some results for general abelian varieties. Their best results in all dimensions
+ are however superseded by a result of Pirola [\[4\]](#pirola), which says that
+ if $A$ is a very general abelian $g$-fold over $\bC$, then
+ $\gamma(A)>\frac{g(g+1)}{2}$.
+ - The gonality of an algebraic variety $X$ is defined in [\[2\]](#bpelu) by  Bastianelli, De Poi, Ein, Lazarsfeld, and Ullery 
+ to be the minimum of the gonalities of all normalizations of irreducible
+ proper curves in $X$. Since the (geometric) gonality of a genus $0$ curve is
+ $0$, that of a genus $1$ curve is $2$, and that of a genus $2$ curve is $2$
+ (as they are hyperelliptic), bounds on the gonality of $X$ have implications
+ for the jonality as well. However, plausibly $X$ might contain high-genus
+ hyperelliptic curves and hence have large jonality but small gonality.
+ For instance, Voisin proves [\[5\]](#voisin) that the gonality of the very general abelian
+ $g$-fold over $\bC$ is linear in $g$; specifically, if $g\geq 2k-1$, then the
+ gonality is at least $k+1$.
+ - Using bend and break techniques, if $X$ has non-nef canonical bundle, then
+ there are rational curves on $X$ (at least geometrically). So, in this case
+ the jonality is $0$. See for example Section 8 of the lecture
+ [notes](https://www.math.ens.fr/~debarre/Grenoble.pdf) of Debarre.
+
 # References
+ <span id="bcv">
+[1] Bardelli, Ciliberto, Verra,
+_Curves of minimal genus on a general abelian variety_,
+Compositio Math. **96** (1995), no. 2, 115–147.
+</span>
+
+<span id="bpelu">
+[2] Bastianelli, De Poi, Ein, Lazarsfeld, Ullery, _Measures of irrationality for
+hypersurfaces of large degree_, Compos. Math. **153** (2017), no. 11, 2368-2393.
+[<tt>arXiv:1511.01359</tt>](https://arxiv.org/abs/1511.01359).
+</span>
 
 <span id="dejongho">
-[1] de Jong and Ho, _Genus one curves and Brauer--Severi varieties_, Math. Res.
+[3] de Jong and Ho, _Genus one curves and Brauer--Severi varieties_, Math. Res.
 Lett. **19** (2012), no. 6, 1357-1359.
 [<tt>arXiv:1207.4810</tt>](https://arxiv.org/abs/1207.4810).
+</span>
+
+<span id="pirola">
+[4] Pirola,
+_Abel-Jacobi invariant and curves on generic abelian varieties_, Abelian varieties (Egloffstein, 1993), 237–249, de Gruyter, Berlin, 1995.
+</span>
+
+<span id="voisin">
+[5] Voisin,
+_Chow ring and gonality of general abelian varieties_,
+Ann. H. Lebesgue 1 (2018), 313–332.
+[<tt>arXiv:1802.07153</tt>](https://arxiv.org/abs/1802.07153).
 </span>
