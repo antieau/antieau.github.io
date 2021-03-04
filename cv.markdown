@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-Full cv \[[pdf](../assets/pdf/cv.pdf)\] \(20 Aug 2020\).
+Full cv \[[pdf](../assets/pdf/cv.pdf)\] \(04 Mar 2021\).
 
 # Employment
 
