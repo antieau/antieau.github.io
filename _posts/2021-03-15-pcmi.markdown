@@ -7,7 +7,7 @@ tags: 2021 conferences
 
 I am a co-organizer, with Marc Levine, Oliver Röndigs, Alexander Vishik, and
 Kirsten Wickelgren, of an exciting Park City Mathematics Institute Summer
-School on **Motivic Homotopy** to take place 12-16 July 2021. The school is
+School on **Motivic Homotopy** to take place *online* 12-16 July 2021. The school is
 preparation for a longer program in motivic homotopy theory we are organizing some
 future summer.
 
