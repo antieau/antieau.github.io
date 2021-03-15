@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "PCMI Summer School"
+tags: 2021 conferences
+---
+<!--ë-->
+
+I am a co-organizer, with Marc Levine, Oliver Röndigs, Alexander Vishik, and
+Kirsten Wickelgren, of an exciting Park City Mathematics Institute Summer
+School on **Motivic Homotopy** to take place 12-16 July 2021. The school is
+preparation for a longer program in motivic homotopy theory we are organizing some
+future summer.
+
+The speakers are Frédéric Déglise, Philippe Gille, Daniel Krashen, Matthew Morrow, and Kirsten Wickelgren, a truly fantastic lineup. Syllabi are available [here](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions).
+
+Applications are required and are accepted through 5 April 2021 [here](https://www.ias.edu/pcmi/programs/pcmi-2021-graduate-summer-school).
+
+I hope to see many of you there.
