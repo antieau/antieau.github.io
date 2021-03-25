@@ -1,0 +1,348 @@
+---
+layout: post
+title:  "arXiv reviews 2: Algebraic foliations I"
+stitle: "XR 2: Algebraic foliations I"
+tags: 2021 XR
+---
+<div style="display:none">
+$
+\newcommand\nil{\mathrm{nil}}
+\newcommand\gfrak{\mathfrak{g}}
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\R{\mathrm{R}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Fscr{\mathcal{F}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\dRhat{\widehat{\dR}}
+\newcommand\we{\simeq}
+\newcommand\Sym{\mathrm{Sym}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bQ{\mathbf{Q}}
+\newcommand\bC{\mathbf{C}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}\,}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+$
+</div>
+
+<!--ëé-->
+
+This post is on the recent paper [\[2\]](#tv1) of Toën and Vezzosi on the
+Riemann--Hilbert correspondence for derived foliations.
+
+There are two versions of the Riemann--Hilbert correspondence. The first, more
+classical form, deals with algebraic differential equations with regular
+singularities on a smooth complex
+manifold $U$ and relates these to local systems of finite dimensional complex vector spaces on $U$, i.e., complex representations of $\pi_1(U)$. The second, strictly more general, treats regular
+holonomic $D$-modules and relates these to constructible sheaves on $U$.
+In [\[2\]](#tv1), Toën and Vezzosi prove a massive generalization of the
+classical Riemann--Hilbert correspondence for local systems.
+
+
+
+# Derived foliations
+
+**Definition**. Let $R$ be a connective[^a] cdga over $\bC$. A derived foliation
+$\Fscr$ over $R$ is a complete filtered cdga $\F^\star\dR_\Fscr$ with a map
+to $R$ such that
+ - $\gr^s\dR_\Fscr\we 0$ for $s<0$,
+ - $\gr^0\dR_\Fscr\we R$ via the fixed map above,
+ - $\gr^1\dR_\Fscr[1]$ is a perfect connective $R$-module, and
+ - the natural map $$\Sym_R(\gr^1\dR_\Fscr)\rightarrow\gr^\star\dR_\Fscr$$
+ is an equivalence.
+
+The complex $\L_\Fscr:=\gr^1\dR_\Fscr[1]$ is called the cotangent
+complex of $\Fscr$.
+
+One wants derived foliations to form a geometric kind of
+$\infty$-category, so let $Fol(R)$ be the *opposite* of the
+$\infty$-category of derived foliations over $R$. The functions space
+correspondence is then $$\dR_\Fscr\leftrightarrow\Fscr.$$
+This notion globalizes and if $X$ is a scheme or later a complex analytic
+space, one obtains $Fol(X)$, which is opposite to the $\infty$-category of
+sheaves of quasicoherent derived foliations in the obvious sense.
+
+I will test each idea in this exposition on the following four basic examples.
+
+**Case A**. The $$\mathbf{0}_X$$ foliation is the unique foliation with $\L_\Fscr\we 0$. It
+is the initial object of $Fol(X)$ and corresponds to the case where the
+`leaves' are the points of $X$.
+
+**Case B**. If $X$ is locally of finite presentation over $\bC$ as a derived scheme,[^b]
+then the cotangent complex $\L_X$ is perfect so that the Hodge-complete derived de Rham cohomology $\dR_{X/\bC}$ is a derived foliation with cotangent complex the cotangent
+complex of $X$.
+This is the final object of $Fol(X)$ by the universal property of derived
+de Rham cohomology. It corresponds to the foliation with a single leaf, $X$
+itself. I will further restrict attention below to the case where $X$ is an
+ordinary smooth scheme over $\bC$.
+
+**Case C**. If $X\xrightarrow{f} Y$ is a morphism of smooth $\bC$-schemes, then the
+Hodge-complete relative derived de Rham cohomology $\dR_{f}$ is a derived
+foliation with cotangent complex $\L_f$. The leaves are the fibers of $f.$
+
+**Case D**. If $\gfrak$ is a finite dimensional coconnective dg Lie algebra over
+$\bC$, then the Chevalley--Eilenberg complex $\mathrm{CE}(\gfrak)$ is naturally
+a derived foliation over $\bC$ with cotangent complex $\gfrak^\ast$, the
+$\bC$-linear dual of $\gfrak$. At least if $\gfrak$ is an ordinary Lie algebra (not dg), this complex computes the Lie algebra cohomology
+of $\bC$ over $\gfrak$ and the filtration arises as the Koszul dual of the
+Poincaré--Birkhoff--Witt filtration on the universal enveloping algebra. There is only a single leaf of this foliation
+and if $\gfrak$ is the tangent Lie algebra to an
+algebraic group $G$ over $\bC$, then the leaf is equivalent to $G$ itself.
+Indeed, in this case
+
+$$\mathrm{CE}(\gfrak)\we\dR_{\ast/\B G},$$
+
+the Hodge-complete derived de Rham cohomology of a point $\ast\we\Spec\bC$
+over the classifying stack $\B G$.
+
+Case D illustrates well that the `leaves' of a foliation are only well-defined
+formally as different algebraic groups can share the same Lie algebra. It would
+be better here to say that the leaf of $\mathrm{CE}(\gfrak)$ is the formal
+group of $G$ at the origin.
+I will not go into depth on the formal definition of the leaves of a foliation.
+These are certain formal moduli problems and are indeed studied in the paper
+[\[2\]](#tv1) of
+Toën--Vezzosi, but they are not needed for the main story today.
+
+The main theorem is about crystals over foliations.
+
+
+
+# Crystals
+
+Let $\Fscr$ be a derived foliation over $X$.
+
+**Definition**. A **perfect crystal** over $\Fscr$ is a
+$\F^\star\dR_\Fscr$-module $\F^\star M$ in sheaves of complete filtered complexes such $\gr^0M$ is a perfect complex of $\Oscr_X$-modules and such that
+the natural map
+
+$$\gr^\star\dR_\Fscr\otimes_{\Oscr_X}\gr^0M\rightarrow\gr^\star M$$
+
+is a graded equivalence. Let $\Perf(\Fscr)$ denote the stable $\infty$-category
+of perfect crystals over $\Fscr$. This is a rigid symmetric monoidal stable
+$\infty$-category with a symmetric monoidal exact functor
+$\gr^0\colon\Perf(\Fscr)\rightarrow\Perf(X)$.
+
+The theory of crystals over foliations is further developed in [\[3\]](#tv2) and in [\[1\]](#t1).
+In particular, a theory of Weyl algebras and differential operators is
+developed in [\[3\]](#tv2).
+
+**Case A**. The functor $\gr^0\colon\Perf(\mathbf{0}_X)\rightarrow\Perf(\Oscr_X)$ is an equivalence.
+
+**Case B**. If $X$ is a smooth $\bC$-scheme, the stable $\infty$-category $\Perf(\dR_{X/\bC})$ is equivalent to the stable $\infty$-category of perfect complexes
+with integrable connection, $\D^b(\mathrm{MIC}(X/\bC))$.
+
+**Case C**. In this case, $\Perf(\dR_{X/Y})$ consists of integrable connections along $f$.
+
+**Case D**. If $\gfrak$ is a finite-dimensional coconnective dg Lie algebra,
+then $\Perf(\mathrm{CE}(\gfrak))\we\mathrm{Rep}_\gfrak(\Perf(\bC))$, the $\infty$-category of representations of
+of $\gfrak$ in perfect complexes over $\bC$.
+
+
+
+# Homotopy-coherent chain complexes
+
+To a complete filtration $\F^\star M$ one can associate a homotopy-coherent
+chain complex
+
+$$\cdots\rightarrow\gr^{-1}M[-1]\rightarrow\gr^0M\rightarrow\gr^1M[1]\rightarrow\cdots,$$
+
+which gives the $\E_1$-page of the spectral sequence upon taking cohomology.
+From this perspective, a derived foliation over $R$ is a homotopy-coherent cdga
+of the form
+
+$$0\rightarrow R\rightarrow\L_\Fscr\rightarrow\Lambda^2\L_{\Fscr}\rightarrow\cdots.$$
+
+If $\F^\star M$ is a perfect crystal over $\F^\star\dR_\Fscr$, then the
+associated homotopy-coherent chain complex  looks like
+
+$$0\rightarrow\gr^0M\xrightarrow{\nabla}\L_\Fscr\otimes_R\gr^0M\xrightarrow{\nabla}\Lambda^2\L_\Fscr\otimes_R\gr^0M\rightarrow\cdots.$$
+
+Here, the fact that we have a homotopy-coherent chain complex means that there
+is a canonical nullhomotopy $\nabla^2\we 0$, expressing **integrability** as
+well as higher coherence data, necessary since $\gr^0M$ and $\L_\Fscr$ are
+typically not discrete.
+
+**Case A**. Nothing interesting to say here.
+
+**Case B**. If $\F^\star M$ is a perfect crystal over $\F^\star_\H\dR_{X/\bC}$
+corresponding to a perfect $\Oscr_X$-module with integrable connection $E$, then the homotopy-coherent chain complex is the de Rham complex of the connection:
+
+$$0\rightarrow
+E\xrightarrow{\nabla}\L_X\otimes_{\Oscr_X}E\xrightarrow{\nabla}\Lambda^2\L_X\otimes_{\Oscr_X}E\rightarrow\cdots.$$
+
+**Case C**. This is a relative version of Case B, clearly. However, it makes
+sense even when the fibers of the map are not smooth.
+
+**Case D**. For $\F^\star M\in\Perf(\mathrm{CE}(\gfrak))$, the associated
+homotopy-coherent chain complex is
+
+$$\gr^0M\xrightarrow{\nabla}\gfrak^\ast\otimes_\bC\gr^0M\xrightarrow{\nabla}\Lambda^2(\gfrak^\ast)\otimes_\bC\gr^0M\rightarrow\cdots,$$
+
+which computes the Lie algebra cohomology $\R\Gamma(\gfrak,\gr^0M)$ of the $\gfrak$-representation
+$\gr^0M$.
+Here, $\nabla$ is adjoint to the action map
+$\gfrak\otimes_\bC\gr^0M\rightarrow\gr^0M$ of the corresponding
+$\gfrak$-representation and the fact that $\nabla^2\we 0$ expresses the Jacobi
+identity.
+
+
+
+# The Riemann--Hilbert correspondence
+
+Now, I can state the main theorem of [\[2\]](#tv2). First, note that if $X$ is
+a smooth $\bC$-scheme, then for any foliation $\Fscr$ on $X$ there is a
+corresponding holomorphic foliation $\Fscr^h$ on $X^h$. Let $\Oscr_{\Fscr^h}$
+denote the sheaf of cdgas on $X^h$ obtained by taking the underlying object of
+the filtration defined by the foliation. In other words, $\Oscr_{\Fscr^h}=\F^0\Fscr^h$.
+
+Let $\Perf^\nil(\Fscr)\subseteq\Perf(\Fscr)$ be the full subcategory of perfect
+crystals over $\Fscr$ which are locally in the analytic topology in the stable
+subcategory generated by the unit $\Fscr$ itself. Similarly for
+$\Perf^\nil(\Fscr^h)$.
+Finally, let $\Perf(\Oscr_{\Fscr^h})$ denote the stable $\infty$-category of
+sheaves of $\Oscr_{\Fscr^h}$-modules which are analytic-locally in the stable
+subcategory generated by $\Oscr_{\Fscr^h}$.
+
+**Theorem** (The Riemann--Hilbert correspondence). If $X$ is a smooth and proper $\bC$-scheme
+and $\Fscr$ is a derived foliation on $X$ such that $\L_\Fscr$ has
+Tor-amplitude in cohomological degrees $[-1,0]$, then the natural functor
+
+$$\Perf^\nil(\Fscr)\rightarrow\Perf(\Oscr_{\Fscr^h})$$
+
+is an equivalence.
+
+The condition on the cotangent complex $\L_\Fscr$ in the theorem, called
+**quasi-smoothness**, guarantees that $\H^n(\Oscr_{\Fscr^h})=0$ for $n<0$.
+
+**Sketch of proof**. By GAGA (proved in the paper for this setting), the
+natural map $\Perf(\Fscr)\rightarrow\Perf(\Fscr^h)$ is an equivalence of stable
+$\infty$-categories, which induces an equivalence
+$\Perf^\nil(\Fscr)\we\Perf^\nil(\Fscr^h)$ on subcategories of nilpotent
+crystals. Now, $\Perf^\nil(\Fscr^h)\rightarrow\Perf(\Oscr_{\Fscr^h})$ is the
+functor on global sections of a map of stacks
+$\Perfscr^\nil(\Fscr^h)\rightarrow\Perfscr^\nil(\Oscr_{\Fscr^h})$. This map of
+stacks is a local equivalence. Indeed, both sides are locally generated by the
+unit object and by definition the sheaf of endomorphisms of the unit is
+$\Oscr_{\Fscr^h}$. The theorem follows now by taking global sections. $\square$
+
+I really like this fundamentally Morita-theoretic proof. To get finer
+information, especially about which crystals are nilpotent, one needs a
+foliated analogue of the Cauchy--Kovalevskaya theorem on existence and uniqueness of
+solutions of linear partial differential equations. This is proved by Toën and Vezzosi
+as Theorem 3.2.3 in [\[2\]](#tv1) for $\Fscr$-crystal structures on vector bundles on $X$ when $X$
+is smooth, $\Fscr$ is quasi-smooth and **rigid** ($\H^0(\L_X)\rightarrow\H^0(\L_\Fscr)$ is surjective), and the singular locus of $\Fscr$ has codimension at least $2$.
+
+**Corollary**. Suppose that $X$ is a smooth and proper $\bC$-scheme and that
+$\Fscr$ is a rigid quasi-smooth foliation on $X$ with singular locus of
+codimension at least $2$. The Riemann--Hilbert correspondence restricts to an
+equivalence
+
+$$\Perf^\mathrm{v}(\Fscr)\we\Perf^\mathrm{v}(\Oscr_{\Fscr^h}),$$
+
+where $\Perf^\mathrm{v}(\Fscr)$ denotes the stable subcategory of $\Perf(\Fscr)$
+generated by foliations of vector bundles and $\Perf^\mathrm{v}(\Oscr_{\Fscr^h})$
+denotes the full subcategory of $\Perf(\Oscr_{\Fscr^h})$ generated by those which are locally free over $\Oscr_{\Fscr^h}$, or equivalently vector bundles on $U$ with integrable
+connection and regular singularities.
+
+
+**Case A**. This is the classical GAGA theorem. Here,
+    $\Oscr_{\mathbf{0}_X}\we\Oscr_X^h$.
+
+**Case B**. This is the classical Riemann--Hilbert correspondence of Deligne
+applied to the smooth proper scheme $X$. In this case, $\Oscr_{\dR_{X/\bC}}$ is
+the constant sheaf $\bC$ on $X^h$.
+
+**Case C**. This is a relative Riemann--Hilbert correspondence.
+
+**Case D**. The Riemann--Hilbert correspondence recovers the equivalence
+between nilpotent crystals over $\mathrm{CE}(\gfrak)$ and perfect complexes
+over the underlying cdga $\F^0\mathrm{CE}(\gfrak)$.
+
+The beauty of this RH correspondence is that it applies not only in the
+familiar Cases A-D, but to many other cases, which might not be
+globally integrable. One example is when $X$ is a smooth proper
+compactification of a smooth $\bC$-scheme $U$ with a simple normal crossing
+divisor as complement. In this case, if $\Fscr$ is the foliation
+corresponding to the log de Rham complex, then the corollary recovers Deligne's
+theorem for the open $U$. In this case, $\Oscr_{\Fscr^h}$ is by Grothendieck
+$j_*\bC$, where $j\colon U\hookrightarrow X$, and $\Perf^{\mathrm{v}}(\Fscr)$
+is precisely the stable subcategory of $\Fscr$-crystals generated by vector
+bundles on $X$ with a logarithmic connection along $D$.
+
+
+
+# References
+
+<span id="t1">
+[1] Toën, _Classes caractéristiques des schémas feuilletés_,
+  [arXiv:2008.10489](https://arxiv.org/abs/2008.10489).
+</span>
+
+<span id="tv1">
+[2] Toën and Vezzosi, _Algebraic foliations and derived geometry: the Riemann-Hilbert correspondence_,
+  [arXiv:2001.05450](https://arxiv.org/abs/2001.05450).
+</span>
+
+<span id="tv2">
+[3] Toën and Vezzosi, _Algebraic foliations and derived geometry II: the Grothendieck-Riemann-Roch theorem_,
+    [arXiv:2007.09251](https://arxiv.org/abs/2007.09251).
+</span>
+
+# Footnotes
+
+[^a]: A cdga $R$ is **connective** if $\H^n(R)=0$ for $n>0$.
+
+[^b]: This includes the case of ordinary lci schemes over $\bC$, but not general finite type $\bC$-schemes.
