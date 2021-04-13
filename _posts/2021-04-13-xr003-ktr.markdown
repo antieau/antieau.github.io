@@ -1,0 +1,303 @@
+---
+layout: post
+title:  "arXiv reviews 3: Curves in K-theory and TR"
+stitle: "XR 3: Curves in K-theory"
+tags: 2021 XR
+---
+<div style="display:none">
+$
+\newcommand\nil{\mathrm{nil}}
+\newcommand\gfrak{\mathfrak{g}}
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\R{\mathrm{R}}
+\newcommand\t{\mathrm{t}}
+\newcommand\T{\mathrm{T}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Fscr{\mathcal{F}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\dRhat{\widehat{\dR}}
+\newcommand\we{\simeq}
+\newcommand\Sym{\mathrm{Sym}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TR{\mathrm{TR}}
+\newcommand\THH{\mathrm{THH}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bS{\mathbf{S}}
+\newcommand\bQ{\mathbf{Q}}
+\newcommand\bC{\mathbf{C}}
+\newcommand\bN{\mathbf{N}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}\,}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+\newcommand\Sp{\mathrm{Sp}}
+\newcommand\CycSp{\mathrm{CycSp}}
+\newcommand\TCart{\mathrm{TCart}}
+\newcommand\Fr{\mathrm{Fr}}
+$
+</div>
+
+<!--ëéö-->
+
+Jonas McCandless has written a paper [\[M\]](#mccandless) on 'curves' in $\K$-theory and the
+connection to $\TR$, **topological restriction theory**.
+This is a funny name: $\TR$ is named according to the convention by which one
+prepends `topological' to denote a theory computed over the sphere spectrum
+$\bS$ as opposed to the ring of integers $\bZ$ (e.g., $\THH$ instead of $\HH$).
+However, there is no non-$\T$ version of $\TR$, which creates a kind of pickle
+in terms of writing it out or speaking it aloud.
+
+Anyways, topological restriction theory was for decades the computational Yerba Buena between
+$\THH$ and $\TC$. If $A$ is a connective $\bE_1$-ring, one wants to compute $\TC(A)$ as the best possible accessible approximation
+to algebraic $\K$-theory of $A$ and it was done in two steps for a long time: from
+$\THH(A),$ compute $\TR(A)$ which admits a residual Frobenius operator $\F$. Then,
+$\TC(A)\simeq\TR(A)^{\F=1}$ is the spectrum of $\F$-fixed points. Specifically,
+the Dundas--Goodwillie--McCarthy theorem asserts that if
+$\widetilde{A}\rightarrow A$ is a map of connective $\bE_1$-rings such that
+the kernel of $\pi_0\widetilde{A}\rightarrow\pi_0 A$ is nilpotent, then the
+fiber of $\K(\widetilde{A})\rightarrow\K(A)$ is naturally equivalent to the
+fiber of $\TC(\widetilde{A})\rightarrow\TC(A)$. Put another way, the
+commutative diagram
+
+$$\begin{CD}
+    \K(\widetilde{A})@>>> \K(A)\\
+        @VVV @VVV\\
+        \TC(\widetilde{A}) @>>> \TC(A).
+\end{CD}$$
+
+is cartesian. A significant class of known computations of algebraic
+$\K$-groups uses this fact to reduce to simpler rings from more complicated
+ones. This is the case for example with the calculation of $\K(\bF_p[x]/(x^2))$
+from $\K(\bF_p)$ (due to Quillen), $\TC(\bF_p)$ (due I suppose to Bökstedt),
+and $\TC(\bF_p[x]/(x^2))$.
+
+Nikolaus and Scholze bypassed all the tolls by creating the Transbay Tube
+[\[NS\]](#ns) of
+$\TC$, which gives a conceptually and computationally easier way to compute
+$\TC(A)$ from $\THH(A)$ using (topological) negative cyclic and periodic cyclic homology. However, the importance of $\TR$ has persisted. For example, Thomas and I found in [\[AN\]](#an) that the homotopy groups of
+$\TR$ compute the **cyclotomic homotopy groups** and that $p$-typical $\TR$
+is the cofree 
+**$p$-typical topological
+Cartier module** on $\TR$. Similarly, Krause and Nikolaus showed in [\[KN\]](#kn) that if $X$ is a
+$p$-typical cyclotomic spectrum, then $\TR(X,p)$ is the cofree $p$-typical cyclotomic spectrum with Frobenius lifts on $X$.
+
+The $p$-typical story is clearly a part of an integral story and Thomas and I 
+defined the $\infty$-category of integral topological Cartier modules, but we
+did not study the theory.
+
+McCandless introduces this $\infty$-category and gives some basic properties on
+the way to proving several theorems generalizing work of Hesselholt and of
+Blumberg--Mandell.
+
+
+
+# Cyclotomic spectra and all that
+
+There are three closely related $\infty$-categories of relevance to cyclotomic
+spectra. The contemporary definition of a cyclotomic spectrum, due to
+Nikolaus--Scholze, is a spectrum $X$ with
+$S^1$-action together with Frobenius maps
+
+$$\varphi_p\colon X\rightarrow X^{\t C_p}$$
+
+for each prime $p$, where $X^{\t C_p}$ is given the residual $S^1/C_p$-action.
+The maps are suitable maps $X\rightarrow Y$ which commute with the Frobenius
+maps in the appropriate sense. Let $\CycSp$ be the $\infty$-category of
+cyclotomic spectra.
+
+A cyclotomic spectrum with Frobenius lifts is a spectrum $X$ with $S^1$-action
+and Frobenius maps
+
+$$\psi_n\colon X\rightarrow X^{\h C_n}$$
+
+for every integer $n\geq 1$. These are required to satisfy some coherence conditions, which we will suppress for the moment.
+By restricting to $\psi_p$ and composing with the natural maps $X^{\h
+C_p}\rightarrow X^{\t C_p}$, one sees that every cyclotomic spectrum with
+Frobenius lifts gives rise to a cyclotomic spectrum.
+Let $\CycSp^\Fr$ denote the $\infty$-category of cyclotomic spectra with
+Frobenius lifts. In fact, this is the $\infty$-category of functors
+$\B\bW^\op\rightarrow\Sp$, where $\bW$ is the *Witt* monoid, the $\bE_1$-monoid given as a semidirect product $\bT\rtimes\bN^\times$, where $k\in \bN^\times$ acts on $\bT$ by $x\mapsto x^k.$
+The importance of the Witt monoid was pointed out by Ayala, Mazel-Gee, and
+Rozenblyum in [\[AMR\]](#amr).
+
+Finally, one has topological Cartier modules. These can be defined as follows.
+Let $\Sp_\bT$ denote the $\infty$-category of 'genuine' $\bT=S^1$-spectra, what
+Barwick and Glasman call **cyclonic spectra** in [\[BG\]](#barwick-glasman). These have genuine fixed points
+spectra for each finite subgroup $C_n\subseteq\bT$.
+Given an integer $n\geq 1$, there are two endofunctors of $\Sp_\bT$, one given
+by the fixed points functor $(-)^{\h C_n}$ and the other given by the
+*geometric* fixed points functor $(-)^{\Phi C_n}$. These assemble into two
+$\bN^\times$-actions on $\Sp_\bT$.
+The $\infty$-category $\TCart$ of **topological Cartier modules** is
+
+$$(\Sp_{\bT})^{\h\bN^\times},$$
+
+using the fixed points action of $\bN^\times$, while
+the $\infty$-category $\CycSp^{\mathrm{gen}}$ of **genuine
+cyclotomic spectra** is
+
+$$(\Sp_{\bT})^{\h\bN^\times},$$
+
+using the geometric fixed points action. Roughly speaking, these
+$\infty$-categories consist of genuine $\bT$-spectra $X$ equipped with
+compatible families of equivalences of genuine $\bT$-spectra $X\we X^{C_n}$ or $X\we X^{\Phi C_n}$ for
+$n\geq 1$.
+
+There are some real theoretical gems in this paper, for example McCandless'
+observation that $\B\bW$ is an orbital $\infty$-category in the sense of
+Barwick and that  $\TCart$ is equivalent to the $\infty$-category of spectral
+Mackey functors on $\B\bW^{\op}$. Or, the following Nikolaus--Scholze-style
+equalizer formula for $\TR$ of a cyclotomic spectrum $X$:
+
+$$\TR(X)\we\mathrm{fib}\left(\prod_{k\geq 1}X^{\h C_k}\rightrightarrows\prod_{\text{$p$
+        prime}}\prod_{k\geq 1}(X^{\t C_p})^{\h C_k}\right),$$
+
+for appropriate parallel maps. But, these are assistants for the following main theorems.
+
+
+
+# The representability theorem
+
+Blumberg and Mandell proved in [\[BM\]](#blumberg-mandell) that the functor
+
+$$\TR\colon\CycSp^{\mathrm{gen}}\rightarrow\Sp$$
+
+is representable by the cyclotomic spectrum $\widetilde{\THH}(\bS[\bN])$, the
+fiber of the natural augmentation map $\THH(\bS[\bN])\rightarrow\bS$. Here,
+$\bS[\bN]$ is the spherical monoid algebra of $\bN$.
+
+However, $\TR(A)$ has additional structure: it is a cyclotomic spectrum itself,
+with Frobenius lifts. The first main theorem of McCandless is the
+representability theorem, which says that $\widetilde{\THH}(\bS[\bN])$ is an
+internal cyclotomic spectrum with Frobenius lifts *in cyclotomic spectra*, and
+that computing the mapping spectrum out yields $\TR$ with the functoriality
+above.
+
+
+
+# The curves theorem
+
+Work of Hesselholt [\[H\]](#hesselholt) and Betley--Schlichtkrull [\[BS\]](#betley-schlichtkrull) connects $\TR(A)$, where $A$
+is an associative ring, to
+
+$$\lim_k\Omega\K(A[t]/t^k,(t)),$$
+
+after profinite completion,
+a limit involving relative $\K$-groups. The **curves theorem** of McCandless
+is that this is true (1) for any connective $\bE_1$-ring and (2) that it holds
+integrally, i.e., without profinite completion. The proof is additionally
+rather different than that of previous authors and uses a serious analysis of
+the fiber computation of $\TR(A)$ mentioned above. Specifically, the main idea
+is to use the natural graded structure on
+
+$$\TR(A)\we\mathbf{Map}_{\CycSp}(\widetilde{\THH}(\bS[t]),\THH(A))$$
+
+to compare it to
+
+$$\lim_k\Omega(\THH(A)\otimes\widetilde{\THH}(\bS[t]/t^k))\we\lim_k\Omega\widetilde{\THH}(A[t]/t^k).$$
+
+Together with the Dundas--Goodwillie--McCarthy theorem, this is enough for the
+theorem.
+
+
+
+
+# References
+
+<span id="an">
+[AN] Antieau, Nikolaus, _Topological Cartier modules and cyclotomic spectra_,
+    JAMS **34**(1) (2021), 1-78,
+    [arXiv:1809.01714](https://arxiv.org/abs/1809.01714).
+</span>
+
+<span id="amr">
+[AMR] Ayala, Mazel-Gee, Rozenblyum, _A naive approach to genuine G-spectra and
+cyclotomic spectra_, [arXiv:1710.06416](https://arxiv.org/abs/1710.06416).
+</span>
+
+<span id="barwick-glasman">
+[BG] Barwick, Glasman, _Cyclonic spectra, cyclotomic spectra, and a conjecture
+of Kaledin_, [arXiv:1602.02163](https://arxiv.org/abs/1602.02163).
+</span>
+
+<span id="betley-schlichtkrull">
+[BS] Betley, Schlichtkrull, _The cyclotomic trace and curves on {$K$}-theory_,
+    Topology **44**(4) (2005), 845-874.
+</span>
+
+<span id="blumberg-mandell">
+[BM] Blumberg, Mandell, _The homotopy theory of cyclotomic spectra_, G&T
+**19**(6) (2016), 3105-3147, [arXiv:1303.1694](https://arxiv.org/abs/1303.1694).
+</span>
+
+<span id="hesselholt">
+[H] Hesselholt, _On the $p$-typical curves in Quillen's $\K$-theory_, Acta
+**177**(1) (1996), 1-53,
+    [pdf](http://web.math.ku.dk/~larsh/papers/005/acta.pdf).
+</span>
+
+<span id="kn">
+[KN] Krause, Nikolaus, _Lectures on topological Hochschild homology and
+cyclotomic spectra_,
+           [pdf](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/Lectures.pdf).
+</span>
+
+<span id="mccandless">
+[M] McCandless, _On curves in K-theory and TR_,
+    [arXiv:2102.08281](https://arxiv.org/abs/2102.08281).
+</span>
+
+<span id="ns">
+[NS] Nikolaus, Scholze, _On topological cyclic homology_, Acta **221**(2)
+    (2018), 203-409, [arXiv:1707.01799](https://arxiv.org/abs/1707.01799).
+</span>
