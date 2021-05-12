@@ -20,7 +20,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 [35]  B. Antieau and D. Bragg, _Derived invariants from topological Hochschild homology_, submitted. \[[arxiv:1906](https://arxiv.org/abs/1906.12267)\].
 
-[34]  N. Addington, B. Antieau, S. Frei, and K. Honigs, _Rational points and derived equivalence_, to appear in Compositio Math. \[[arxiv:1906](https://arxiv.org/abs/1906.02261)\].
+[34]  N. Addington, B. Antieau, S. Frei, and K. Honigs, _Rational points and derived equivalence_, Compositio Math. **157** (2021), no. 5, 1036-1050. \[[arxiv:1906](https://arxiv.org/abs/1906.02261)\], \[[Compositio](https://www.doi.org/10.1112/S0010437X21007089)\].
 
 [33]  B. Antieau, _On the uniqueness of infinity-categorical enhancements of triangulated categories_, submitted. \[[arxiv:1812](http://arxiv.org/abs/1812.01526)\].
 
@@ -38,7 +38,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 [26]  B. Antieau, D. Gepner, and J. Heller, _K-theoretic obstructions to bounded t-structures_, Inventiones math. **216** (2019), no. 1, 241-300. \[[Inventiones](http://link.springer.com/article/10.1007/s00222-018-00847-0)\]. \[[arxiv:1610](http://arxiv.org/abs/1610.07207)\].
 
-[25]  B. Antieau and L. Meier, _The Brauer group of the moduli stack of elliptic curves_, Algebra & Number Theory **14** (2020), no. 9, 2295-2333. \[[arxiv:1608](http://arxiv.org/abs/1608.00851)\], \[[DOI](https://doi.org/10.2140/ant.2020.14.2295)\].
+[25]  B. Antieau and L. Meier, _The Brauer group of the moduli stack of elliptic curves_, Algebra & Number Theory **14** (2020), no. 9, 2295-2333. \[[arxiv:1608](http://arxiv.org/abs/1608.00851)\], \[[ANT](https://doi.org/10.2140/ant.2020.14.2295)\].
 
 [24]  B. Antieau and E. Elmanto, _A primer for unstable motivic homotopy theory_, Surveys on Recent Developments in Algebraic Geometry, Proc. Sympos. Pure Math. **95** (2017), 305-370. \[[arxiv:1605](http://arxiv.org/abs/1605.00929)\].
 
