@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Update on the liquid tensor experiment"
+tags: condensed
+---
+In a previous [post]({% post_url 2020-12-07-liquidtensor %}), I pointed
+out Peter Scholze's liquid tensor challenge to the formalization community. I
+was lucky enough to hear a fantastic talk on the subject by [Johan
+Commelin](https://math.commelin.net/) at a [K-theory workshop](http://individual.utoronto.ca/groechenig/K.html) organized by Oliver Braunling and Michael Groechenig.
+Basically, the community working on the project, led by Commelin, is half-way done and Scholze says they have verified the main
+thing he was worried about. This seems to be a tremendous achievement, although
+I am certainly not an expert. Scholze gives an auto-interview on
+[Xena](https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/)
+and there is a [Blueprint](https://leanprover-community.github.io/liquid/) for
+the project.
