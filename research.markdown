@@ -8,6 +8,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[41] B. Antieau and A. Auel, _Explicit descent on elliptic curves and splitting
+Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
+
 [40] B. Antieau, A. Mathew, M. Morrow, and T. Nikolaus, _On the Beilinson fiber square_, submitted. \[[arxiv:2003](https://arxiv.org/abs/2003.12541)\].
 
 [39] B. Antieau and B. Williams, _The topological period-index conjecture_, to appear in Mathematical Research Letters. \[[arxiv:2003](https://arxiv.org/abs/2003.10539)\].
