@@ -118,7 +118,8 @@ then $D$ is split by a genus $1$ curve; i.e., the jonality of the
 Severi--Brauer variety of $D$ is $1$.
 
 This result will appear in forthcoming work which also gives new examples in
-degrees $8,9,10$. In the meantime, I would be very interested to hear of other
+degrees $8,9,10$. (**Added 11 June 2021**: this paper has now appeared on the
+        [arXiv](https://arxiv.org/abs/2106.04291).) In the meantime, I would be very interested to hear of other
 arithmetically interesting cases of jonality computations.
 
 **Added 04 March 2021**: Asher has done some more digging and has uncovered the
