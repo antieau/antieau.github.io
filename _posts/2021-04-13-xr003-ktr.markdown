@@ -121,6 +121,18 @@ ones. This is the case for example with the calculation of $\K(\bF_p[x]/(x^2))$
 from $\K(\bF_p)$ (due to Quillen), $\TC(\bF_p)$ (due I suppose to Bökstedt),
 and $\TC(\bF_p[x]/(x^2))$.
 
+**Added 20 July 2021**: Lars Hesselholt corrected me on the history of the
+computation of $\TC(\bF_p)$. He wrote, "The history is that Bökstedt and Madsen
+had already done the much harder calculation of $\TC(\bZ_p)$. Ib presented this
+calculation at a K-theory conference in Strasbourg in 1992 and, a week later,
+            at the first European Congress in Paris. They published the
+            calculation of $\TC(\bZ_p)$ in the proceedings from the Strasbourg
+            conference, but Ib also needed something to put in the proceedings
+            from the Paris congress, so he realized that the same arguments,
+            but in a much easier form, also gave $\TC(\bF_p)$. Therefore the first
+            published account is
+            [on mathscinet](https://mathscinet.ams.org/mathscinet-getitem?mr=1341845)."
+
 Nikolaus and Scholze bypassed all the tolls by creating the Transbay Tube
 [\[NS\]](#ns) of
 $\TC$, which gives a conceptually and computationally easier way to compute
