@@ -105,7 +105,7 @@ Talk 12 (03/18). Mondal’s paper [\[3\]](#mondal). **Artem Prikhodko**.
 </span>
 
 <span id="bs">
-[2] Bhatt and Scholze, Prisms and prismatic cohomologhy,
+[2] Bhatt and Scholze, Prisms and prismatic cohomology,
     [<tt>arXiv:1905.08229</tt>](https://arxiv.org/abs/1905.08229).
 </span>
 

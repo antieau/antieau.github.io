@@ -1,7 +1,7 @@
 ---
 layout: seminar
 term: 2021 Fall
-title: Topology seminar
+title: Prismatic F-crystals and crystalline Galois representations
 ---
 <div style="display:none">
 $
@@ -61,9 +61,59 @@ $
 $
 </div>
 
+Following up on our previous work on [\[1\]](#alb) and [\[2\]](#bs1) in the
+[winter](http://127.0.0.1:4000/seminars/202101-pdt.html), we will
+study the recent paper [\[3\]](#bs2) of Bhatt and Scholze comparing prismatic
+$F$-crystals to crystalline Galois representations.
 
-The seminar meets at 1610 central time on Mondays in Lunt 105.
+The seminar meets at 1500 central time on Mondays in Lunt 105.
 
-09/27. **Shubhodip Mondal** (University of Michigan). TBD.
-[\[NU Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1631548160). Note: this seminar will meet in Lunt 104.
+# Syllabus
+
+09/27. Section 1.
+
+10/04. Section 2.
+
+10/11. Section 3.
+
+10/18. Section 4.
+
+10/25. Section 5.
+
+11/01. **NO SEMINAR**.
+
+11/08. Section 6, talk 1.
+
+11/15. Section 6, talk 2.
+
+11/22. Section 7, talk 1.
+
+11/29. Section 7, talk 2.
+
+
+# References
+
+
+<span id="alb">
+[1] Anschütz and Le Bras, Prismatic Dieudonné theory, [<tt>arXiv:1907.10525</tt>](https://arxiv.org/abs/1907.10525).
+</span>
+
+<span id="bs1">
+[2] Bhatt and Scholze, Prisms and prismatic cohomology,
+    [<tt>arXiv:1905.08229</tt>](https://arxiv.org/abs/1905.08229).
+</span>
+
+<span id="bs2">
+[3] Bhatt and Scholze, Prismatic $F$-crystals and crystalline Galois
+representations,
+[<tt>arXiv:2106.14735</tt>](https://arxiv.org/abs/2106.14735).
+</span>
+
+<!--
+<span id="tv-simpliciales">
+[9] Toën, Vezzosi, *Algèbres simpliciales S1-équivariantes, théorie de de Rham et théorèmes HKR multiplicatifs*,
+Compos. Math. **147** (2011), no. 6, 1979–2000.
+</span>
+-->
+
 
