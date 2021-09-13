@@ -70,7 +70,7 @@ The seminar meets at 1500 central time on Mondays in Lunt 105.
 
 # Syllabus
 
-09/27. Section 1.
+09/27. Section 1. **Benjamin Antieau**.
 
 10/04. Section 2.
 
