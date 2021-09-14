@@ -90,6 +90,10 @@ The seminar meets at 1500 central time on Mondays in Lunt 105.
 
 11/29. Section 7, talk 2.
 
+# COVID policy
+
+All attendees from outside Northwestern University will be required to have been fully vaccinated or have received a negative COVID test within 48 hours of the event start, as well as comply with all other University safety protocols that are in place at the time of the event. Participants unwilling or unable to abide by these requirements should not attend.
+
 
 # References
 
@@ -108,12 +112,5 @@ The seminar meets at 1500 central time on Mondays in Lunt 105.
 representations,
 [<tt>arXiv:2106.14735</tt>](https://arxiv.org/abs/2106.14735).
 </span>
-
-<!--
-<span id="tv-simpliciales">
-[9] Toën, Vezzosi, *Algèbres simpliciales S1-équivariantes, théorie de de Rham et théorèmes HKR multiplicatifs*,
-Compos. Math. **147** (2011), no. 6, 1979–2000.
-</span>
--->
 
 

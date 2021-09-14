@@ -64,8 +64,16 @@ $
 
 The seminar meets at 1610 central time on Mondays in Lunt 105.
 
+# Schedule
+
 09/27. **Shubhodip Mondal** (University of Michigan). TBD.
 [\[NU Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1631548160). Note: this seminar will meet in Lunt 104.
 
 10/11. **Yuri Sulyma** (Brown University). TBD.
 [\[NU Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1631571142).
+
+# COVID policy
+
+All attendees from outside Northwestern University will be required to have been fully vaccinated or have received a negative COVID test within 48 hours of the event start, as well as comply with all other University safety protocols that are in place at the time of the event. Participants unwilling or unable to abide by these requirements should not attend.
+
+
