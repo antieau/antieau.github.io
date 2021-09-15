@@ -67,6 +67,8 @@ study the recent paper [\[3\]](#bs2) of Bhatt and Scholze comparing prismatic
 $F$-crystals to crystalline Galois representations.
 
 The seminar meets at 1500 central time on Mondays in Lunt 105.
+For the listings on the NU Math Calendar, see
+[here](https://www.math.northwestern.edu/events/seminars/index.html?group=ReThanp-Ge).
 
 # Syllabus
 
