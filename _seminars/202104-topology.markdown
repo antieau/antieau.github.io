@@ -66,7 +66,8 @@ The seminar meets at 1610 central time on Mondays in Lunt 105.
 
 # Schedule
 
-09/27. **Shubhodip Mondal** (University of Michigan). TBA.
+09/27. **Shubhodip Mondal** (University of Michigan). On $p$-adic de Rham
+cohomology.
 [\[NU Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1631548160). Note: this seminar will meet in Lunt 104.
 
 10/11. **Yuri Sulyma** (Brown University). Floor homotopy theory.
