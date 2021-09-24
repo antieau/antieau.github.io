@@ -72,15 +72,25 @@ For the listings on the NU Math Calendar, see
 
 # Syllabus
 
-09/27. Section 1. **Benjamin Antieau**.
+09/27. Section 1. **Benjamin Antieau**. Background on $p$-adic Galois
+representations and comparison theorems. Definitions of the main objects and
+statements of the main theorems.
 
-10/04. Section 2.
+10/04. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
+sheaves in rigid analytic geometry after Drinfeld--Mathew. The Breuil--Kisin
+and $A_{\mathrm{inf}}$-prisms are covers. Implications for the category of prismatic
+crystals. Proofs of 2.2 (at least a sketch), 2.7, 2.13, and 2.14.
 
-10/11. Section 3.
+10/11. Section 3. Just $\epsilon$ on the cohomology of diamonds. Lisse $\bZ_p$-sheaves on the
+generic fiber. Laurent $F$-crystals and the comparison results of 3.6, 3.7, 3.8, and 3.11.
 
-10/18. Section 4.
+10/18. Section 4. Prismatic $F$-crystals, the definition and all the examples.
+The etale and crystalline realizations.
 
-10/25. Section 5.
+10/25. Section 5. Prismatic $F$-crystals on perfectoids: Fargues' theorem,
+    construction of the functor,  and  Example 3.4 is crucial. proof of fully faithfulness following BMS18, Remark 4.29.
+    Period rings are used seriously here. Proof of the crystalline property
+    (5.3). Go through the proof of fully faithfulness in 5.6.
 
 11/01. **NO SEMINAR**.
 
