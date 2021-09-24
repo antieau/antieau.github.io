@@ -64,7 +64,8 @@ $
 Following up on our previous work on [\[1\]](#alb) and [\[2\]](#bs1) in the
 [winter](http://127.0.0.1:4000/seminars/202101-pdt.html), we will
 study the recent paper [\[3\]](#bs2) of Bhatt and Scholze comparing prismatic
-$F$-crystals to crystalline Galois representations.
+$F$-crystals to crystalline Galois representations. The goal is to work through
+Section 6, leaving the results of Section 7 for another time.
 
 The seminar meets at 1500 central time on Mondays in Lunt 105.
 For the listings on the NU Math Calendar, see
@@ -72,35 +73,41 @@ For the listings on the NU Math Calendar, see
 
 # Syllabus
 
-09/27. Section 1. **Benjamin Antieau**. Background on $p$-adic Galois
+09/27. **Benjamin Antieau**. Introduction. Background on $p$-adic Galois
 representations and comparison theorems. Definitions of the main objects and
 statements of the main theorems.
 
-10/04. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
+10/04. **Benjamin Antieau**. Computational practicum 1. Zeta functions, Weil conjectures, crystalline
+cohomology, and $p$-divisible groups.
+
+10/11. **Benjamin Antieau**. Computational practicum 2. Prismatic cohomology.
+
+10/18. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
 sheaves in rigid analytic geometry after Drinfeld--Mathew. The Breuil--Kisin
 and $A_{\mathrm{inf}}$-prisms are covers. Implications for the category of prismatic
 crystals. Proofs of 2.2 (at least a sketch), 2.7, 2.13, and 2.14.
 
-10/11. Section 3. Just $\epsilon$ on the cohomology of diamonds. Lisse $\bZ_p$-sheaves on the
+10/25. Section 3. Just $\epsilon$ on the cohomology of diamonds. Lisse $\bZ_p$-sheaves on the
 generic fiber. Laurent $F$-crystals and the comparison results of 3.6, 3.7, 3.8, and 3.11.
-
-10/18. Section 4. Prismatic $F$-crystals, the definition and all the examples.
-The etale and crystalline realizations.
-
-10/25. Section 5. Prismatic $F$-crystals on perfectoids: Fargues' theorem,
-    construction of the functor,  and  Example 3.4 is crucial. proof of fully faithfulness following BMS18, Remark 4.29.
-    Period rings are used seriously here. Proof of the crystalline property
-    (5.3). Go through the proof of fully faithfulness in 5.6.
 
 11/01. **NO SEMINAR**.
 
-11/08. Section 6, talk 1.
+11/08. Section 4. Prismatic $F$-crystals, the definition and all the examples.
+The étale and crystalline realizations.
 
-11/15. Section 6, talk 2.
+11/15. Section 5. Prismatic $F$-crystals on perfectoids: Fargues' theorem,
+construction of the functor,  and 3.4 are crucial. Proof of fully faithfulness following BMS18, Remark 4.29.
+Period rings are used seriously here. Proof of the crystalline property
+5.3. Go through the proof of fully faithfulness in 5.6.
 
-11/22. Section 7, talk 1.
 
-11/29. Section 7, talk 2.
+11/22. Sections 6.1 and 6.2. Some period sheaves on the quasisyntomic and
+prismatic sites and the production of crystals from filtered $\varphi$-modules.
+Proof of 6.8.
+
+11/29. Sections 6.3 and 6.4. Proofs of 6.9 and 6.10. Finally, the proof of essential surjectivity.
+
+
 
 # COVID policy
 
