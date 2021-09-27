@@ -44,6 +44,7 @@ $
 \newcommand\HC{\mathrm{HC}}
 \newcommand\HP{\mathrm{HP}}
 \newcommand\TC{\mathrm{TC}}
+\newcommand\TP{\mathrm{TP}}
 \newcommand{\bMap}{\mathbf{Map}}
 \newcommand{\End}{\mathrm{End}}
 \newcommand{\Mod}{\mathrm{Mod}}
@@ -61,9 +62,9 @@ $
 $
 </div>
 
-Following up on our previous work on [\[1\]](#alb) and [\[2\]](#bs1) in the
+Following up on our previous work on [\[1\]](#alb) and [\[4\]](#bs1) in the
 [winter](http://127.0.0.1:4000/seminars/202101-pdt.html), we will
-study the recent paper [\[3\]](#bs2) of Bhatt and Scholze comparing prismatic
+study the recent paper [\[5\]](#bs2) of Bhatt and Scholze comparing prismatic
 $F$-crystals to crystalline Galois representations. The goal is to work through
 Section 6, leaving the results of Section 7 for another time.
 
@@ -77,10 +78,13 @@ For the listings on the NU Math Calendar, see
 representations and comparison theorems. Definitions of the main objects and
 statements of the main theorems.
 
-10/04. **Benjamin Antieau**. Computational practicum 1. Zeta functions, Weil conjectures, crystalline
+10/04. **Benjamin Antieau**. Computational practicum. Zeta functions, Weil conjectures, crystalline
 cohomology, and $p$-divisible groups.
 
-10/11. **Benjamin Antieau**. Computational practicum 2. Prismatic cohomology.
+10/11. **Micah Darrell**. Background. Cover $\delta$-rings, prisms, and
+prismatic cohomology and state the main comparison theorems from [\[4\]](#bs1).
+Then, following [\[3\]](#bms2), explain how Nygaard-completed absolute prismatic cohomology filters $\TP$
+and how the syntomic complexes $\bZ_p(n)$ filter $\TC$.
 
 10/18. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
 sheaves in rigid analytic geometry after Drinfeld--Mathew. The Breuil--Kisin
@@ -92,20 +96,19 @@ generic fiber. Laurent $F$-crystals and the comparison results of 3.6, 3.7, 3.8,
 
 11/01. **NO SEMINAR**.
 
-11/08. Section 4. Prismatic $F$-crystals, the definition and all the examples.
+11/08. **Carlos Cortez**. Section 4. Prismatic $F$-crystals, the definition and all the examples.
 The étale and crystalline realizations.
 
 11/15. Section 5. Prismatic $F$-crystals on perfectoids: Fargues' theorem,
-construction of the functor,  and 3.4 are crucial. Proof of fully faithfulness following BMS18, Remark 4.29.
+construction of the functor,  and 3.4 are crucial. Proof of fully faithfulness following [\[2\]](#bms1), Remark 4.29.
 Period rings are used seriously here. Proof of the crystalline property
 5.3. Go through the proof of fully faithfulness in 5.6.
-
 
 11/22. Sections 6.1 and 6.2. Some period sheaves on the quasisyntomic and
 prismatic sites and the production of crystals from filtered $\varphi$-modules.
 Proof of 6.8.
 
-11/29. Sections 6.3 and 6.4. Proofs of 6.9 and 6.10. Finally, the proof of essential surjectivity.
+11/29. **Adam Holeman**. Sections 6.3 and 6.4. Proofs of 6.9 and 6.10. Finally, the proof of essential surjectivity.
 
 
 
@@ -121,13 +124,24 @@ All attendees from outside Northwestern University will be required to have been
 [1] Anschütz and Le Bras, Prismatic Dieudonné theory, [<tt>arXiv:1907.10525</tt>](https://arxiv.org/abs/1907.10525).
 </span>
 
+<span id="bms1">
+[2] Bhatt, Morrow, and Scholze, *Integral $p$-adic Hodge theory*, Publ. Math. Inst. Hautes Études Sci.
+**128** (2018), 219-397.
+</span>
+
+<span id="bms2">
+[3] Bhatt, Morrow, and Scholze, *Topological Hochschild homology and integral p-adic Hodge theory*, Publ. Math. Inst. Hautes Études Sci.
+**129** (2019), 199–310.
+</span>
+
+
 <span id="bs1">
-[2] Bhatt and Scholze, Prisms and prismatic cohomology,
+[4] Bhatt and Scholze, Prisms and prismatic cohomology,
     [<tt>arXiv:1905.08229</tt>](https://arxiv.org/abs/1905.08229).
 </span>
 
 <span id="bs2">
-[3] Bhatt and Scholze, Prismatic $F$-crystals and crystalline Galois
+[5] Bhatt and Scholze, Prismatic $F$-crystals and crystalline Galois
 representations,
 [<tt>arXiv:2106.14735</tt>](https://arxiv.org/abs/2106.14735).
 </span>
