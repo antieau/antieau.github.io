@@ -1,0 +1,176 @@
+---
+layout: post
+title:  "arXiv reviews 4: Hodge numbers in positive characteristic"
+stitle: "XR 4: Hodge numbers in positive characteristic"
+tags: 2021 XR
+---
+<div style="display:none">
+$
+\newcommand\Pic{\mathrm{Pic}}
+\newcommand\nil{\mathrm{nil}}
+\newcommand\gfrak{\mathfrak{g}}
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\R{\mathrm{R}}
+\newcommand\t{\mathrm{t}}
+\newcommand\T{\mathrm{T}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Fscr{\mathcal{F}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\dRhat{\widehat{\dR}}
+\newcommand\we{\simeq}
+\newcommand\Sym{\mathrm{Sym}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TR{\mathrm{TR}}
+\newcommand\THH{\mathrm{THH}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bS{\mathbf{S}}
+\newcommand\bQ{\mathbf{Q}}
+\newcommand\bC{\mathbf{C}}
+\newcommand\bN{\mathbf{N}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}\,}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+\newcommand\Sp{\mathrm{Sp}}
+\newcommand\CycSp{\mathrm{CycSp}}
+\newcommand\TCart{\mathrm{TCart}}
+\newcommand\Fr{\mathrm{Fr}}
+\newcommand\Br{\mathrm{Br}}
+$
+</div>
+
+<!--ëéö-->
+
+The recent paper [\[3\]](#ab) *Hodge numbers are not derived invariants in positive characteristic* by Nick Addington and Daniel Bragg answers several
+open questions about the behavior of Hodge numbers under derived equivalence in
+positive characteristic. In characteristic $0$, the Hodge numbers are derived
+invariants up through dimension $3$ by Popa and Schnell [\[7\]](#popa-schnell).
+In characteristic $p$, Hodge numbers are derived invariant up through dimension
+$2$ by my work with Bragg [\[4\]](#antieau-bragg) and we showed in that paper that in dimension $3$ the numbers $\chi(\Omega^i)$ are derived invariants.
+
+The authors construct a pair of
+smooth projective Calabi--Yau $3$-folds $M$ and $X$ over $\overline{\bF}_3$ such that
+ - $\D^b(X)\we\D^b(M)$ and
+ - $h^{i,j}(X)\neq h^{i,j}(M)$
+
+for some pairs $(i,j)$, where $h^{i,j}(X)=\dim\H^j(X,\Omega^i_X)$.
+
+In fact,
+their theorem shows that the dimensions $h^j(\Oscr)$ are not derived invariants. In their
+paper,
+$$\dim\H^*(X,\Oscr_X)=1\quad 0\quad 1\quad 1$$ while $$\dim\H^*(Y,\Oscr_Y)=1\quad 1\quad 0\quad 1.$$
+The variety $X$ is a small resolution of a specific intersection of two cubics
+in $\bP^5$ and it admits an abelian surface fibration $X\rightarrow\bP^1$. The
+variety $M$ is a compactification of the relative Picard sheaf
+$\Pic^0_{X/\bP^1}$ at the smooth fibers. Although it takes a lot of work thanks
+to the presence of reducible fibers, Addington and Bragg show that the usual
+Mukai-style derived equivalence between an abelian variety and its dual extends
+to the families $X$ and $M$ over $\bP^1$, so that $\D^b(X)\we\D^b(M)$.
+
+The Hodge numbers of $X$ are determined by a computer algebra system, while
+those of $M$ are done in several steps. First, the derived invariance of
+Hochschild homology and the degeneration from [\[5\]](#av) of the HKR spectral sequence for
+$3$-folds in characteristic $3$ shows that certain sums of Hodge numbers are
+derived invariant. Serre duality and the fact that $\omega_M\cong\Oscr_M$ is
+enough to resolve everything but the terms $h^{1,0}(M)$ and $h^{1,2}(M)$ which sum to $7$. A
+Dieudonn\'e-module theoretic argument using a theorem of Oda fixes the
+Hodge number $\dim\H^0(M,\Omega^1_M)=1$ which settles everything.
+
+After this, the paper contains three additional interesting sections.
+ - Section 6 gives some information on the crystalline cohomology of $X$
+ and $M$.
+ - Appendix A contains a nice proof of a result of Abuaf [\[1\]](#abuaf) that shows
+ that $h^*(\Oscr)$ is a derived invariant in characteristic $0$ up through
+ dimension $4$.
+ - Appendix B, written by Sasha Petrov, gives higher-dimensional examples
+ of failure of derived invariants of Hodge numbers in any characteristic.
+
+Petrov's examples are notable and start from his work in [\[6\]](#petrov) on failure of Hodge
+symmetry for abeloid varieties.
+
+
+
+# References
+
+<span id="abuaf">
+[1] Abuaf, _Homological units_, IMRN **22** (2017), 6943-6960.
+[arXiv:1510.01583](https://arxiv.org/abs/1510.01583).
+</span>
+
+<span id="ab">
+[2] Addington and Bragg, _Hodge numbers are not derived invariants in positive
+characteristic_, [arXiv:2106.09949](https://arxiv.org/abs/2106.09949).
+</span>
+
+<span id="antieau-bragg">
+[4] Antieau and Bragg, _Derived invariants from topological Hochschild
+homology_, [arXiv:1906.12267](https://arxiv.org/abs/1906.12267).
+</span>
+
+<span id="av">
+[5] Antieau and Vezzosi, _A remark on the HKR theorem in characteristic $p$_,
+    Ann. Sc. Norm. Super. Pisa Cl. Sci (5) **20** (2020), no. 3, 1135-1145.
+    [arXiv:1710.06039](https://arxiv.org/abs/1710.06039).
+</span>
+
+<span id="petrov">
+[6] Petrov, _Rigid-analytic varieties with projective reduction violating Hodge
+symmetry_, [arXiv:2005.02226](https://arxiv.org/abs/2005.02226).
+</span>
+
+<span id="popa-schnell">
+[7] Popa and Schnell, _Derived invariance of the number of holomorphic
+$1$-forms and vector fields_, ASENS (4) **44** (2011), no. 3, 527-536.
+[arXiv:0912.4040](https://arxiv.org/abs/0912.4040).
+</span>
