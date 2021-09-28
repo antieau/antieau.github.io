@@ -112,7 +112,7 @@ Just saying.
 In fact,
 their theorem shows that the dimensions $h^j(\Oscr)$ are not derived invariants. In their
 paper,
-$$\dim\H^*(X,\Oscr_X)=1\quad 0\quad 1\quad 1$$ while $$\dim\H^*(Y,\Oscr_Y)=1\quad 1\quad 0\quad 1.$$
+$$\dim\H^*(X,\Oscr_X)=1\quad 0\quad 0\quad 1$$ while $$\dim\H^*(Y,\Oscr_Y)=1\quad 1\quad 1\quad 1.$$
 The variety $X$ is a small resolution of a specific intersection of two cubics
 in $\bP^5$ and it admits an abelian surface fibration $X\rightarrow\bP^1$. The
 variety $M$ is a compactification of the relative Picard sheaf
