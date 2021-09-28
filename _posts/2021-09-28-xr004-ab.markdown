@@ -106,6 +106,9 @@ smooth projective Calabi--Yau $3$-folds $M$ and $X$ over $\overline{\bF}_3$ such
 
 for some pairs $(i,j)$, where $h^{i,j}(X)=\dim\H^j(X,\Omega^i_X)$.
 
+**Important note:** Daniel Bragg will be on the job market this year!
+Just saying.
+
 In fact,
 their theorem shows that the dimensions $h^j(\Oscr)$ are not derived invariants. In their
 paper,
