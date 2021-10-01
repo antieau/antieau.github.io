@@ -86,12 +86,12 @@ prismatic cohomology and state the main comparison theorems from [\[4\]](#bs1).
 Then, following [\[3\]](#bms2), explain how Nygaard-completed absolute prismatic cohomology filters $\TP$
 and how the syntomic complexes $\bZ_p(n)$ filter $\TC$.
 
-10/18. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
+10/18. **Noah Riggenbach**. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
 sheaves in rigid analytic geometry after Drinfeld--Mathew. The Breuil--Kisin
 and $A_{\mathrm{inf}}$-prisms are covers. Implications for the category of prismatic
 crystals. Proofs of 2.2 (at least a sketch), 2.7, 2.13, and 2.14.
 
-10/25. Section 3. Just $\epsilon$ on the cohomology of diamonds. Lisse $\bZ_p$-sheaves on the
+10/25. **Bao Le Hung**. Section 3. Just $\epsilon$ on the cohomology of diamonds. Lisse $\bZ_p$-sheaves on the
 generic fiber. Laurent $F$-crystals and the comparison results of 3.6, 3.7, 3.8, and 3.11.
 
 11/01. **NO SEMINAR**.
@@ -99,12 +99,12 @@ generic fiber. Laurent $F$-crystals and the comparison results of 3.6, 3.7, 3.8,
 11/08. **Carlos Cortez**. Section 4. Prismatic $F$-crystals, the definition and all the examples.
 The étale and crystalline realizations.
 
-11/15. Section 5. Prismatic $F$-crystals on perfectoids: Fargues' theorem,
+11/15. **Elchanan Nafcha**. Section 5. Prismatic $F$-crystals on perfectoids: Fargues' theorem,
 construction of the functor,  and 3.4 are crucial. Proof of fully faithfulness following [\[2\]](#bms1), Remark 4.29.
 Period rings are used seriously here. Proof of the crystalline property
 5.3. Go through the proof of fully faithfulness in 5.6.
 
-11/22. Sections 6.1 and 6.2. Some period sheaves on the quasisyntomic and
+11/22. **Deven Manam**. Sections 6.1 and 6.2. Some period sheaves on the quasisyntomic and
 prismatic sites and the production of crystals from filtered $\varphi$-modules.
 Proof of 6.8.
 
