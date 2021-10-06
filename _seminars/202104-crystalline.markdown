@@ -81,12 +81,12 @@ statements of the main theorems.
 10/04. **Benjamin Antieau**. Computational practicum. Zeta functions, Weil conjectures, crystalline
 cohomology, and $p$-divisible groups.
 
-10/11. **Micah Darrell**. Background. Cover $\delta$-rings, prisms, and
+10/11. **Noah Riggenbach**. Background. Cover $\delta$-rings, prisms, and
 prismatic cohomology and state the main comparison theorems from [\[4\]](#bs1).
 Then, following [\[3\]](#bms2), explain how Nygaard-completed absolute prismatic cohomology filters $\TP$
 and how the syntomic complexes $\bZ_p(n)$ filter $\TC$.
 
-10/18. **Noah Riggenbach**. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
+10/18. **Micah Darrell**. Section 2. The prismatic and quasisyntomic sites. Descent for coherent
 sheaves in rigid analytic geometry after Drinfeld--Mathew. The Breuil--Kisin
 and $A_{\mathrm{inf}}$-prisms are covers. Implications for the category of prismatic
 crystals. Proofs of 2.2 (at least a sketch), 2.7, 2.13, and 2.14.
