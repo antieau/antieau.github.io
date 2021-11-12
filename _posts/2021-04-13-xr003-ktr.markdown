@@ -187,7 +187,7 @@ Let $\Sp_\bT$ denote the $\infty$-category of 'genuine' $\bT=S^1$-spectra, what
 Barwick and Glasman call **cyclonic spectra** in [\[BG\]](#barwick-glasman). These have genuine fixed points
 spectra for each finite subgroup $C_n\subseteq\bT$.
 Given an integer $n\geq 1$, there are two endofunctors of $\Sp_\bT$, one given
-by the fixed points functor $(-)^{\h C_n}$ and the other given by the
+by the fixed points functor $(-)^{C_n}$ and the other given by the
 *geometric* fixed points functor $(-)^{\Phi C_n}$. These assemble into two
 $\bN^\times$-actions on $\Sp_\bT$.
 The $\infty$-category $\TCart$ of **topological Cartier modules** is
