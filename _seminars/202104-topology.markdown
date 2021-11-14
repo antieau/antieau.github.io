@@ -73,7 +73,8 @@ cohomology.
 10/11. **Yuri Sulyma** (Brown University). Floor homotopy theory.
 [\[NU Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1631571142).
 
-11/15. **Mark Behrens** (University of Notre Dame). TBA.
+11/15. **Mark Behrens** (University of Notre Dame). The algebraic tmf
+resolution.
 [\[NU Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1631658150).
 
 # COVID policy
