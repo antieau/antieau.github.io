@@ -71,6 +71,8 @@ Agnes Beaudry (Colorado)
 
 Mark Behrens (Notre Dame)
 
+John Greenlees (Warwick)
+
 Hans--Werner Henn (Strasbourg)
 
 Kathryn Hess (EPFL)
@@ -81,7 +83,11 @@ Tyler Lawson (Minnesota)
 
 Akhil Mathew (Chicago)
 
+Doug Ravenel (Rochester)    
+
 Charles Rezk (Illinois)
+
+Nat Stapleton (Kentucky)
 
 Vesna Stojanoska (Illinois)
 
