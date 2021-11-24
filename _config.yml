@@ -47,6 +47,8 @@ collections:
         output: true
     workshops:
         output: true
+    trips:
+        output: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
