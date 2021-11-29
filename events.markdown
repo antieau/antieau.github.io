@@ -32,6 +32,8 @@ Johns Hopkins University, 8-10 December 2021.
 Homotopical methods in geometry and physics @ Northwestern, School 19-20 March
 2022 and Conference 21-25 March 2022.
 
+Burt Totaro's Pinsky Lectures @ Northwestern, 6-8 April 2022.
+
 <a href="https://www.mfo.de/occasion/2219/www_view">Algebraic K-theory,
 Oberwolfach, 8-14
 May 2022</a>.
