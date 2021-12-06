@@ -32,6 +32,8 @@ Full cv \[[pdf](../assets/pdf/cv.pdf)\] \(04 Mar 2021\).
 
 # Notable grants and awards
 
+2021 Fellow of the AMS.
+
 2021 Member of the K-Theory Foundation.
 
 2020 NSF Grant _Cyclotomic spectra and p-divisible groups_.
