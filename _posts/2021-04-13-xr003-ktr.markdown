@@ -283,7 +283,7 @@ of Kaledin_, [arXiv:1602.02163](https://arxiv.org/abs/1602.02163).
 </span>
 
 <span id="betley-schlichtkrull">
-[BS] Betley, Schlichtkrull, _The cyclotomic trace and curves on {$K$}-theory_,
+[BS] Betley, Schlichtkrull, _The cyclotomic trace and curves on $K$-theory_,
     Topology **44**(4) (2005), 845-874.
 </span>
 

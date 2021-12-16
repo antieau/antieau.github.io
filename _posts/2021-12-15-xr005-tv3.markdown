@@ -1,0 +1,244 @@
+---
+layout: post
+title:  "arXiv reviews 5: Algebraic foliations III"
+stitle: "XR 5: Algebraic foliations III"
+tags: 2021 XR
+---
+<div style="display:none">
+$
+\newcommand\nil{\mathrm{nil}}
+\newcommand\gfrak{\mathfrak{g}}
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\N{\mathrm{N}}
+\newcommand\R{\mathrm{R}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Fscr{\mathcal{F}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\dRhat{\widehat{\dR}}
+\newcommand\we{\simeq}
+\newcommand\Sym{\mathrm{Sym}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bQ{\mathbf{Q}}
+\newcommand\bC{\mathbf{C}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}\,}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+$
+</div>
+
+<!--ëé-->
+
+This post is on the recent paper [\[1\]](#t1) of Toën on vanishing of Chern
+classes for crystals along derived foliations in the sense of [\[2\]](#tv1) and
+[\[3\]](#tv2). See [my previous post]({% post_url 2021-03-25-xr002-tv1 %}) on [\[2\]](#tv1)
+for background and definitions.
+
+To motivate the argument Toën gives for vanishing, consider the following
+proof that Chern classes of flat bundles are torsion in characteristic $0$.
+Specifically, let $X/\bC$ be a smooth scheme and let $E$ be a flat $\bC$-bundle
+on $X$. Each $c_i(E)\in\H^{2i}(X,\bZ)$ is torsion.
+
+To prove this, it is enough to show that the complexified Chern classes in
+$\H^{2i}(X,\bC)$ vanish. As $E$ is flat, it arises via pullback along
+$X\rightarrow X_{\dR}$ of a vector
+bundle on $X_\dR$. Here, $X_\dR$ is Simpson's de Rham stack, the prestack with
+$X_\dR(S)=X(S_{\mathrm{red}})$ for $S$ a commutative $\bC$-algebra.
+
+By looking at the cohomology of $$\mathrm{BGL}_n,$$ one finds that the complexified Chern
+classes of any vector bundle are in $\F^i\H^{2i}(X,\bC)$. In particular, those
+of the vector bundle on $X_\dR$ corresponding to the flat bundle $E$ are in
+$\F^i\H^{2i}(X_\dR,\bC)$. However, $X_\dR$ is formally étale so
+$\F^i\H^{2i}(X_\dR,\bC)=0$, and hence the complexified Chern classes vanish as
+well.
+
+Another perspective on the previous paragraph is that
+$\R\Gamma(X_\dR,\Oscr)\we\R\Gamma_\dR(X/\bC)$ and de Rham cohomology in
+characteristic $0$ is idempotent, so that
+$\R\Gamma_\dR(X_\dR/\bC)\we\R\Gamma(X,\Oscr)$ and the higher filtration
+weights vanish.
+
+This result predates the de Rham stack; it can also be proved by direct
+calculations in Chern--Weil theory.
+
+One case where something similar is known in mixed characteristic is for crystalline Chern classes of crystals on
+smooth $k$-schemes where $k$ is a perfect field of characteristic $p>0$. That
+these vanish integrally (not just rationally)
+is a theorem of Esnault and Shiho, which I understand has also been proven (and
+generalized) by Bhatt and Lurie in forthcoming work using the stack-theoretic
+approach to crystalline cohomology of Drinfeld.
+
+
+
+# Derived foliations in mixed characteristics
+
+The setting of Toën's paper is derived foliations, which I recall are complete
+filtered derived commutative rings $\dR_\Fscr$ which on associated grades are free over
+$\gr^0\dR_\Fscr$ on $\gr^1\dR_\Fscr=:\L_\Fscr[-1]$.
+The crucial subtlety to realize in mixed characteristics is that there are
+really (more than!) two notions of filtered derived commutative rings. This
+distinction appears in Raksit's thesis and I am writing up a general treatment.
+
+It suffices here to note that Toën's derived foliations are what I call
+crystalline filtered derived commutative rings and that the standard example
+of such an object is Hodge-filtered derived de Rham cohomology. The other
+natural example arises from HKR-filtered Hochcshild homology and leads to infinitesimal cohomology.
+
+Both
+notions support a notion of foliation. An infinitesimal derived foliation is in
+particular a
+complete filtered derived commutative ring with $\gr^\star\dR_\Fscr\we\mathrm{LSym}^\star_{\gr^0\dR_\Fscr}(\L_\Fscr[-1])$ whereas
+a crystalline derived foliation has
+$$\gr^\star\dR_\Fscr\we(\Lambda^\star_{\gr^0\dR_\Fscr}\L_\Fscr)[-\star].$$
+In a precise sense, these are ``one shear off'' where the shearing functor is
+the symmetric monoidal endofunctor $\mathrm{GrD}(\bZ)$ which takes a graded object
+$M(\star)$ to $M(\star)[2\star]$.
+
+Only crystalline derived foliations are considered in the remainder of this
+post.
+
+
+
+# Chern classes of perfect complexes
+
+Suppose that $k$ is a commutative ring, $S=\Spec k$, and $X$ is a derived $k$-scheme.
+Fix $\Fscr$ a $k$-linear foliation on $X$. If $E$ on $X$ is a perfect complex
+on $X$, then Toën shows there are Chern classes $c_i(E)\in\H^{2i}_\dR(X/S)$. In fact,
+$$c_i(E)\in\F^i_\H\H^{2i}_\dR(X/S),$$ the $i$th piece of the Hodge filtration, as follows in the end from the computation of the
+Hodge cohomology of $\mathrm{BGL}_n$.
+
+
+
+# The vanishing theorem
+
+The main idea that makes Toën's argument work is to use that if $E$ is a
+perfect complex on $X$ which admits the structure of an $\Fscr$-crystal, then
+$c_i(E)$ vanishes in the image of
+$$\H^{2i}_\dR(X/S)\rightarrow\H^{2i}(X/\Fscr),$$ where the right-hand side is
+defined to be the cohomology of the global sections of the de Rham complex of
+$\Fscr$ (or equivalently the derived global sections of $\F^0\dR_\Fscr$).
+
+In fact, more is true. There is a *second* filtration on $\R\Gamma_\dR(X/S)$
+which Toën calls the Hodge filtration, but which I will call here the
+Gauss--Manin connection because it generalizes Gauss--Manin connections. This filtration $\F^\star_{\Fscr\mathrm{GM}}\R\Gamma_{\dR}(X/S)$ has the property that it
+gives a complete filtration on $\R\Gamma_\dR(X/S)$ with associated graded
+pieces
+$$\gr^\star\R\Gamma_\dR(X/S)\we\R\Gamma_\dR(X/\Fscr,\Lambda^\star_{\Oscr_X}\N_\Fscr^\vee)[-\star],$$
+where $\N_\Fscr^\vee$ is by definition the fiber of
+$\L_{R/k}\rightarrow\L_\Fscr$, i.e., the conormal bundle of $\Fscr$. This
+conormal bundle canonically admits the structure of an $\Fscr$-crystal and the
+cohomology terms on the right are given by the derived global sections of the
+de Rham complex of the $\Fscr$-crystals $\Lambda^\star_{\Oscr_X}\N_\Fscr^\vee$.
+
+(In fact, this is a complete filtration in complete filtered complexes...)
+
+**Main lemma**. If $E$ is an $\Fscr$-crystal, then
+$$c_i(E)\in\F^i_{\Fscr\mathrm{GM}}\H^{2i}_\dR(X/S).$$
+
+The proof follows by functoriality of the Gauss--Manin connection.
+Specifically, $E$ defines a morphism of stacks $X\rightarrow\mathbf{Perf}$ and the
+$\Fscr$-crystal structure on $E$ promotes $X\rightarrow\mathbf{Perf}$ into a morphism
+of derived foliations $(X,\Fscr)\rightarrow(\mathbf{Perf},\mathbf{0})$, where
+$\mathbf{0}$ is the initial foliation, corresponding to the trivial de Rham
+complex $\Oscr_{\mathbf{Perf}}$.
+The lemma follows by functoriality of Chern classes and the fact that the
+Gauss--Manin connection on the de Rham cohomology of $\mathbf{Perf}$ corresponding to the initial foliation 
+$\mathbf{0}$ is nothing other than the Hodge filtration.
+
+**Main theorem**. Suppose that $E$ is an $\Fscr$-crystal and that
+$\N_\Fscr^\vee$ is a locally free $\Oscr_X$-module of rank $d$. If
+$f(x_1,\ldots)$ is a polynomial of degree $q>d$ (where $x_i$ has degree $2i$),
+    then $f(c_1(E),\ldots)=0$ in $\H^{2q}_{\dR}(X/S)$.
+
+This follows immediately from the main lemma and the fact that
+$\F^i_{\Fscr\mathrm{GM}}\R\Gamma_\dR(X/S)=0$ for $i>d$ by the completeness of the
+Gauss--Manin filtration and the identification of the associated graded pieces:
+$\Lambda^i_{\Oscr_X}\N_\Fscr^\vee=0$ for $i>d$.   
+
+**Example**. If $X\rightarrow Y\rightarrow S$ is any factorization of the
+structure morphism where $Y$ is smooth of rank relative dimension $d$ over $S$,
+  then for any $q>d$ and any crystal $E$ for the relative de Rham complex $\dR_{X/Y}$, the Chern class $c_q(E)=0$ vanishes in $\H^{2q}_{\dR}(X/S)$.
+
+The theorem gives a rigorous corollary to the following non-rigorous intuition. If
+the conormal bundle of $\Fscr$ is locally free of dimension $d$, then the "space of
+leaves" of $\Fscr$ behaves like a $d$-dimensional smooth scheme over $S$ and any $\Fscr$-crystal descends along the map from $X$ to the space of leaves.
+Vanishing of the Chern classes follows now from functoriality and the dimension
+of the space of leaves.
+
+The paper [\[1\]](#t1) contains a few other related results, especially on the
+vanishing of high-degree Chern classes in crystalline cohomology of conormal
+bundles for derived foliations which admits `lifts' to characteristic $0$.
+These are easy corollaries of the main theorem.
+
+# References
+
+<span id="t1">
+[1] Toën, _Classes caractéristiques des schémas feuilletés_,
+  [arXiv:2008.10489](https://arxiv.org/abs/2008.10489).
+</span>
+
+<span id="tv1">
+[2] Toën and Vezzosi, _Algebraic foliations and derived geometry: the Riemann-Hilbert correspondence_,
+  [arXiv:2001.05450](https://arxiv.org/abs/2001.05450).
+</span>
+
+<span id="tv2">
+[3] Toën and Vezzosi, _Algebraic foliations and derived geometry II: the Grothendieck-Riemann-Roch theorem_,
+    [arXiv:2007.09251](https://arxiv.org/abs/2007.09251).
+</span>
+
+<span id="esnault-shiho">
+[4] Esnault and Shiho, _Chern classes of crystals_,
+    Trans. AMS **371**(2) 2019, 1333–1358,
+    [arXiv:1511.06874](https://arxiv.org/abs/1511.06874).
