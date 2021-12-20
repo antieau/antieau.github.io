@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="home">
+  {{ content }}
+
+  <h1>courses</h1>
+
+  {% for course in site.courses reversed %}
+  <a href="{{ course.url }}">{{ course.year }} {{ course.quarter }} - {{ course.number}} - {{ course.title }}</a>.
+  {% endfor %}
+
+</div>

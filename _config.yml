@@ -51,6 +51,8 @@ collections:
         output: true
     notes:
         output: true
+    courses:
+        output: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

@@ -1,0 +1,105 @@
+---
+layout: course
+year: 2022
+quarter: Winter
+number: Math 440-2
+title: Introduction to algebraic topology
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TP{\mathrm{TP}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+$
+</div>
+
+# Details
+
+*Times*: MWF 1000.
+
+*Place*: Lunt Hall 101.
+
+*Office hours*: TBD in Lunt Hall 304.
+
+*Textbook*: Allen Hatcher's **Algebraic Topology**, available
+[on his webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html).
+
+*Catalog description*: the fundamental group of a space, covering spaces, and the van Kampen theorem; singular homology, Mayer--Vietoris, degree, and Euler characteristics.
+
+*Accessibility*. Any student requesting accommodations related to a disability or other condition is required to register with AccessibleNU (847-467-5530) and provide professors with an accommodation notification from AccessibleNU, preferably within the first two weeks of class.  All information will remain confidential.  See the [AccessibleNU website](https://www.northwestern.edu/accessiblenu/) for more information.
+
+# Syllabus
+
+**01/03**.
+
+**01/10**.
+
+**01/17**. No class on Monday to observe MLK day.
+
+**01/24**.
+
+**01/31**.
+
+**02/07**.
+
+**02/14**.
+
+**02/21**.
+
+**02/28**.
+
+**03/07**. Reading period begins Tuesday; no class meetings Wednesday or
+Friday, so Monday is the last day of the course.
+
+**03/17**. Final exam **1500--1700** if necessary.
