@@ -112,6 +112,10 @@ something because it is really the best.
 
 Ravi Vakil's spectral sequence [story book](https://www.3blue1brown.com/blog/exact-sequence-picturebook).
 
+Bhatt, *Algebraic geometry in mixed characteristic*,
+    [arXiv:2112.12010](https://arxiv.org/abs/2112.12010).
+    Notes for his ICM 2022 address.
+
 Mathew, *Some recent advances in topological Hochschild homology*,
     [arXiv:2101.00668](https://arxiv.org/abs/2101.00668). A nice survey paper,
     including some work on computing syntomic complexes of singular rings.
