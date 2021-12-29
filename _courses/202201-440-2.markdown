@@ -68,38 +68,39 @@ $
 
 *Times*: MWF 1000.
 
-*Place*: Lunt Hall 101.
+*Place*: On Zoom (first two weeks) and then in Lunt Hall 101.
 
-*Office hours*: TBD in Lunt Hall 304.
+*Office hours*: MWF 1100 on Zoom (first two weeks) and then in Lunt Hall 304.
 
-*Textbook*: Allen Hatcher's **Algebraic Topology**, available
-[on his webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html).
+*Textbook*: Course notes distributed on Canvas and Allen Hatcher's **Algebraic Topology**, available
+[on his webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) or at the
+campus bookstore.
 
 *Catalog description*: the fundamental group of a space, covering spaces, and the van Kampen theorem; singular homology, Mayer--Vietoris, degree, and Euler characteristics.
 
-*Accessibility*. Any student requesting accommodations related to a disability or other condition is required to register with AccessibleNU (847-467-5530) and provide professors with an accommodation notification from AccessibleNU, preferably within the first two weeks of class.  All information will remain confidential.  See the [AccessibleNU website](https://www.northwestern.edu/accessiblenu/) for more information.
+*Full syllabus*: on Canvas.
 
 # Syllabus
 
-**01/03**.
+**01/03**. *Homotopy groups*.
 
-**01/10**.
+**01/10**. *Covering spaces*.
 
-**01/17**. No class on Monday to observe MLK day.
+**01/17**. *Universal covers*. No class on Monday to observe MLK day.
 
-**01/24**.
+**01/24**. *The van Kampen theorem*.
 
-**01/31**.
+**01/31**. *Examples*.
 
-**02/07**.
+**02/07**. *Singular homology*.
 
-**02/14**.
+**02/14**. *Homological algebra*.
 
-**02/21**.
+**02/21**. *Excision and Mayer--Vietoris*.
 
-**02/28**.
+**02/28**. *Degree and CW homology*.
 
-**03/07**. Reading period begins Tuesday; no class meetings Wednesday or
+**03/07**. *Wrapup*. Reading period begins Tuesday; no class meetings Wednesday or
 Friday, so Monday is the last day of the course.
 
 **03/17**. Final exam **1500--1700** if necessary.
