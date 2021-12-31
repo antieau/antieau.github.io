@@ -1,0 +1,183 @@
+---
+layout: post
+title:  "arXiv reviews 6: Coherent cochain complexes"
+stitle: "XR 6: Coherent cochain complexes" 
+tags: 2021 XR
+---
+<div style="display:none">
+$
+\newcommand\nil{\mathrm{nil}}
+\newcommand\gfrak{\mathfrak{g}}
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\N{\mathrm{N}}
+\newcommand\R{\mathrm{R}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Fscr{\mathcal{F}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\dRhat{\widehat{\dR}}
+\newcommand\we{\simeq}
+\newcommand\Sym{\mathrm{Sym}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bQ{\mathbf{Q}}
+\newcommand\bC{\mathbf{C}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}\,}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+$
+</div>
+
+<!--ëé-->
+
+The final XR of 2021! This is about one of my favorite recent theorems, which
+is due to Ariotta [\[1\]](#ariotta). I call it the **$\E_1$-page theorem**. There is a lot in the
+paper, especially about Toda brackets and related questions, which I will
+ignore.
+
+The main idea is the following. Suppose that $\F^\star M$ is a decreasing filtered
+spectrum
+
+$$\cdots\F^{n+1}M\rightarrow\F^n M\rightarrow\F^{n-1}M\rightarrow\cdots.$$
+
+For integers $a<b$, let $\gr^{[a,b)}M$ be the cofiber of
+$\F^bM\rightarrow\F^aM$ and let $\gr^aM=\gr^{[a,a+1)}M$. Thus, $\gr^{[a,b)}$ is
+an iterated extension of $\gr^aM,\ldots,\gr^{b-1}M$.
+
+When $b=a+2$, there is a cofiber sequence
+
+$$\gr^{a+1}M\rightarrow\gr^{[a,a+2)}M\rightarrow\gr^aM$$
+
+which gives rise to a boundary map $$\delta\colon\gr^aM\rightarrow\gr^{a+1}M[1]$$. It is
+not hard to check that there is a specified nullhomotopy of $\delta^2$ when
+this makes sense. In particular, the sequence
+
+$$\cdots\rightarrow\gr^{-1}M[-1]\xrightarrow{\delta}\gr^0M\xrightarrow{\delta}\gr^1M[1]\xrightarrow{\delta}\gr^2M[2]\rightarrow\cdots\quad(\color{red}{\ast})$$
+
+looks like a kind of cochain complex in spectra. Lurie uses this idea in
+*Higher algebra* to study spectral sequences and so forth.
+
+Ariotta's paper makes precise exactly what kind of structure this sequence
+inherits from the filtered spectrum $\F^\star M$ and the extent to which
+$\F^\star M$ can be recovered from the sequence.
+
+**Definition**. Let $\Xi$ be the pointed category consisting of a point $\ast$ and
+an object $n$ for each integer $n$. Then, $$\mathrm{Hom}_\Xi(n,n-1)=\{\delta,\ast\}$$,
+$$\mathrm{Hom}_\Xi(m,n)=\ast$$ if $m\neq n+1$, and $$\delta^2=\ast$$, when this makes sense.
+The category $\Xi$ is the classifying category for cochain complexes in the
+following senese: if $\Ascr$ is an abelian category, then the category
+$$\mathrm{Fun}_\ast(\Xi,\Ascr)$$ of *pointed* functors $\Xi\rightarrow\Ascr$ is naturally equivalent to the category of 
+chain complexes in $\Ascr$. Similarly, $$\mathrm{Fun}_\ast(\Xi^\op,\Ascr)$$ is
+naturally equivalent to the category of cochain complexes in $\Ascr$.
+
+**Definition**.
+If $\Cscr$ is a stable $\infty$-category, then a **coherent cochain complex**
+in $\Cscr$ is a functor $\Xi^\op\rightarrow\Cscr$. The $\infty$-category of
+coherent cochain complexes in $\Cscr$ is $$\mathrm{Fun}_\ast(\Xi^\op,\Cscr)$$.
+
+Note that a functor $\Xi^\op\rightarrow\Cscr$ specifies a sequence
+$\cdots\rightarrow X^{-1}\xrightarrow{\delta} X^0\xrightarrow{\delta} X^1\rightarrow\cdots$
+with *specified* nullhomotopies $\delta^2\we 0$ and an infinite amount of
+coherent information relating the nullhomotopies.
+
+**Ariotta's $\E_1$-page Theorem**. If $\Cscr$ be a stable $\infty$-category,
+    then there is a natural functor
+    $$\F\Cscr\rightarrow\mathrm{\Fun}_\ast(\Xi^\op,\Cscr)$$ from the
+    $\infty$-category of filtered objects in $\Cscr$ to the $\infty$-category
+    of coherent cochain complexes in $\Cscr$ which realizes the construction $(\color{red}{\ast})$ above. If $\Cscr$ admits sequential
+    limits, then this functor induces an equivalence
+    $$\widehat{\F\Cscr}\we\mathrm{\Fun}_\ast(\Xi^\op,\Cscr)$$, where
+    $\widehat{\F\Cscr}$ is the stable $\infty$-category of complete filtrations
+    in $\Cscr$.
+
+Why do I call this the $\E_1$-page theorem?    
+
+If $\Cscr$ admits a $t$-structure, then there is an induced *pointwise* $t$-structure on
+the functor category $$\mathrm{Fun}_\ast(\Xi^\op,\Cscr)$$. If $\Cscr$ admits
+sequential limits, then this $t$-structure yields the Beilinson $t$-structure
+studied in [\[2\]](#bms2)
+on complete filtered objects $\widehat{\F\Cscr}$. 
+Given a complete filtered object $\F^\star M$, 
+the $\E_1$-page of the spectral sequence of $\F^\star M$, with respect to the
+fixed $t$-structure on $\Cscr$, is precisely the result of applying $\pi_*$ to
+the coherent cochain complex $(\color{red}{\ast})$.
+Ariotta's theorem says that conversely, if one keeps track of enough homotopy
+coherence, then one can go backwards from the $\E_1$-page to the complete
+filtered object. This lends new strength to the idea that spectral sequences
+are filtrations...
+
+It is possible that Ariotta's theorem can be extracted from Raksit's Koszul duality approach to
+filtered objects in [\[3\]](#raksit), which in turn follows Lurie's work in
+the rotation invariance paper. I have not checked the details.
+
+Happy new year!
+
+
+# References
+
+<span id="ariotta">
+[1] Ariotta, _Coherent cochain complexes and Beilinson $t$-structures, with an
+appendix by Achim Krause_,
+[<tt>arXiv:2109.01017</tt>](https://arxiv.org/abs/2109.01017).
+</span>
+
+<span id="bms2">
+[2] Bhargav Bhatt, Matthew Morrow, and Peter Scholze, *Topological Hochschild homology and integral p-adic Hodge theory*, Publ. Math. Inst. Hautes Études Sci.
+**129** (2019), 199–310.
+</span>
+
+<span id="raksit">
+[3] Raksit, _Hochschild homology and the derived de Rham complex
+revisited_,
+[<tt>arXiv:2007.025760</tt>](https://arxiv.org/abs/2007.02576).
+</span>

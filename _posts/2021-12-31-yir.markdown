@@ -82,21 +82,30 @@ $
 <!--ąëéłü-->
 
 A lot has happened in 2021. For myself, productivity was at an
-all-time low in much of 2021. Thankfully, mathematics continued at its
+all-time low for much of the year. But, mathematicians at large continued their
 break-neck speed and a ton of interesting papers were written and posted; see
-the 42 listed below.
+the 48 listed below.
 Returning to campus in the fall sparked new activity and I have gotten a lot
 done since then. Much of this work is bound up in a longer project which won't
 see the light of day for a bit longer.
 
 My PhD student Joel Stapleton successfully defended his PhD project which was
 to prove that Weibel's conjecture on vanishing of K-theory holds for Azumaya
-algebras; see his paper on the [arXiv](https://arxiv.org/abs/2002.00266).
+algebras; see his paper on the [arXiv](https://arxiv.org/abs/2002.00266), which
+will appear in the *Annals of K-Theory*.
 
-I finished one [paper](https://arxiv.org/abs/2106.04291) with Asher Auel which we had been thinking about for five
-years.
+Here are a few stats about work during the year.
+I finished one [paper](https://arxiv.org/abs/2106.04291) with Asher Auel on genus $1$ curves which we had been thinking about for five
+years. I also wrote 19 recommendation letters of various forms, wrote 2 referee
+reports (this is very low thanks to my sabbatical), and wrote 21 quick
+opinions!
 
-I wrote X blog posts.
+I wrote 12 blog posts here and read 40 or so non-math books, mostly novels, of which
+the best by far were George Eliot's *Middlemarch*, James Baldwin's *Go Tell it
+on the Mountain*, Arundhati Roy's *The God of Small Things*, and Fredrik
+Backman's *Anxious People*. In terms of nonfiction, I enjoyed Ayad Akhtar's *Homeland
+Elegies*, Tom Murphy's *Energy and Human Ambitions on a Finite Planet*, and
+Michael Pollan's *Omnivore's Dilemma*.
 
 I was excited to see that the [Stacks
 Project](https://stacks.math.columbia.edu/) and especially Johan de Jong won the [Steele Prize](https://www.ams.org/news?news_id=6894) for
@@ -106,7 +115,9 @@ the L-functions and modular forms database [LMFDB](https://www.lmfdb.org/) win
 something because it is really the best.
 
 
-## Notable papers, by theme
+## Some notable papers, by theme
+
+
 
 ###  Surveys
 
@@ -114,7 +125,12 @@ Ravi Vakil's spectral sequence [story book](https://www.3blue1brown.com/blog/exa
 
 Bhatt, *Algebraic geometry in mixed characteristic*,
     [arXiv:2112.12010](https://arxiv.org/abs/2112.12010).
-    Notes for his ICM 2022 address.
+    Notes for his ICM 2022 address. Some material on the forthcoming
+    Riemann--Hilbert correspondence with Lurie.
+
+Klinger, *Hodge theory, between algebraicity and transcedence*,
+    [arXiv:2112.13814](https://arxiv.org/abs/2112.13814).
+    Survey on o-minimality and connections to Hodge theory.
 
 Mathew, *Some recent advances in topological Hochschild homology*,
     [arXiv:2101.00668](https://arxiv.org/abs/2101.00668). A nice survey paper,
@@ -128,6 +144,10 @@ Gallauer, *An introduction to six-functor formalisms*,
     [arXiv:2112.10456](https://arxiv.org/abs/2112.10456). Another nice survey
     paper and a convenient reference.
 
+Wykowski and Schedler, *An investigation into Lie algebra representations
+obtained from regular holonomic D-modules*, [arXiv:2111.14774](https://arxiv.org/abs/2111.14774).
+Helpful survey focusing on the basic case of $\mathfrak{sl}_2$.
+
 
 
 
@@ -140,6 +160,7 @@ question left open by my paper with Bragg. See my [post]({% post_url 2021-09-28-
 details.
 
 Calaque, Campos, and Nuiten, *Lie algebroids are curved Lie algebras*, [arXiv:2103.10728](https://arxiv.org/abs/2103.10728).
+Model category approach to the $\infty$-categories of objects from the title.
 
 Moulinos, *Filtered formal groups, Cartier duality, and derived algebraic
 geometry*, [arXiv:2101.10262](https://arxiv.org/abs/2101.10262).
@@ -188,6 +209,14 @@ Morin, *Topological Hochschild homology and zeta-values*,
     filtrations on Hochschild homology and THH to something I know little
     about: zeta-values.
 
+Min and Wang, *On the Hodge--Tate crystals over $\Oscr_K$*,
+    [arXiv:2112.10140](https://arxiv.org/abs/2112.10140).
+
+Guo, *Crystalline cohomology of rigid analytic spaces*,
+    [arXiv:2112.14304](https://arxiv.org/abs/2112.14304).
+
+Guo, *Prismatic cohomology of rigid analytic spaces over de Rham period ring*,
+    [arXiv:2112.14746](https://arxiv.org/abs/2112.14746).
 
 
 ### Algebraic $K$-theory
@@ -237,6 +266,13 @@ Konovalov, *Nilpotent invariance of semi-topological K-theory of dg-algebras
 and the lattice conjecture*, [arXiv:2102.01566](https://arxiv.org/abs/2102.01566).
 Some new cases of Blanc's lattice conjecture, largely using assembly techniques.
 
+Burklund and Levy, *On the $K$-theory of regular coconnective rings*,
+         [arXiv:2112.14723](https://arxiv.org/abs/2112.14723).
+         The paper gives some nice results on vanishing of $K$-theory for
+         coconnective ring spectra, whereas most results are for connective
+         ring spectra. (It also corrects a gap in an argument in an example of
+                 my negative $K$-theory paper with Gepner and Heller.)
+
 
 
 
@@ -253,10 +289,6 @@ Moshe and Schlank, *Higher semiadditive $K$-theory and redshift*,
 
 Yuan, *Examples of chromatic redshift in algebraic $K$-theory*,
     [arXiv:2111.10837](https://arxiv.org/abs/2111.10837).
-
-Wykowski and Schedler, *An investigation into Lie algebra representations
-obtained from regular holonomic D-modules*, [arXiv:2111.14774](https://arxiv.org/abs/2111.14774).
-Helpful survey focusing on the basic case of $\mathfrak{sl}_2$.
 
 
 
@@ -275,6 +307,8 @@ cyclic homology*, [arXiv:2106.04891](https://arxiv.org/abs/2106.04891).
 Ariotta, *Coherent cochain complexes and Beilinson t-structures, with an
 appendix by Achim Krause*, [arXiv:2109.01017](https://arxiv.org/abs/2109.01017). A long-awaited
 paper on coherent cochain complexes.
+See my [post]({%
+post_url 2021-12-31-xr006-ariotta %}) for more details.
 
 Barthel and Pstrągowski, *Morava $K$-theory and filtrations by powers*,
         [arXiv:2111.06379](https://arxiv.org/abs/2111.06379).
