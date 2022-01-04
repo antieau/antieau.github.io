@@ -6,6 +6,12 @@ permalink: /events/
 
 <h1>workshops</h1>
 
+PCMI program on motivic homotopy, Summer 2024.
+
+IHES summer school on algebraic $K$-theory, 10-23 July 2023.
+
+MSRI summer school on derived algebraic geometry, Summer 2023.
+
 {% for workshop in site.workshops reversed %}
 <a href="{{ workshop.url }}">{{ workshop.title }}, {{ workshop.dates }}</a>.
 {% endfor %}
@@ -25,9 +31,8 @@ Midwest topology summer school on trace methods in algebraic k-theory @ Indiana 
 Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
-<h1>future trips</h1>
 
-Johns Hopkins University, 8-10 December 2021.
+<h1>future trips</h1>
 
 Homotopical methods in geometry and physics @ Northwestern, School 19-20 March
 2022 and Conference 21-25 March 2022.
@@ -35,8 +40,7 @@ Homotopical methods in geometry and physics @ Northwestern, School 19-20 March
 Burt Totaro's Pinsky Lectures @ Northwestern, 6-8 April 2022.
 
 <a href="https://www.mfo.de/occasion/2219/www_view">Algebraic K-theory,
-Oberwolfach, 8-14
-May 2022</a>.
+Oberwolfach, 8-14 May 2022</a>.
 
 <a href="https://www.mpim-bonn.mpg.de/node/10868">Twinned conference on
 homotopy theory with applications to arithmetic and geometry @ Fields Insitute
@@ -44,3 +48,11 @@ and MPIM, 27-30 June 2022</a>.
 
 <a href="https://www.mfo.de/occasion/2231/www_view">Non-commutative geometry
 and cyclic homology @ Oberwolfach, 31 July to 6 August 2022</a>.
+
+Workshop on $p$-adic Hodge theory, Clay Research Conference, 26-30 September 2022.
+
+
+
+<h1>past trips</h1>
+
+Johns Hopkins University, 8-10 December 2021.
