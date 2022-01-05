@@ -84,7 +84,7 @@ $
 A lot has happened in 2021. For myself, productivity was at an
 all-time low for much of the year. But, mathematicians at large continued their
 break-neck speed and a ton of interesting papers were written and posted; see
-the 48 listed below.
+the 49 listed below.
 Returning to campus in the fall sparked new activity and I have gotten a lot
 done since then. Much of this work is bound up in a longer project which won't
 see the light of day for a bit longer.
@@ -161,6 +161,11 @@ details.
 
 Calaque, Campos, and Nuiten, *Lie algebroids are curved Lie algebras*, [arXiv:2103.10728](https://arxiv.org/abs/2103.10728).
 Model category approach to the $\infty$-categories of objects from the title.
+
+Brantner, Campos, and Nuiten, *PD operads and explicit partition Lie algebras*,
+    [arXiv:2104.03870](https://arxiv.org/abs/2104.03870). More intuition about
+    partition Lie algebras and deformation theory in characteristic $p$. Also
+    some interesting Koszul duality remarks using pro-coherent modules.
 
 Moulinos, *Filtered formal groups, Cartier duality, and derived algebraic
 geometry*, [arXiv:2101.10262](https://arxiv.org/abs/2101.10262).
