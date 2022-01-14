@@ -22,11 +22,11 @@ Full cv \[[pdf](../assets/pdf/cv.pdf)\] \(04 Mar 2021\).
 
 # Education
 
-2010 PhD in Mathematics at the UIC.
+2010 PhD in Mathematics at UIC.
 
-2006 MS in Mathematics at the UIC.
+2006 MS in Mathematics at UIC.
 
-2004 AB in Philosophy at the University of Chicago.
+2004 AB in Philosophy at University of Chicago.
 
 
 
