@@ -103,6 +103,14 @@ Bakker and Mullane, *Definable structuers on flat bundles*,
 Saito, *Notes on regular holonomic D-modules for algebraic geometers*,
 [arXiv:2201.01507](https://arxiv.org/abs/2201.01507).
 
+Bhatt and Lurie, *Absolute prismatic cohomology*,
+      [arXiv:2201.06120](https://arxiv.org/abs/2201.06120).
+
+Bhatt and Lurie, *The prismatization of $p$-adic formal schemes*,
+      [arXiv:2201.06124](https://arxiv.org/abs/2201.06124).
+
+Min and Wang, *$p$-adic Simpson's correspondence via prismatic crystals*,
+    [arXiv:2201.08030](https://arxiv.org/abs/2201.08030).
 
 
 
