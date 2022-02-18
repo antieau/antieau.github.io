@@ -112,6 +112,25 @@ Bhatt and Lurie, *The prismatization of $p$-adic formal schemes*,
 Min and Wang, *$p$-adic Simpson's correspondence via prismatic crystals*,
     [arXiv:2201.08030](https://arxiv.org/abs/2201.08030).
 
+Bhatt and Mathew, *Syntomic complexes and p-adic étale Tate twists*,
+      [arXiv:2202.04818](https://arxiv.org/abs/2202.04818).
+
+Hui Gao, *Hodge--Tate prismatic crystals and Sen theory*,
+    [arXiv:2201.10136](https://arxiv.org/abs/2201.10136).
+
+de Jong and Olander, *On weakly étale morphisms*,
+   [arXiv:2202.05875](https://arxiv.org/abs/2202.05875). Proves that weakly
+   \'etale morphisms (i.e., those appearing in the pro-étale topology) are
+   precisely those which admit the right lifting property with respect to maps
+   $\Spec(A/I)\rightarrow\Spec(A)$ where $(A,I)$ is a henselian pair.
+
+
+### Torsors
+
+Iyer and Parimala, *Period-index problem for hyperelliptic curves*,
+     [arXiv:2201.12780](https://arxiv.org/abs/2201.12780).
+
+
 
 
 ### Algebraic $K$-theory
