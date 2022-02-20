@@ -75,6 +75,12 @@ Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=16
 04/13. **Shizhang Li** (University of Michigan). [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645223003).
 
+04/18. **Jeremy Hahn** (MIT). [\[NU
+Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379311).
+
+05/16. **Mark Walker** (University of Nebraska). [\[NU
+Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379383).
+
 
 
 # COVID policy
