@@ -81,6 +81,8 @@ Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=16
 05/16. **Mark Walker** (University of Nebraska). [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379383).
 
+06/01 **Arpon Raksit** (MIT). [\[NU
+Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645628361).
 
 
 # COVID policy
