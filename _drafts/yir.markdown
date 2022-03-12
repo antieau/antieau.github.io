@@ -128,6 +128,9 @@ Mondal, *Reconstruction of the stacky approach to de Rham cohomology*,
     [arXiv:2202.07089](https://arxiv.org/abs/2202.07089). A nice explanation of
     the role of affinization in the context of de Rham theory.
 
+Iwanari, *On $D$-modules of categories II*,
+    [arXiv:2202.13568](https://arxiv.org/abs/2202.13568).
+
 
 ### Torsors
 
