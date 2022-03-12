@@ -124,16 +124,31 @@ de Jong and Olander, *On weakly étale morphisms*,
    precisely those which admit the right lifting property with respect to maps
    $\Spec(A/I)\rightarrow\Spec(A)$ where $(A,I)$ is a henselian pair.
 
+Mondal, *Reconstruction of the stacky approach to de Rham cohomology*,
+    [arXiv:2202.07089](https://arxiv.org/abs/2202.07089). A nice explanation of
+    the role of affinization in the context of de Rham theory.
+
 
 ### Torsors
 
 Iyer and Parimala, *Period-index problem for hyperelliptic curves*,
      [arXiv:2201.12780](https://arxiv.org/abs/2201.12780).
 
+Cesnavicius, *Problems about torsors over regular rings (with an appendix by Yifei
+        Zhao)*, [arXiv:2201.06424](https://arxiv.org/abs/2201.06424). A good,
+modern survey, focusing on the Grothendieck--Serre conjecture.
+
 
 
 
 ### Algebraic $K$-theory
+
+Neeman, *Bounded t-structures on the category of perfect complexes*,
+    [arXiv:2202.08861](https://arxiv.org/abs/2202.08861).
+
+Land, *Gabber rigidity in hermitian K-theory*,
+    [arXiv:2202.09676](https://arxiv.org/abs/2202.09676). The title says it
+    all.
 
 
 
