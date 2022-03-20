@@ -8,6 +8,8 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[42] B. Antieau, A. Mathew, and M. Morrow, _The K-theory of perfectoid rings_, \[[arxiv:2203](http://arxiv.org/abs/2203.06472)\].
+
 [41] B. Antieau and A. Auel, _Explicit descent on elliptic curves and splitting
 Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 

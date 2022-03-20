@@ -9,6 +9,7 @@ layout: default
 
   {% for course in site.courses reversed %}
   <a href="{{ course.url }}">{{ course.year }} {{ course.quarter }} - {{ course.number}} - {{ course.title }}</a>.
+  <br>
   {% endfor %}
 
 </div>

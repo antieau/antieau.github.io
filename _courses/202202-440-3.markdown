@@ -1,7 +1,9 @@
 ---
-layout: seminar
-term: 2022 Spring
-title: Topology seminar
+layout: course
+year: 2022
+quarter: Spring
+number: Math 440-3
+title: Cohomology
 ---
 <div style="display:none">
 $
@@ -44,6 +46,7 @@ $
 \newcommand\HC{\mathrm{HC}}
 \newcommand\HP{\mathrm{HP}}
 \newcommand\TC{\mathrm{TC}}
+\newcommand\TP{\mathrm{TP}}
 \newcommand{\bMap}{\mathbf{Map}}
 \newcommand{\End}{\mathrm{End}}
 \newcommand{\Mod}{\mathrm{Mod}}
@@ -61,30 +64,46 @@ $
 $
 </div>
 
-The seminars will take place on Mondays or Wednesdays at 2pm in Lunt 101.
+<!-- éČ -->
 
-# Schedule
+# Details
 
-03/28. **Sanath Devalapurkar** (Harvard University). [\[NU
-Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645222905).
+*Times*: MWF 1000.
 
-03/30. **Tasos Moulinos** (Toulouse). [\[NU
-Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645222960).
+*Place*: Lunt Hall 101.
 
-04/13. **Shizhang Li** (University of Michigan). [\[NU
-Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645223003).
+*Office hours*: TBD. <!--MWF 1100 in Lunt Hall 304.-->
 
-04/18. **Jeremy Hahn** (MIT). [\[NU
-Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379311).
+*Textbook*: Allen Hatcher's **Algebraic Topology**, available
+[on his webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) or at the
+campus bookstore.
 
-05/16. **Mark Walker** (University of Nebraska). [\[NU
-Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379383).
+*Catalog description*: de Rham cohomology,
+Poincaré duality, singular cohomology, cohomology of cell complexes, simplicial cohomology, Čech cohomology, cup product, sheaves.
 
-06/01 **Arpon Raksit** (MIT). [\[NU
-Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645628361).
+*Full syllabus*: on Canvas.
 
-# COVID policy
+# Syllabus
 
-All attendees from outside Northwestern University will be required to have been fully vaccinated or have received a negative COVID test within 48 hours of the event start, as well as comply with all other University safety protocols that are in place at the time of the event. Participants unwilling or unable to abide by these requirements should not attend.
+**03/28**. *Homotopy groups*. No class on Monday.
 
+**04/04**. *Covering spaces*.
 
+**04/11**. *Universal covers*.
+
+**04/18**. *The van Kampen theorem*.
+
+**04/25**. *Examples*.
+
+**05/02**. *Singular homology*.
+
+**05/09**. *Homological algebra*.
+
+**05/16**. *Excision and Mayer--Vietoris*.
+
+**05/23**. *Degree and CW homology*.
+
+**05/30**. No class on Monday to observe Memorial Day. Reading period begins Tuesday; so no class meetings Wednesday or
+Friday either.
+
+**06/07**. Final exam **1500--1700**.
