@@ -65,7 +65,8 @@ The seminars will take place on Mondays or Wednesdays at 2pm in Lunt 101.
 
 # Schedule
 
-03/28. **Sanath Devalapurkar** (Harvard University). [\[NU
+03/28. **Sanath Devalapurkar** (Harvard University). Chromatic aberrations of
+the geometric Satake equivalence. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645222905).
 
 03/30. **Tasos Moulinos** (Toulouse). [\[NU
