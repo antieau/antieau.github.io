@@ -69,7 +69,8 @@ The seminars will take place on Mondays or Wednesdays at 2pm in Lunt 101.
 the geometric Satake equivalence. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645222905).
 
-03/30. **Tasos Moulinos** (Toulouse). [\[NU
+03/30. **Tasos Moulinos** (Toulouse). Cogroupoid structures on the circle and
+the Hodge degeneration. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645222960).
 
 04/13. **Shizhang Li** (University of Michigan). [\[NU
