@@ -156,5 +156,5 @@ the derived category of a Noetherian ring*, J. Algebra **324** (2010), no. 3, 31
 <span id="smith">
 [7] Smith, *Bounded t-structures on the category of perfect complexes over a
 Noetherian ring of finite Krull dimension*,
-[<tt>arXiv:1910.07697</tt>](https://arxiv.org/abs/1910.07697).
+Adv. Math. **399** (2022) 108241.
 </span>

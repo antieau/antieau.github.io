@@ -72,36 +72,37 @@ $
 
 *Place*: Lunt Hall 101.
 
-*Office hours*: TBD. <!--MWF 1100 in Lunt Hall 304.-->
+*Office hours*: MWF 1100 in Lunt Hall 304.
 
 *Textbook*: Allen Hatcher's **Algebraic Topology**, available
 [on his webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) or at the
 campus bookstore.
 
-*Catalog description*: de Rham cohomology,
-Poincaré duality, singular cohomology, cohomology of cell complexes, simplicial cohomology, Čech cohomology, cup product, sheaves.
+*Catalog description*: singular cohomology, the cup product, de Rham cohomology,
+    sheaf cohomology, Čech cohomology, the Poincaré lemma, the de Rham theorem,
+    orientability, Poincaré duality, cohomology with compact supports.
 
 *Full syllabus*: on Canvas.
 
 # Syllabus
 
-**03/28**. *Homotopy groups*. No class on Monday.
+**03/28**. *The cup product on singular cohomology*. The first day of class is **Tuesday 03/29**.
 
-**04/04**. *Covering spaces*.
+**04/04**. *Sheaves*.
 
-**04/11**. *Universal covers*.
+**04/11**. *Sheaf cohomology and Čech cohomology*.
 
-**04/18**. *The van Kampen theorem*.
+**04/18**. *The singular--sheaf cohomology comparison theorem*.
 
-**04/25**. *Examples*.
+**04/25**. *de Rham cohomology*.
 
-**05/02**. *Singular homology*.
+**05/02**. *The Poincaré lemma and the de Rham theorem*.
 
-**05/09**. *Homological algebra*.
+**05/09**. *Orientability*.
 
-**05/16**. *Excision and Mayer--Vietoris*.
+**05/16**. *Poincaré duality*.
 
-**05/23**. *Degree and CW homology*.
+**05/23**. *Cohomology with compact supports*.
 
 **05/30**. No class on Monday to observe Memorial Day. Reading period begins Tuesday; so no class meetings Wednesday or
 Friday either.
