@@ -73,7 +73,8 @@ Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=16
 the Hodge degeneration. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645222960).
 
-04/13. **Shizhang Li** (University of Michigan). [\[NU
+04/13. **Shizhang Li** (University of Michigan). Universal pathology in p-adic
+cohomology theory. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645223003).
 
 04/18. **Jeremy Hahn** (MIT). [\[NU
