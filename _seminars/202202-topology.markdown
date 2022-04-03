@@ -88,6 +88,8 @@ Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=16
 
 # COVID policy
 
-All attendees from outside Northwestern University will be required to have been fully vaccinated or have received a negative COVID test within 48 hours of the event start, as well as comply with all other University safety protocols that are in place at the time of the event. Participants unwilling or unable to abide by these requirements should not attend.
-
-
+All attendees from outside Northwestern University are expected to adhere to
+applicable University safety protocols that are in place at the time they visit
+campus. Most restrictions have been lifted at this time; see
+[here](https://www.northwestern.edu/coronavirus-covid-19-updates/university-status/expectations/visitors/#:~:text=change%20over%20time.-,Guidance,the%20time%20they%20visit%20campus.)
+for more details.
