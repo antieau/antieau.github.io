@@ -77,7 +77,7 @@ Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=16
 cohomology theory. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645223003).
 
-04/18. **Jeremy Hahn** (MIT). [\[NU
+04/18. **Jeremy Hahn** (MIT). The even filtration. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379311).
 
 05/16. **Mark Walker** (University of Nebraska). [\[NU
