@@ -91,7 +91,7 @@ $
 <!--ëéłö-->
 
 Achim Krause, Thomas Nikolaus, and I have uploaded our research announcement
-[\[1\]](#akn) on the $\K$-groups of $\bZ/p^n$ to the arXiv. We have constructed an algorithm to compute the
+[\[1\]](#akn) on the $\K$-groups of $\bZ/p^n$ to the arXiv. We constructed an algorithm to compute the
 syntomic cohomology $\bZ_p(i)$ in the sense of Bhatt--Morrow--Scholze of $\bZ/p^n$ or
 more generally $\Oscr_K/\varpi^n$ where $K$ is a finite extension of $\bQ_p$
 and $\varpi$ is a uniformizer of the ring of integers $\Oscr_K$.
@@ -108,7 +108,7 @@ $$\K_{2i-2}(\Oscr_K/\varpi^n;\bZ_p)\cong\H^2(\bZ_p(i)(\Oscr_K/\varpi^n))$$
 for $i\geq 2$. The $\K$-groups are torsion and the prime-to-$p$ information is governed by
 Quillen's computation of the $\K$-theory of finite fields.
 
-Please see the announcement for tables of computations. After running our
+See the announcement for tables of computations and references. After running our
 algorithm in a bunch of cases, we conjectured that in fact the even groups vanish for $i$
 sufficiently large. This is indeed the case.
 
@@ -119,8 +119,10 @@ $$i\geq\frac{p^2}{(p-1)^2}\left(p^{\lceil\tfrac{n}{e}\rceil}-1\right),$$
 then $\K_{2i-2}(\Oscr_K/\varpi^n)=0$.
 
 Recall that Bhatt and Scholze proved the odd vanishing conjecture, namely that
-odd $\K$-groups vanish quasisyntomic-locally. (This had been prove in
-characteristic $p$ first in BMS2.) In particular, Bhatt and Scholze proved that
+odd $\K$-groups vanish and even $\K$-groups are
+$p$-torsion free quasisyntomic-locally . (This had been proved in
+characteristic $p$ first in BMS2.) Bhatt and Scholze also proved a more precise
+statement which showed in particular that
 $\K_*(\Oscr_{\bC_p}/p^n;\bZ_p)$ is concentrated in even degrees.
 Combined with our theorem, one obtains the following consequence.
 
@@ -130,17 +132,32 @@ is $p$-torsion free.
 
 **Proof**. Write $\Oscr_{\bC_p}/p^n$ as a filtered colimit of
 flat $\bZ/p^n$-algebras,
-$\Oscr_K/\varpi^m$, where $K$ has ramification index $e$ over $\bQ_p$ and hence
+$\Oscr_K/\varpi^m$, where $K$ has ramification index $e$ over $\bQ_p$ and
 $n=\tfrac{m}{e}$. In particular, the exponent $\lceil\tfrac{m}{e}\rceil=n$ in the bound from the even
 vanishing theorem is independent of $K$. It follows that
-$$\mathrm{colim}_K\K_{2i-2}(\Oscr_K/\varpi^n;\bZ_{(p)})$$ vanishes for $i\geq 2$.
-Now, the odd vanishing theorem of Bhatt and Scholze implies that
 
-$$\lim^0_r(\K_{2i-1}(\Oscr_K/\vari^n;\bZ/p^r))=0$$
+$$\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_{(p)})\cong\mathrm{colim}_K\K_{2i-2}(\Oscr_K/\varpi^m;\bZ_{(p)})$$
+
+vanishes for $i\geq \frac{p^2(p^n-1)}{(p-1)^2}$.
+The computation of Bhatt and Scholze and the Milnor sequences
+
+$$0\rightarrow{\lim}^1_r(\K_{n-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))\rightarrow\K_n(\Oscr_{\bC_p}/p^n;\bZ_p)\rightarrow{\lim}^0_r(\K_n(\Oscr_{\bC_p}/p^n;\bZ/p^r)\rightarrow
+        0$$
+
+imply that
+
+$${\lim}^0_r(\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))=0$$
 
 and
 
-$$\lim^1_r(\K_{2i-1})(\Oscr_K/\varpi^n;\bZ/p^r))\iso\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_p).$$
+$${\lim}^1_r(\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))\cong\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_p)$$
+
+for $i$ in the given range. It follows that
+$\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r)=0$ for all $r$, so
+$$\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ_{(p)})$$ is $p$-torsion *and* $p$-divisible.
+Thus, $${\lim}^1_r(\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))$$ is $p$-torsion-free,
+since $p$-torsion would contribute to
+$\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p)=0$. This completes the proof.
 
 # References
 
