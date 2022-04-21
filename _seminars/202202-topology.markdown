@@ -80,9 +80,6 @@ Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=16
 04/18. **Jeremy Hahn** (MIT). The even filtration. [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379311).
 
-05/16. **Mark Walker** (University of Nebraska). [\[NU
-Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645379383).
-
 06/01 **Arpon Raksit** (MIT). [\[NU
 Calendar\]](https://sites.math.northwestern.edu/news/calendar/abstract.cgi?id=1645628361).
 
