@@ -26,7 +26,7 @@ Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 [36]  B. Antieau, B. Bhatt, and A. Mathew, _Counterexamples to Hochschild-Kostant-Rosenberg in characteristic p_, Forum of Mathematics, Sigma **9**:49, 1-26. \[[Sigma](https://doi.org/10.1017/fms.2021.20)\]. \[[arxiv:1909](https://arxiv.org/abs/1909.11437)\]. \[[Video](https://northwestern.zoom.us/rec/share/tMZeF-r3_FxOQIGTzVDiZoszHt6iX6a82yAf-vILzkupReKlAhITZRWnsoenib4r?startTime=1590005802000)\].
 
-[35]  B. Antieau and D. Bragg, _Derived invariants from topological Hochschild homology_, to appear in Algebraic Geometry. \[[arxiv:1906](https://arxiv.org/abs/1906.12267)\].
+[35]  B. Antieau and D. Bragg, _Derived invariants from topological Hochschild homology_, Algebraic Geometry **9** (2022), no. 3, 364-399. \[[AG](https://algebraicgeometry.nl/#issue[51])\]. \[[arxiv:1906](https://arxiv.org/abs/1906.12267)\].
 
 [34]  N. Addington, B. Antieau, S. Frei, and K. Honigs, _Rational points and derived equivalence_, Compositio Math. **157** (2021), no. 5, 1036-1050. \[[Compositio](https://www.doi.org/10.1112/S0010437X21007089)\]. \[[arxiv:1906](https://arxiv.org/abs/1906.02261)\].
 
