@@ -130,6 +130,9 @@ Combined with our theorem, one obtains the following consequence.
 $\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_p)$
 is $p$-torsion free.
 
+**Added 03 May 2022**: Bhargav Bhatt pointed out that the stronger form of the
+odd vanishing conjecture can be used to make the proof below easier.
+
 **Proof**. Write $\Oscr_{\bC_p}/p^n$ as a filtered colimit of
 flat $\bZ/p^n$-algebras,
 $\Oscr_K/\varpi^m$, where $K$ has ramification index $e$ over $\bQ_p$ and
@@ -139,29 +142,21 @@ vanishing theorem is independent of $K$. It follows that
 $$\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_{(p)})\cong\mathrm{colim}_K\K_{2i-2}(\Oscr_K/\varpi^m;\bZ_{(p)})$$
 
 vanishes for $i\geq \frac{p^2(p^n-1)}{(p-1)^2}$.
-The computation of Bhatt and Scholze and the Milnor sequences
-
-$$0\rightarrow{\lim}^1_r(\K_{n-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))\rightarrow\K_n(\Oscr_{\bC_p}/p^n;\bZ_p)\rightarrow{\lim}^0_r(\K_n(\Oscr_{\bC_p}/p^n;\bZ/p^r)\rightarrow
-        0$$
-
-imply that
-
-$${\lim}^0_r(\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))=0$$
-
-and
-
-$${\lim}^1_r(\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))\cong\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_p)$$
-
-for $i$ in the given range. It follows that
-$\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r)=0$ for all $r$, so
-$$\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ_{(p)})$$ is $p$-torsion *and* $p$-divisible.
-Thus, $${\lim}^1_r(\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p^r))$$ is $p$-torsion-free,
-since $p$-torsion would contribute to
-$\K_{2i-1}(\Oscr_{\bC_p}/p^n;\bZ/p)=0$. This completes the proof.
+Now, the strong form of the odd vanishing theorem given in Corollary 14.3 of
+[\[2\]](#bs) implies that the odd $p$-adic $\K$-groups of $\Oscr_{\bC_p}/p^n$
+vanish since this is the case for $\Oscr_{\bC_p}$ itself. It follows that for
+$\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_p)\simeq\H^0(\bZ_p(i-1)(\Oscr_{\bC_p}/p^n))$ for $i$
+in the given range. By $p$-torsion freeness of the quasisyntomic sheaves
+$\bZ_p(i)$, the result now follows.
 
 # References
 
 <span id="akn">
 [1] Antieau, Krause, and Nikolaus, *The K-theory of $\bZ/p^n$*,
     [<tt>arXiv:2204.03420</tt>](https://arxiv.org/abs/2204.03420).
+</span>
+
+<span id="bs">
+[2] Bhatt, Scholze, *Prisms and prismatic cohomology*,
+    [<tt>arXiv:1905.08229</tt>](https://arxiv.org/abs/1905.08229).
 </span>
