@@ -133,21 +133,14 @@ is $p$-torsion free.
 **Added 03 May 2022**: Bhargav Bhatt pointed out that the stronger form of the
 odd vanishing conjecture can be used to make the proof below easier.
 
-**Proof**. Write $\Oscr_{\bC_p}/p^n$ as a filtered colimit of
-flat $\bZ/p^n$-algebras,
-$\Oscr_K/\varpi^m$, where $K$ has ramification index $e$ over $\bQ_p$ and
-$n=\tfrac{m}{e}$. In particular, the exponent $\lceil\tfrac{m}{e}\rceil=n$ in the bound from the even
-vanishing theorem is independent of $K$. It follows that
+**Added 14 May 2022**: Bhargav pointed out again that there is an easier
+argument! I was worried about something the even groups in
+$\K_{2i-2}(\Oscr_K/\varpi^m)$ somehow accumulating to contribute to
+$\H^2(\bZ_p(i)(\Oscr_{\bC_p}/p^n))$, which is not possible since for *any*
+quasiregular semiperfectoid ring $R$ the $p$-adic syntomic complexes $\bZ_p(i)(R)$
+have cohomology concentrated in degrees $[0,1]$. So, this `corollary' is really
+an easier corollary of the results of Bhatt--Morrow--Scholze and Bhatt--Scholze.
 
-$$\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_{(p)})\cong\mathrm{colim}_K\K_{2i-2}(\Oscr_K/\varpi^m;\bZ_{(p)})$$
-
-vanishes for $i\geq \frac{p^2(p^n-1)}{(p-1)^2}$.
-Now, the strong form of the odd vanishing theorem given in Corollary 14.3 of
-[\[2\]](#bs) implies that the odd $p$-adic $\K$-groups of $\Oscr_{\bC_p}/p^n$
-vanish since this is the case for $\Oscr_{\bC_p}$ itself. It follows that for
-$\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_p)\simeq\H^0(\bZ_p(i-1)(\Oscr_{\bC_p}/p^n))$ for $i$
-in the given range. By $p$-torsion freeness of the quasisyntomic sheaves
-$\bZ_p(i)$, the result now follows.
 
 # References
 
