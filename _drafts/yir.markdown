@@ -79,7 +79,7 @@ $
 $
 </div>
 
-<!--ąëéłü-->
+<!--ąëéèłü-->
 
 2022 year in review.
 
@@ -131,6 +131,12 @@ Mondal, *Reconstruction of the stacky approach to de Rham cohomology*,
 Iwanari, *On $D$-modules of categories II*,
     [arXiv:2202.13568](https://arxiv.org/abs/2202.13568).
 
+Moulinos, *Cogroupoid structures on the circle and the Hodge degeneration*,
+    [arXiv:2203.11806](https://arxiv.org/abs/2203.11806).
+
+Li, Liu, *On the $u^{\infty}$-torsion submodule of prismatic cohomology*,
+    [arXiv:2204.03411](https://arxiv.org/abs/2204.03411).
+
 
 ### Torsors
 
@@ -141,6 +147,8 @@ Cesnavicius, *Problems about torsors over regular rings (with an appendix by Yif
         Zhao)*, [arXiv:2201.06424](https://arxiv.org/abs/2201.06424). A good,
 modern survey, focusing on the Grothendieck--Serre conjecture.
 
+Cesnavicius, *The Bass--Quillen phenomenon for reductive group torsors*,
+    [arXiv:2204.08233](https://arxiv.org/abs/2204.08233).
 
 
 
@@ -153,6 +161,21 @@ Land, *Gabber rigidity in hermitian K-theory*,
     [arXiv:2202.09676](https://arxiv.org/abs/2202.09676). The title says it
     all.
 
+Hebestreit, Lachmann, Steimle, *The localisation theorem for the K-theory of
+stable $\infty$-categories*,
+       [arXiv:2205.06104](https://arxiv.org/abs/2205.06104).
+
+Burklund, Levy, *On the K-theory of regular coconnective rings*,
+    [arXiv:2112.14723](https://arxiv.org/abs/2112.14723).
+
+Riggenbach, *K-theory of cuspidal curves over a perfectoid base and formal analogues*,
+    [arXiv:2203.17136](https://arxiv.org/abs/2203.17136).
+
+Annala, Iwasa, *Motivic spectra and universality of K-theory*,
+    [arXiv:2204.03434](https://arxiv.org/abs/2204.03434).
+
+Cotner, Zavyalov, *Lefschetz theorems in flat cohomology and applications*,
+   [arXiv:2204.06121](https://arxiv.org/abs/2204.06121).
 
 
 ### Redshift
