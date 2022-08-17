@@ -18,7 +18,7 @@ Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 [40] B. Antieau, A. Mathew, M. Morrow, and T. Nikolaus, _On the Beilinson fiber square_, to appear in Duke. \[[arxiv:2003](https://arxiv.org/abs/2003.12541)\].
 
-[39] B. Antieau and B. Williams, _The topological period-index conjecture_, to appear in Mathematical Research Letters. \[[arxiv:2003](https://arxiv.org/abs/2003.10539)\].
+[39] B. Antieau and B. Williams, _The topological period-index conjecture_, Mathematical Research Letters **28** (2021), no. 5, 1307-1317. \[[arxiv:2003](https://arxiv.org/abs/2003.10539)\].
 
 [38]  B. Antieau and R. Datta, _Valuation rings are derived splinters_, Math. Z. **299** (2021), 827-851. \[[Math. Z.](https://doi.org/10.1007/s00209-020-02683-6)\]. \[[arxiv:2002](https://arxiv.org/abs/2002.01067)\].
 
