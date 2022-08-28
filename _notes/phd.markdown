@@ -73,5 +73,6 @@ In order to work with me specifically, you will typically need to take at least 
 course of mine and at least one independent study with me. This completed, you will
 need to pass the qualifying exam under my direction. (See the [graduate
 handbook](https://www.math.northwestern.edu/graduate/handbook/index.html).)
-Only then is it possible for you to become my PhD student and I am always open
-to advising PhD students who have followed the steps above.
+At this point it is technically possible for you to become my PhD student. I am always open
+to advising PhD students who have followed the steps above, but, even then, I cannot take as many students who
+want to work with me.
