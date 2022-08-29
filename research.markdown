@@ -100,6 +100,14 @@ Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 [0]  B. Antieau, _The spectral index of Brauer classes_, PhD thesis (2010), UIC. \[[pdf](../assets/pdf/thesis-screen.pdf)\].
 
+# other writing
+
+[ii] B. Antieau, _What is de Rham cohomology?_, [Oberwolfach Report
+35/2022](https://publications.mfo.de/handle/mfo/3971).
+
+[i] B. Antieau, _The even filtration after Hahn, Raksit, and Wilson_, [Oberwolfach Report
+24/2022](https://publications.mfo.de/handle/mfo/3959).
+
 # current group members
 
 Noah Riggenbach (Boas postdoc).
