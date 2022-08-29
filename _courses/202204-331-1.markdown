@@ -1,0 +1,108 @@
+---
+layout: course
+year: 2022
+quarter: Fall
+number: Math 331-1
+title: MENU Abstract Algebra
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TP{\mathrm{TP}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+$
+</div>
+
+<!-- éČ -->
+
+# Details
+
+*Times*: MWF 1000 for lectures, TuTh 1000 for discussion sections.
+
+*Place*: Tech A110 for lectures, Locy 301 for discussion sections.
+
+*Office hours*: TBA.
+
+*Textbook*: Dummit and Foote's *Abstract algebra*, 3rd edition, available at the
+campus bookstore.
+
+*Catalog description*: group theory, including the Sylow theorems.
+
+*Full syllabus*: on Canvas.
+
+# Syllabus
+
+**09/19**. *Topic 1*. The first day of class is **Wednesday 09/21**.
+
+**09/26**. *Topic 2*. Courses will meet either on Zoom or will have a substitute.
+
+**10/03**. *Topic 3*. The course on **Friday 10/07** will meet on Zoom.
+
+**10/10**. *Topic 4*.
+
+**10/17**. *Topic 5*.
+
+**10/24**. *Topic 6*.
+
+**10/31**. *Topic 7*.
+
+**11/07**. *Topic 8*.
+
+**11/14**. *Topic 9*.
+
+**11/21**. *Topic 10*. No classes on Thursday or Friday to observe Thanksgiving.
+
+**11/28**. Reading period begins; no classes.
+
+**12/07**. Final exam **1500--1700**.
