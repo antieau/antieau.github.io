@@ -122,6 +122,8 @@ Kirill Magidson (PhD).
 
 Deven Manam (PhD).
 
+Lucy Yang (PhD, visiting from Harvard).
+
 # past group members
 
 Xing Gu (UIC PhD 2017).
