@@ -72,7 +72,7 @@ $
 
 *Place*: Tech A110 for lectures, Locy 301 for discussion sections.
 
-*Office hours*: TBA.
+*Office hours*: 30 minutes before and 30 minutes after each class, in Lunt Hall 304.
 
 *Textbook*: Dummit and Foote's *Abstract algebra*, 3rd edition, available at the
 campus bookstore.
