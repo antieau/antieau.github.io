@@ -68,9 +68,9 @@ $
 
 # Details
 
-*Times*: MWF 1000 for lectures, TuTh 1000 for discussion sections.
+*Times*: MWF 1000 for lectures, Th 1000 for discussion sections.
 
-*Place*: Tech A110 for lectures, Locy 301 for discussion sections.
+*Place*: Kresge Centennial Hall 2-415 for lectures, Frances Searle 2107 for discussion sections.
 
 *Office hours*: 30 minutes before and 30 minutes after each class, in Lunt Hall 304.
 
