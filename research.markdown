@@ -11,7 +11,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 [43] B. Antieau, A. Krause, and T. Nikolaus, _The K-theory of Z/p^n -- announcement_,
     \[[arXiv:2204](https://arxiv.org/abs/2204.03420)\].
 
-[42] B. Antieau, A. Mathew, and M. Morrow, _The K-theory of perfectoid rings_, \[[arxiv:2203](http://arxiv.org/abs/2203.06472)\].
+[42] B. Antieau, A. Mathew, and M. Morrow, _The K-theory of perfectoid rings_, to appear in Documenta Math. \[[arxiv:2203](http://arxiv.org/abs/2203.06472)\].
 
 [41] B. Antieau and A. Auel, _Explicit descent on elliptic curves and splitting
 Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
