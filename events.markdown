@@ -34,8 +34,6 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 <h1>future trips</h1>
 
-Workshop on $p$-adic Hodge theory, Clay Research Conference, 26-30 September 2022.
-
 Topological Hochschild homology and Zeta values, Masterclass at Copenhagen, 30 January to 3 February
 2023.
 
@@ -62,4 +60,4 @@ and MPIM, 27-30 June 2022</a>.
 <a href="https://www.mfo.de/occasion/2231/www_view">Non-commutative geometry
 and cyclic homology @ Oberwolfach, 31 July to 6 August 2022</a>.
 
-
+Workshop on $p$-adic Hodge theory, Clay Research Conference, 26-30 September 2022.
