@@ -1,0 +1,196 @@
+---
+layout: post
+title:  "New paper: the local Brauer group of TMF"
+stitle: "New paper: Br of TMF"
+tags: 2022
+---
+<div style="display:none">
+$
+\newcommand\nil{\mathrm{nil}}
+\newcommand\gfrak{\mathfrak{g}}
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\R{\mathrm{R}}
+\newcommand\t{\mathrm{t}}
+\newcommand\T{\mathrm{T}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Fscr{\mathcal{F}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Mscr{\mathcal{M}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\dRhat{\widehat{\dR}}
+\newcommand\we{\simeq}
+\newcommand\Sym{\mathrm{Sym}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TR{\mathrm{TR}}
+\newcommand\THH{\mathrm{THH}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bS{\mathbf{S}}
+\newcommand\bQ{\mathbf{Q}}
+\newcommand\bC{\mathbf{C}}
+\newcommand\bN{\mathbf{N}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}\,}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+\newcommand\Sp{\mathrm{Sp}}
+\newcommand\CycSp{\mathrm{CycSp}}
+\newcommand\TCart{\mathrm{TCart}}
+\newcommand\Fr{\mathrm{Fr}}
+\newcommand\Br{\mathrm{Br}}
+\newcommand\LBr{\mathrm{LBr}}
+\newcommand\TMF{\mathrm{TMF}}
+\newcommand\Pic{\mathrm{Pic}}
+\newcommand\shpic{\mathbf{pic}}
+\newcommand\KO{\mathrm{KO}}
+\newcommand\KU{\mathrm{KU}}
+\newcommand\iso{\cong}
+$
+</div>
+
+<!--ëéłö-->
+
+Lennart Meier, Vesna Stojanoska, and I have uploaded our paper [\[2\]](#brtmf) on the Brauer group of topological
+modular forms $\TMF$ to the `arXiv`.
+
+Brauer groups in derived algebraic geometry and of ring spectra have been introduced and studied
+by Toën, Baker--Lazarev, Baker--Richter--Szymik, Gepner and myself, and Hopkins--Lurie. The upshot
+is that for connective $\bE_\infty$-ring spectra $R$ one has $\Br(R)\iso\Br(\pi_0R)$, where the
+latter group is not the classical Brauer group of $\pi_0R$, but rather its ``derived'' Brauer group,
+which fits into a natural extension
+
+$$0\rightarrow\H^2(\Spec\pi_0R,\Gm)\rightarrow\Br(\pi_0R)\rightarrow\H^1(\Spec\pi_0R,\bZ)\rightarrow
+0.$$
+
+In this setting there is no $\Br=\Br'$ problem. Indeed, Toën showed that every class in
+$\Br(\pi_0R)$ is represented by a derived Azumaya algebra, and this extends to connective
+$\bE_\infty$-ring spectra as well.
+
+The situation in the nonconnective case is much more difficult, although Hopkins and Lurie are able
+to compute the $K(n)$-local analogue of the Brauer group for Lubin--Tate spectra. The
+main problem in the nonconnective case is that one does not know if Brauer classes are
+\'etale-locally trivial or at least \'etale-locally trivial to some kind of Brauer--Wall
+construction as in Gepner--Lawson. For example, we construct an $\bE_\infty$-ring in our paper where
+there are *lots* of Brauer classes which are not \'etale-locally trivial, although the example is
+not of a chromatic flavor.
+
+We show first of all that for the derived moduli stack of elliptic curves $(\Mscr,\Oscr)$, one has
+$\Br(\Mscr,\Oscr)=\Br'(\Mscr,\Oscr)$. We then prove that, thanks to the $0$-affineness results
+established previously by Mathew--Lennart Meier [\[4\]](#mathew-meier), taking global sections induces an
+equivalence $\Br(\Mscr,\Oscr)\we\Br(\TMF)$.
+
+Then, we study and *mostly* compute two subgroups of $\Br(\TMF)$: the subgroup $\LBr(\TMF)$
+consisting of elements which are étale locally trivial on $\Spec\TMF$ and the subgroup
+$\LBr(\Mscr,\Oscr)\subseteq\Br(\Mscr,\Oscr)=\Br(\TMF)$ of elements which are étale locally trivial
+on the moduli stack of elliptic curves. There are many more étale covers of $(\Mscr,\Oscr)$ than
+there are of $\Spec\TMF$ because the étale site of the latter is that of $\Spec\bZ[j]$.
+
+The groups $\LBr(\TMF)$ and $\LBr(\Mscr,\Oscr)$ are torsion and have only $2$ and $3$-primary
+torsion. We have
+
+$$\LBr(\TMF)_{(3)}\iso\LBr(\Mscr,\Oscr)_{(3)}\iso\bZ/3.$$
+
+The $2$-torsion is more complicated. We have
+ * the inclusion $$\LBr(\TMF)_{(2)}\rightarrow\LBr(\Mscr,\Oscr)_{(2)}$$ has finite ($2$-torsion) cokernel;
+ * both groups $$\LBr(\TMF)_{(2)}$$ and $$\LBr(\Mscr,\Oscr)_{(2)}$$ are extensions a countably infinite
+ $\bF_2$-vector space and a group of order dividing $8$;
+ * in particular, both groups can be written as a direct sum of $\bF_2^{\oplus\bN}$ and a group of
+ order dividing $16$.
+
+To make these calculations, we use a sheafified version of the $\Pic$ spectral studied by
+Mathew--Stojanoska [\[5\]](#mathew-stojanoska). Specifically, we consider the sheaf of picard spectra $\shpic_{\Oscr_\Mscr}$ on the
+derived moduli stack of elliptic curves and push this down along the $j$-homomorphism $j\colon(\Mscr,\Oscr)\rightarrow\Spec\TMF$.
+Then, we attempt to compute $$\pi_0 j_*\shpic_{\Oscr_\Mscr}$$, which we are able to do except for
+some very long differentials ($d_{13}$, $d_{23}$, and $d_{25}$). This uncertainty prevented us from
+getting at the exact group structure as well as the precise difference between the local Brauer
+groups of $\TMF$ and of the derived moduli stack. We hope someone else might be able to figure them
+out, the problem being that they are outside of the ``exponentiable range'', where the differentials
+in the $\Pic$ spectral sequence can be directly compared to the differentials in the (known)
+additive spectral sequence using the comparison tool of [\[5\]](#mathew-stojanoska).
+
+We also use the Brauer group of the classical
+moduli stack $(\Mscr,\pi_0\Oscr)$, which was studied by myself and Meier and proved to be zero in
+[\[1\]](#brm). This gives us a single term in one of our spectral sequences. We were aware already
+at the HIM program on homotopy theory in 2015 that we wanted to make the calculation in the present
+paper, and we would need the classical calculation to do it. Seven years later...
+
+Along the way, we prove that the local Brauer group of $\KO$ is $\bZ/2$ and that the local Brauer
+group of $\KU$ is $0$. This shows that the non-trivial Brauer class in $\Br(\KU|\KO)\iso\bZ/2$
+discovered by David Gepner and Tyler Lawson in [\[3\](#gepner-lawson) is in fact étale-locally
+trivial over $\Spec\KO$.
+
+# References
+
+<span id="brm">
+[1] Antieau, Meier, *The Brauer group of the moduli stack of elliptic curves*,
+    AGT **14:9** (2020), [<tt>arXiv:1608.00851</tt>](https://arxiv.org/abs/1608.00851).
+</span>
+
+<span id="brtmf">
+[2] Antieau, Meier, Stojanoska, *Picard sheaves, local Brauer groups, and topological modular
+forms*, [<tt>arXiv:arXiv:2210.15743</tt>](https://arxiv.org/abs/2210.15743).
+</span>
+
+<span id="gepner-lawson">
+[3] Gepner, Lawson, *Brauer groups and Galois cohomology of commutative ring spectra*,
+    Compositio **157** (2021), [<tt>arXiv:1607.01118</tt>](https://arxiv.org/abs/1607.01118).
+</span>
+
+<span id="mathew-meier">
+[4] Mathew, Meier, *Affineness and chromatic homotopy theory*,
+    JTop **8** (2015), [<tt>arXiv:1311.0514</tt>](https://arxiv.org/abs/1311.0514).
+</span>
+
+<span id="mathew-stojanoska">
+[5] Mathew, Stojanoska, *The Picard group of topological modular forms via descent theory*,
+    G&T **20** (2016), [<tt>arXiv:1409.7702</tt>](https://arxiv.org/abs/1409.7702).
+</span>
+
