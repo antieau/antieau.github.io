@@ -1,7 +1,7 @@
 ---
 layout: workshop
-dates: 20-24 March 2023
-title: Homotopy theory @ Northwestern
+dates: 20-24 March 2023 @ Northwestern
+title: Homotopy theory in honor of Paul Goerss
 ---
 <div style="display:none">
 $
