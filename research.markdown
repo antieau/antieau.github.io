@@ -127,6 +127,8 @@ Deven Manam (PhD).
 
 Lucy Yang (PhD, visiting from Harvard).
 
+Yuanning Zhang (PhD).
+
 # past group members
 
 Xing Gu (UIC PhD 2017).
@@ -139,6 +141,4 @@ Tasos Moulinos (UIC PhD 2018).
 
 Harry Smith (UIC PhD 2020).
 
-Joel Stapleton (UIC PhD 2020).
-
-
+Joel Stapleton (UIC PhD 2021).
