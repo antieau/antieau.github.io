@@ -121,6 +121,8 @@ Micah Darrell (PhD).
 
 Adam Holeman (PhD).
 
+Matthew Lipman (PhD).
+
 Kirill Magidson (PhD).
 
 Deven Manam (PhD).
