@@ -107,12 +107,37 @@ Zhouli Xu (San Diego)
 
 Benjamin Antieau and John Francis.
 
-# Details
+# Registration
 
-To be announced.
+Please register **[here](https://sites.math.northwestern.edu/homotopy-theory-registration/)**. For
+funding, registration must be received by 31 January 2023. If requesting funding, please read below.
+For space reasons, registration is required.
 
 *Warning*: there is spam email going out to some people about conference hotel booking. 
 We will announce details from our @northwestern.edu addresses when the time comes.
+
+# Funding
+
+Limited support is available for reimbursing participants' lodging and travel expenses.
+This support is primarily from students and postdocs based in the United States.
+Decisions will be made by 10 February 2023.
+
+# Lodging
+
+All speakers and participants are asked to book their own hotel, whether or not they will be
+reimbursed.
+Evanston has several hotels within walking distance of Northwestern, including
+**[Hyatt House Evanston](https://www.hyatt.com/en-US/hotel/illinois/hyatt-house-chicago-evanston/chixe?src=corp_lclb_gmb_seo_chixe)**,
+**[Hilton Garden Inn Evanston](https://www.hilton.com/en/hotels/ordevgi-hilton-garden-inn-chicago-north-shore-evanston/)**, and
+**[Hilton Orrington](https://www.hilton.com/en/hotels/ordoehf-hilton-orrington-evanston/)**.
+The nicest is probably Hyatt House.
+
+# Travel
+
+Northwestern is accessible via Amtrak through Chicago Union Station and via plane through Chicago O'Hare or
+Midway airports. One can take a cab from any of these stations or take public transportation on the Red or
+Purple 'L' Lines or on the **[UP-N
+Line](https://ridertools.metrarail.com/maps-schedules/train-lines/UP-N)** of the Metra.
 
 # Acknowledgments
 

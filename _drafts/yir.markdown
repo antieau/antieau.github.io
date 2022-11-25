@@ -178,6 +178,12 @@ Cotner, Zavyalov, *Lefschetz theorems in flat cohomology and applications*,
    [arXiv:2204.06121](https://arxiv.org/abs/2204.06121).
 
 
+
+### Derived algebraic geometry
+
+Beraldo, Pippi, *Non-commutative intersection theory and unipotent Deligne--Milnor formula*,
+    [arXiv:2211.11717](https://arxiv.org/abs/2211.11717).
+
 ### Redshift
 
 
