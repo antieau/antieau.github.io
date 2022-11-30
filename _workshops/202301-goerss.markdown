@@ -139,10 +139,12 @@ Midway airports. One can take a cab from any of these stations or take public tr
 Purple 'L' Lines or on the **[UP-N
 Line](https://ridertools.metrarail.com/maps-schedules/train-lines/UP-N)** of the Metra.
 
+# Room
+
+Talks will take place in Swift 107.
+
 # Acknowledgments
 
 The organizers thank the Northwestern Department of Mathematics for funding.
 The drawing above is due to Fomenko and is reproduced from *Mathematical
 Impressions*, by Fomenko.
-
-
