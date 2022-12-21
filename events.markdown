@@ -34,8 +34,8 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 <h1>future trips</h1>
 
-Topological Hochschild homology and Zeta values, Masterclass at Copenhagen, 30 January to 3 February
-2023.
+<a href="https://www.math.ku.dk/english/calendar/events/zeta-values">Topological Hochschild homology and Zeta values, Masterclass at Copenhagen, 30 January to 3 February
+2023</a>.
 
 
 
