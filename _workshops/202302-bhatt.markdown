@@ -1,0 +1,154 @@
+---
+layout: workshop
+dates: 15-19 May 2023 @ Northwestern
+title: Algebraic geometry and cohomology in mixed characteristic
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TP{\mathrm{TP}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+$
+</div>
+
+
+<img style="float: right; padding: 10px" width="400" src="../assets/jpg/prism.jpg">
+
+# Occasion
+
+This workshop is being organized in celebration of Bhargav Bhatt's [Nemmers Prize](https://www.nemmers.northwestern.edu/prizes/2022bhatt.html).
+
+# Speakers
+
+Emelie Arvidsson (Utah)
+
+Daniel Bragg (Utah)
+
+Hélène Esnault (FU Berlin)
+
+Sarah Frei (Dartmouth)
+
+Daniel Halpern-Leistner\* (Cornell)
+
+David Hansen\* (MPIM)
+
+Luc Illusie (Orsay)
+
+Kiran Kedlaya (San Diego)
+
+Jacob Lurie (IAS)
+
+Akhil Mathew (Chicago)
+
+Shubhodip Mondal (MPIM)
+
+Wesia Nizioł (Jussieu)
+
+Arthur Ogus (Berkeley)
+
+Martin Olsson (Berkeley)
+
+Alex Petrov (Clay/MPIM)
+
+Karl Schwede (Utah)
+
+Jakub Witaszek (Princeton)
+
+\* = to be confirmed
+
+# Organizers
+
+Benjamin Antieau, Bao Le Hung, and Yuchen Liu.
+
+# Registration
+
+Please register **[here]()**. For possible
+funding, registration must be received by 17 February 2023. If requesting funding, please read below.
+For space reasons, registration is required and registration *will* close once the capacity of the
+room is met.
+
+*Warning*: there might be a spam email going out to some people about conference hotel booking. 
+We will announce details from our `@northwestern.edu` addresses when the time comes.
+
+# Funding
+
+Some support is available for reimbursing participants' lodging and travel expenses.
+This support is primarily from students and postdocs based in the United States.
+Decisions will be made by 28 February 2023.
+
+# Lodging
+
+All participants are asked to book their own hotel, whether or not they will be
+reimbursed. Evanston has several hotels within walking distance of Northwestern, including
+**[Hyatt House Evanston](https://www.hyatt.com/en-US/hotel/illinois/hyatt-house-chicago-evanston/chixe?src=corp_lclb_gmb_seo_chixe)**,
+**[Hilton Garden Inn Evanston](https://www.hilton.com/en/hotels/ordevgi-hilton-garden-inn-chicago-north-shore-evanston/)**, and
+**[Hilton Orrington](https://www.hilton.com/en/hotels/ordoehf-hilton-orrington-evanston/)**.
+The nicest is probably Hyatt House.
+
+# Travel
+
+Northwestern is accessible via Amtrak through Chicago Union Station and via plane through Chicago O'Hare or
+Midway airports. One can take a cab from any of these stations or take public transportation on the Red or
+Purple 'L' Lines or on the **[UP-N
+Line](https://ridertools.metrarail.com/maps-schedules/train-lines/UP-N)** of the Metra.
+
+# Room
+
+Talks will take place in the Great Room in the Norris University Center.
+
+# Acknowledgments
+
+The organizers thank the Nemmers Prize Fund and the Northwestern Department of Mathematics for funding.
+The [image](https://flickr.com/photos/byzantiumbooks/47145660811/) above is due to [Bill Smith](https://flickr.com/photos/byzantiumbooks/) and used under [CC
+BY 2.0](https://creativecommons.org/licenses/by/2.0/).

@@ -8,9 +8,9 @@ permalink: /events/
 
 PCMI program on motivic homotopy, Summer 2024.
 
-IHES summer school on algebraic $K$-theory, 10-23 July 2023.
+<a href="https://indico.math.cnrs.fr/event/8837/">IHES summer school on algebraic $K$-theory, 10-23 July 2023</a>.
 
-MSRI summer school on derived algebraic geometry, Summer 2023.
+<a href="https://www.msri.org/summer_schools/992">MSRI summer school on derived algebraic geometry, Summer 2023</a>.
 
 {% for workshop in site.workshops reversed %}
 <a href="{{ workshop.url }}">{{ workshop.title }}, {{ workshop.dates }}</a>.
