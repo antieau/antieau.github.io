@@ -19,7 +19,7 @@ modular forms_, submitted, \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
 [41] B. Antieau and A. Auel, _Explicit descent on elliptic curves and splitting
 Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 
-[40] B. Antieau, A. Mathew, M. Morrow, and T. Nikolaus, _On the Beilinson fiber square_, to appear in Duke. \[[arxiv:2003](https://arxiv.org/abs/2003.12541)\].
+[40] B. Antieau, A. Mathew, M. Morrow, and T. Nikolaus, _On the Beilinson fiber square_, Duke **171** (2022), no. 18, 3707-3806. \[[arxiv:2003](https://arxiv.org/abs/2003.12541)\].
 
 [39] B. Antieau and B. Williams, _The topological period-index conjecture_, Mathematical Research Letters **28** (2021), no. 5, 1307-1317. \[[arxiv:2003](https://arxiv.org/abs/2003.10539)\].
 
