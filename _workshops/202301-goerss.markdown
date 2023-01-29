@@ -141,7 +141,7 @@ Line](https://ridertools.metrarail.com/maps-schedules/train-lines/UP-N)** of the
 
 # Room
 
-Talks will take place in Swift 107.
+Talks will take place in Harris 107.
 
 # Acknowledgments
 
