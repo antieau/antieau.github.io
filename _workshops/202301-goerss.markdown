@@ -109,9 +109,8 @@ Benjamin Antieau and John Francis.
 
 # Registration
 
-Please register **[here](https://sites.math.northwestern.edu/homotopy-theory-registration/)**. For
-funding, registration must be received by 31 January 2023. If requesting funding, please read below.
-For space reasons, registration is required.
+Please register **[here](https://sites.math.northwestern.edu/homotopy-theory-registration/)**.
+Funding is no longer available.
 
 *Warning*: there is spam email going out to some people about conference hotel booking. 
 We will announce details from our @northwestern.edu addresses when the time comes.
