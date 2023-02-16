@@ -158,12 +158,12 @@ Talks will take place in Harris 107.
 
 # Titles and abstracts
 
-**Hess**, _The universal Hochschild shadow: from bicategories to $(\infty, 2)$-categories_, (joint with N. Rasekh and with K. Adamyk, T. Gerhardt, I. Klang, and H. Kong)
+**Hess**, _The universal Hochschild shadow: from bicategories to $(\infty, 2)$-categories_, (joint with N. Rasekh and with K. Adamyk, T. Gerhardt, I. Klang, and H. Kong).
 The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical framework that generalizes (topological) Hochschild homology and satisfies analogous important properties, such as Morita invariance. I’ll explain how to generalize Berman's extension of Hochschild homology to bicategories in order to prove that there is an equivalence between functors out of the Hochschild homology of a bicategory and shadows on that bicategory, from which it follows that Hochschild homology of bicategories actually provides a universal shadow on bicategories and which enables us to formulate Morita invariance functorially. I’ll then describe the infinity categorical generalization of this story, parts of which are still conjectural.
 
-**Isaksen**, _Bimotivic homotopy theory_, I will discuss a possible new approach to computing the stable homotopy groups.  The basic idea is to combine the Adams and Adams-Novikov spectral sequences into one computable object.
+**Isaksen**, _Bimotivic homotopy theory_. I will discuss a possible new approach to computing the stable homotopy groups.  The basic idea is to combine the Adams and Adams-Novikov spectral sequences into one computable object.
 
-**Lawson**, _Filtrations and their descendants_,
+**Lawson**, _Filtrations and their descendants_.
 Our understanding of the homotopy theory of CW-complexes used to be heavily based on the cellular approximation theorem. In this talk we'll take inspiration from this to define an operation taking a filtered space X to a "descendant" filtered space DX. We'll discuss how, when we have categories of filtered objects, applying D to the function spaces has a "page-turning" effect on the homotopy theory, giving a low-tech way to turn a category of filtered objects into an E_2-category. Unstably, we can recover spaces of functions between CW-complexes; stably, we can construct a near relative of Pstragowski's synthetic spectra from the category of modules over a spectral Rees ring.
 
 
