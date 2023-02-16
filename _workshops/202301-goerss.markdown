@@ -142,6 +142,25 @@ Line](https://ridertools.metrarail.com/maps-schedules/train-lines/UP-N)** of the
 
 Talks will take place in Harris 107.
 
+# Tentative schedule
+
+|M|Tu|W|Th|F|
+|-|--|-|--|-|
+|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|
+|0930 Talk 1|0930 Talk 5|0930 Talk 9|0930 Talk 11|0930 Talk 15|
+|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|
+|1130 Talk 2|1130 Talk 6|1130 Talk 10|1130 Talk 12|1130 Talk 16|
+|1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1230 Lunch|
+|1415 Talk 3|1430 Talk 7||1430 Talk 13|1430 Talk 17|
+|1515 Coffee|1530 Coffee||1530 Coffee|1530 Coffee|
+|1545 Talk 4|1630 Talk 8||1630 Talk 14|1630 Talk 18|
+|1700 Reception|
+
+
+
+
+
+
 # Acknowledgments
 
 The organizers thank the Northwestern Department of Mathematics for funding.
