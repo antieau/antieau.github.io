@@ -158,6 +158,9 @@ Talks will take place in Harris 107.
 
 # Titles and abstracts
 
+**Henn**, _On the Brown Comenetz dual of the K(2)-local sphere at the prime 2 (joint work with Paul Goerss)_. 
+The Brown Comenetz dual I of the sphere represents the functor which on a spectrum X is given by the Pontryagin dual of the 0-th homotopy group of X. For a prime p and a chromatic level n there is a K(n)-local version I_n of I. For a type n-complex X the homotopy groups of the function spectrum F(X,I_n) are given by the Pontryagin dual of the homotopy groups of the K(n)-localization of X. By work of Hopkins and Gross  the homotopy type of the spectra I_n for a prime p is determined by its Morava module if p is sufficiently large with respect to n. For small primes the result of Hopkins and Gross determines I_n modulo an "error term". For n=1 every odd prime is sufficiently large and the case of the prime 2 has been understood for almost 30 years. For n>2 comparatively little is known if the prime is small. For n=2 every prime bigger then 3 is sufficiently large. The case p=3 had been settled in joint work with Paul Goerss several years ago. This talk is a report on work in progress with Paul Goerss on the case p=2. The "error term" is given by an element in the exotic Picard group which in this case is an explicitly known abelian group of order 2^9. We use chromatic splitting in order to narrow down the choices for the error term.
+
 **Hess**, _The universal Hochschild shadow: from bicategories to $(\infty, 2)$-categories_, (joint with N. Rasekh and with K. Adamyk, T. Gerhardt, I. Klang, and H. Kong).
 The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical framework that generalizes (topological) Hochschild homology and satisfies analogous important properties, such as Morita invariance. I’ll explain how to generalize Berman's extension of Hochschild homology to bicategories in order to prove that there is an equivalence between functors out of the Hochschild homology of a bicategory and shadows on that bicategory, from which it follows that Hochschild homology of bicategories actually provides a universal shadow on bicategories and which enables us to formulate Morita invariance functorially. I’ll then describe the infinity categorical generalization of this story, parts of which are still conjectural.
 
@@ -165,7 +168,6 @@ The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical
 
 **Lawson**, _Filtrations and their descendants_.
 Our understanding of the homotopy theory of CW-complexes used to be heavily based on the cellular approximation theorem. In this talk we'll take inspiration from this to define an operation taking a filtered space X to a "descendant" filtered space DX. We'll discuss how, when we have categories of filtered objects, applying D to the function spaces has a "page-turning" effect on the homotopy theory, giving a low-tech way to turn a category of filtered objects into an E_2-category. Unstably, we can recover spaces of functions between CW-complexes; stably, we can construct a near relative of Pstragowski's synthetic spectra from the category of modules over a spectral Rees ring.
-
 
 
 
