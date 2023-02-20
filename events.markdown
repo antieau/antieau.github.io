@@ -34,30 +34,34 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 <h1>future trips</h1>
 
+University of Michigan, 3-5 April 2023.
+
+Generalised Lie algebras in derived geometry, near Utrecht, 29 May to 2 June 2023.
+
+
+
+<h1>past events</h1>
+
 <a href="https://www.math.ku.dk/english/calendar/events/zeta-values">Topological Hochschild homology and Zeta values, Masterclass at Copenhagen, 30 January to 3 February
 2023</a>.
 
+Workshop on $p$-adic Hodge theory, Clay Research Conference, 26-30 September 2022.
 
-
-<h1>past trips</h1>
-
-Johns Hopkins University, 8-10 December 2021.
-
-<a href="https://sites.northwestern.edu/hmgp/">Homotopical methods in geometry and physics @ Northwestern, School 19-20 March
-2022 and Conference 21-25 March 2022</a>.
-
-Burt Totaro's Pinsky Lectures @ Northwestern, 6-8 April 2022.
-
-University of Michigan, 3-5 May 2022.
-
-<a href="https://www.mfo.de/occasion/2219/www_view">Algebraic K-theory,
-Oberwolfach, 8-14 May 2022</a>.
+<a href="https://www.mfo.de/occasion/2231/www_view">Non-commutative geometry
+and cyclic homology @ Oberwolfach, 31 July to 6 August 2022</a>.
 
 <a href="https://www.mpim-bonn.mpg.de/node/10868">Twinned conference on
 homotopy theory with applications to arithmetic and geometry @ Fields Insitute
 and MPIM, 27-30 June 2022</a>.
 
-<a href="https://www.mfo.de/occasion/2231/www_view">Non-commutative geometry
-and cyclic homology @ Oberwolfach, 31 July to 6 August 2022</a>.
+<a href="https://www.mfo.de/occasion/2219/www_view">Algebraic K-theory,
+Oberwolfach, 8-14 May 2022</a>.
 
-Workshop on $p$-adic Hodge theory, Clay Research Conference, 26-30 September 2022.
+University of Michigan, 3-5 May 2022.
+
+Burt Totaro's Pinsky Lectures @ Northwestern, 6-8 April 2022.
+
+<a href="https://sites.northwestern.edu/hmgp/">Homotopical methods in geometry and physics @ Northwestern, School 19-20 March
+2022 and Conference 21-25 March 2022</a>.
+
+Johns Hopkins University, 8-10 December 2021.
