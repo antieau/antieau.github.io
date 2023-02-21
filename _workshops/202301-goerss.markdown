@@ -169,6 +169,9 @@ The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical
 **Lawson**, _Filtrations and their descendants_.
 Our understanding of the homotopy theory of CW-complexes used to be heavily based on the cellular approximation theorem. In this talk we'll take inspiration from this to define an operation taking a filtered space X to a "descendant" filtered space DX. We'll discuss how, when we have categories of filtered objects, applying D to the function spaces has a "page-turning" effect on the homotopy theory, giving a low-tech way to turn a category of filtered objects into an E_2-category. Unstably, we can recover spaces of functions between CW-complexes; stably, we can construct a near relative of Pstragowski's synthetic spectra from the category of modules over a spectral Rees ring.
 
+**Lurie**, _Lie algebras in stable homotopy theory_.
+In this talk, I'll review the classical theory of Lie algebras and discuss an "equation-free" approach which can be extended to the setting of homotopy-coherent mathematics. If time permits, I'll discuss some connections with the calculus of functors.
+
 
 
 # Acknowledgments
