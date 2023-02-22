@@ -166,6 +166,11 @@ The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical
 
 **Isaksen**, _Bimotivic homotopy theory_. I will discuss a possible new approach to computing the stable homotopy groups.  The basic idea is to combine the Adams and Adams-Novikov spectral sequences into one computable object.
 
+**Jardine**, _Local data structures_.
+Local data structures are systems of neighbourhoods within data sets. Specifications of neighbourhoods can arise in multiple ways, for example, from global geometric structure (stellar charts), combinatorial structure (weighted graphs), desired computational outcomes (natural language processing), or sampling. These examples are discussed, in the context of a theory of neighbourhoods.
+
+This theory is a step towards understanding clustering for large data sets. These clusters can only be approximated in practice, but approximations can be constructed from neighbourhoods via patching arguments that are derived from the Healy-McInnes UMAP construction. The patching arguments are enabled by changing the theoretical basis for data set structure, from metric spaces to extended pseudo metric spaces.
+
 **Lawson**, _Filtrations and their descendants_.
 Our understanding of the homotopy theory of CW-complexes used to be heavily based on the cellular approximation theorem. In this talk we'll take inspiration from this to define an operation taking a filtered space X to a "descendant" filtered space DX. We'll discuss how, when we have categories of filtered objects, applying D to the function spaces has a "page-turning" effect on the homotopy theory, giving a low-tech way to turn a category of filtered objects into an E_2-category. Unstably, we can recover spaces of functions between CW-complexes; stably, we can construct a near relative of Pstragowski's synthetic spectra from the category of modules over a spectral Rees ring.
 
