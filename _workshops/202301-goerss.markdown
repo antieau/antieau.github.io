@@ -158,6 +158,13 @@ Talks will take place in Harris 107.
 
 # Titles and abstracts
 
+**Greenlees**, _Rational equivariant cohomology theories for compact Lie groups_.
+Several structural questions have emerged at least twice in topology: once in chromatic homotopy theory and once in equivariant topology
+(completions and localization, fracture squares, Balmer spectra, support, telescope conjecture, sheaves, filtrations, ….). In the chromatic world
+they arise in hard-core form, and in equivariant topology they reach a benign algebraic manifestation in the rational case. My talk is from this gentler world.
+
+The overall project is to build an algebraic model for rational G-equivariant cohomology theories for all compact Lie groups G, and when G is small or abelian this has been done. In general, the model is expected to take the form of a category of sheaves of modules over a sheaf of rings over the space of closed subgroups of G. The talk will focus on structural features of the expected model for general G such as those above, and feature recent joint work with Balchin and Barthel.
+
 **Henn**, _On the Brown Comenetz dual of the K(2)-local sphere at the prime 2 (joint work with Paul Goerss)_. 
 The Brown Comenetz dual I of the sphere represents the functor which on a spectrum X is given by the Pontryagin dual of the 0-th homotopy group of X. For a prime p and a chromatic level n there is a K(n)-local version I_n of I. For a type n-complex X the homotopy groups of the function spectrum F(X,I_n) are given by the Pontryagin dual of the homotopy groups of the K(n)-localization of X. By work of Hopkins and Gross  the homotopy type of the spectra I_n for a prime p is determined by its Morava module if p is sufficiently large with respect to n. For small primes the result of Hopkins and Gross determines I_n modulo an "error term". For n=1 every odd prime is sufficiently large and the case of the prime 2 has been understood for almost 30 years. For n>2 comparatively little is known if the prime is small. For n=2 every prime bigger then 3 is sufficiently large. The case p=3 had been settled in joint work with Paul Goerss several years ago. This talk is a report on work in progress with Paul Goerss on the case p=2. The "error term" is given by an element in the exotic Picard group which in this case is an explicitly known abelian group of order 2^9. We use chromatic splitting in order to narrow down the choices for the error term.
 
