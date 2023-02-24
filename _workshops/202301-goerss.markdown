@@ -171,6 +171,9 @@ The Brown Comenetz dual I of the sphere represents the functor which on a spectr
 **Hess**, _The universal Hochschild shadow: from bicategories to $(\infty, 2)$-categories_, (joint with N. Rasekh and with K. Adamyk, T. Gerhardt, I. Klang, and H. Kong).
 The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical framework that generalizes (topological) Hochschild homology and satisfies analogous important properties, such as Morita invariance. I’ll explain how to generalize Berman's extension of Hochschild homology to bicategories in order to prove that there is an equivalence between functors out of the Hochschild homology of a bicategory and shadows on that bicategory, from which it follows that Hochschild homology of bicategories actually provides a universal shadow on bicategories and which enables us to formulate Morita invariance functorially. I’ll then describe the infinity categorical generalization of this story, parts of which are still conjectural.
 
+**Hoyois**, _Non-A^1-homotopy theory_.
+Recently, there have been several attempts at developing extensions of motivic homotopy theory that include non-A^1-invariant phenomena, such as the algebraic K-theory of singular schemes or de Rham cohomology in positive characteristic. These are usually based on extensions of the category of schemes itself, such as schemes with modulus or log structures. In joint work with Toni Annala and Ryomei Iwasa, we consider a very naive extension of stable motivic homotopy theory, in which we simply remove the A^1-invariance axiom. We show that many basic results in A^1-homotopy theory can be proved in this context, using the invertibility of P^1 in a clever way. We construct in particular a non-A^1-invariant refinement of algebraic cobordism, which is related to algebraic K-theory by a Conner-Floyd isomorphism.
+
 **Isaksen**, _Bimotivic homotopy theory_. I will discuss a possible new approach to computing the stable homotopy groups.  The basic idea is to combine the Adams and Adams-Novikov spectral sequences into one computable object.
 
 **Jardine**, _Local data structures_.
@@ -183,6 +186,11 @@ Our understanding of the homotopy theory of CW-complexes used to be heavily base
 
 **Lurie**, _Lie algebras in stable homotopy theory_.
 In this talk, I'll review the classical theory of Lie algebras and discuss an "equation-free" approach which can be extended to the setting of homotopy-coherent mathematics. If time permits, I'll discuss some connections with the calculus of functors.
+
+**Xu**, _The Adams differentials on the classes h_j^3_.
+In filtration 1 of the Adams spectral sequence, using secondary cohomology operations, Adams computed the differentials on the classes h_j, resolving the Hopf invariant one problem. In Adams filtration 2, using equivariant and chromatic homotopy theory, Hill--Hopkins--Ravenel proved that the classes h_j^2 support non-trivial differentials for j \geq 7, resolving the celebrated Kervaire invariant one problem. The precise differentials on the classes h_j^2 for j \geq 7 and the fate of h_6^2 remains unknown. 
+
+I will talk about joint work with Robert Burklund: In Adams filtration 3, we prove an infinite family of non-trivial d_4-differentials on the classes h_j^3 for j \geq 6, confirming a conjecture of Mahowald. Our proof uses two different deformations of stable homotopy theory – C-motivic stable homotopy theory and F_2-synthetic homotopy theory – both in an essential way. Along the way, we also show that h_j^2 survives to the Adams E_5-page and that h_6^2 survives to the Adams E_9-page.
 
 
 
