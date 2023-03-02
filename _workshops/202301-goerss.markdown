@@ -147,13 +147,13 @@ Talks will take place in Harris 107.
 |M|Tu|W|Th|F|
 |-|--|-|--|-|
 |0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|
-|0930 Talk 1|0930 Talk 5|0930 Talk 9|0930 Talk 11|0930 Talk 15|
+|0930 **Rezk**|0930 **Behrens**|0930 **Lurie**|0930 **Ravenel**|0930 **Stapleton**|
 |1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|
-|1130 Talk 2|1130 Talk 6|1130 Talk 10|1130 Talk 12|1130 Talk 16|
+|1130 **Hill**|1130 **Beaudry**|1130 **Hoyois**|1130 **Xu**|1130 **Jardine**|
 |1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1230 Lunch|
-|1415 Talk 3|1430 Talk 7||1430 Talk 13|1430 Talk 17|
+|1415 **Isaksen**|1430 **Henn**||1430 **Stojanoska**|1430 **Hess**|
 |1515 Coffee|1530 Coffee||1530 Coffee|1530 Coffee|
-|1545 Talk 4|1630 Talk 8||1630 Talk 14|1630 Talk 18|
+|1545 **Lawson**|1630 **Hopkins**||1630 **Schlank**|1630 **Greenlees**|
 |1700 Reception|
 
 # Titles and abstracts
