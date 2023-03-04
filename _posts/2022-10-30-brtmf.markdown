@@ -164,7 +164,7 @@ paper, and we would need the classical calculation to do it. Seven years later..
 
 Along the way, we prove that the local Brauer group of $\KO$ is $\bZ/2$ and that the local Brauer
 group of $\KU$ is $0$. This shows that the non-trivial Brauer class in $\Br(\KU|\KO)\iso\bZ/2$
-discovered by David Gepner and Tyler Lawson in [\[3\](#gepner-lawson) is in fact étale-locally
+discovered by David Gepner and Tyler Lawson in [\[3\]](#gepner-lawson) is in fact étale-locally
 trivial over $\Spec\KO$.
 
 # References
