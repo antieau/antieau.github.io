@@ -18,6 +18,7 @@ $
 \newcommand\M{\mathrm{M}}
 \newcommand\t{\mathrm{t}}
 \newcommand{\bA}{\mathbf{A}}
+\newcommand{\bE}{\mathbf{E}}
 \newcommand{\bG}{\mathbf{G}}
 \newcommand{\bH}{\mathbf{H}}
 \newcommand{\bT}{\mathbf{T}}
@@ -186,6 +187,16 @@ Our understanding of the homotopy theory of CW-complexes used to be heavily base
 
 **Lurie**, _Lie algebras in stable homotopy theory_.
 In this talk, I'll review the classical theory of Lie algebras and discuss an "equation-free" approach which can be extended to the setting of homotopy-coherent mathematics. If time permits, I'll discuss some connections with the calculus of functors.
+
+**Schlank**, _Lubin Tate spectra as algebraically closed fields_.
+The Goerss-Hopkins-Miller theorem gives an $\bE_\infty$-structure on Lubin-Tate spectra.
+In this talk, I shall discuss a defining property of Lubin-Tate spectra attached to algebraically closed fields among all $K(n)$ (or $T(n)$) local
+$\bE_\infty$-rings.
+We show that they are characterized exactly as those that satisfy an analog of Hilbert's Nullstellensatz.
+This suggests that one can consider such Lubin-Tate spectra as ``chromatic `algebraically closed fields'.
+In addition, we show that every non-zero $T(n)$-local $\bE_{\infty}$-ring $R$ admits an $\bE_\infty$-ring map to such a Lubin--Tate theory.
+If time permits, I shall present some consequences, for example, constructing $\bE_{\infty}$ complex orientations of algebraically closed Lubin--Tate theories and proving redshift for the algebraic $\mathrm{K}$-theory of arbitrary $\bE_{\infty}$-rings.
+This is a joint work with R. Burklund and A. Yuan.
 
 **Stapleton**, _A universal relation between multiplicative and additive power operations_.
 
