@@ -198,6 +198,10 @@ In addition, we show that every non-zero $T(n)$-local $\bE_{\infty}$-ring $R$ ad
 If time permits, I shall present some consequences, for example, constructing $\bE_{\infty}$ complex orientations of algebraically closed Lubin--Tate theories and proving redshift for the algebraic $\mathrm{K}$-theory of arbitrary $\bE_{\infty}$-rings.
 This is a joint work with R. Burklund and A. Yuan.
 
+**Stojanoska**, _Toward the Brauer group of topological modular forms_.
+The Brauer group of an E∞ ring spectrum R is the group of R-Azumaya algebras modulo Morita equivalence. It was introduced by Baker, Richter, and Szymik over 10 years ago, and it encodes interesting arithmetic information about R. In the last decade, a multitude of systematic approaches to its study have been developed (cf. work of Antieau, Gepner, Hopkins, Lawson, Lurie). Still, a lot of mysteries remain when it comes to the Brauer group of periodic ring spectra such as TMF.
+In joint work with Antieau and Meier, we study the subgroup of Br(TMF) consisting of those Azumaya algebras which are étale locally trivial. Among other things, we find that there are infinitely many 2-torsion elements in Br(TMF). I will explain where this calculation comes from, including the importance of understanding the Picard sheaf, rather than just the Picard group, in order to get a good handle on the Brauer group.
+
 **Stapleton**, _A universal relation between multiplicative and additive power operations_.
 
 **Xu**, _The Adams differentials on the classes h_j^3_.
