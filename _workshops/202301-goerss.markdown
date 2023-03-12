@@ -166,6 +166,9 @@ Talks will take place in Harris 107.
 
 # Titles and abstracts
 
+**Behrens**, _tmf resolutions at the prime 2_.
+Around 20 years ago, Goerss, Henn, Mahowald, and Rezk started an industry of studying K(2)-local homotopy at bad primes using finite TMF resolutions.  I will discuss how these resolutions detect a swath of elements at the prime 2 in the Isaksen-Wang-Xu range.  This discussion involves a synthesis of collaboration with many folks over the years, including Beaudy, Bhattacharya, Bobkova, Culver, Hill, Hopkins, Mahowald, Ormsby, Petersen, Quigley, Stapleton, Stojanoska, Xu.
+
 **Greenlees**, _Rational equivariant cohomology theories for compact Lie groups_.
 Several structural questions have emerged at least twice in topology: once in chromatic homotopy theory and once in equivariant topology
 (completions and localization, fracture squares, Balmer spectra, support, telescope conjecture, sheaves, filtrations, ….). In the chromatic world
@@ -178,6 +181,9 @@ The Brown Comenetz dual I of the sphere represents the functor which on a spectr
 
 **Hess**, _The universal Hochschild shadow: from bicategories to $(\infty, 2)$-categories_, (joint with N. Rasekh and with K. Adamyk, T. Gerhardt, I. Klang, and H. Kong).
 The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical framework that generalizes (topological) Hochschild homology and satisfies analogous important properties, such as Morita invariance. I’ll explain how to generalize Berman's extension of Hochschild homology to bicategories in order to prove that there is an equivalence between functors out of the Hochschild homology of a bicategory and shadows on that bicategory, from which it follows that Hochschild homology of bicategories actually provides a universal shadow on bicategories and which enables us to formulate Morita invariance functorially. I’ll then describe the infinity categorical generalization of this story, parts of which are still conjectural.
+
+**Hill**, _Equivariant approaches to chromatic homotopy_.
+I'll talk about how developments in equivariant homotopy theory over the last decade have resulted in new ways to study and understand Goerssian questions in chromatic homotopy. This is a preliminary report on work with various subsets of Beaudry, Bobkova, Lawson, Shi, Stojanoska, & Zeng.
 
 **Hoyois**, _Non-A^1-homotopy theory_.
 Recently, there have been several attempts at developing extensions of motivic homotopy theory that include non-A^1-invariant phenomena, such as the algebraic K-theory of singular schemes or de Rham cohomology in positive characteristic. These are usually based on extensions of the category of schemes itself, such as schemes with modulus or log structures. In joint work with Toni Annala and Ryomei Iwasa, we consider a very naive extension of stable motivic homotopy theory, in which we simply remove the A^1-invariance axiom. We show that many basic results in A^1-homotopy theory can be proved in this context, using the invertibility of P^1 in a clever way. We construct in particular a non-A^1-invariant refinement of algebraic cobordism, which is related to algebraic K-theory by a Conner-Floyd isomorphism.
