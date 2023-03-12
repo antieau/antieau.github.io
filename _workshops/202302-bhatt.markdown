@@ -113,10 +113,7 @@ Benjamin Antieau, Bao Le Hung, and Yuchen Liu.
 
 # Registration
 
-Please register **[here](https://sites.math.northwestern.edu/algebraic-geometry-and-cohomology-registration/)**. For possible
-funding, registration must be received by 17 February 2023. If requesting funding, please read below.
-For space reasons, registration is required and registration *will* close once the capacity of the
-room is met.
+Please register **[here](https://sites.math.northwestern.edu/algebraic-geometry-and-cohomology-registration/)**. Note: no additional funding is possible.
 
 *Warning*: there might be a spam email going out to some people about conference hotel booking. 
 We will announce details from our `@northwestern.edu` addresses when the time comes.
@@ -125,7 +122,7 @@ We will announce details from our `@northwestern.edu` addresses when the time co
 
 Some support is available for reimbursing participants' lodging and travel expenses.
 This support is primarily for students and postdocs. Decisions were to be made by 28 February 2023,
-but will be a few days late, hopefully by 9 March 2023.
+but will be a few days late; they will be sent out on 13 March 2023.
 
 # Lodging
 
@@ -143,9 +140,30 @@ Midway airports. One can take a cab from any of these stations or take public tr
 Purple 'L' Lines or on the **[UP-N
 Line](https://ridertools.metrarail.com/maps-schedules/train-lines/UP-N)** of the Metra.
 
+# Parking
+
+Parking is available at either the South or North Campus Parking Garage for $9/day. The South Garage is a 5-10 minute walk from 
+the location of the conference, the North Garage is a 15-20 minute walk. More options are available, but for these a pass must be purchased at the parking office at the South Campus
+garage. For more details, see
+[here](https://www.northwestern.edu/transportation-parking/evanston-parking/).
+
+
 # Room
 
 Talks will take place in the Great Room at 600 Haven Street.
+
+# Tentative schedule
+
+|M|Tu|W|Th|F|
+|-|--|-|--|-|
+|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|
+|0930 **Talk 1**|0930 **Talk 5**|0930 **Talk 9**|0930 **Talk 11**|0930 **Talk 15**|
+|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|
+|1130 **Talk 2**|1130 **Talk 6**|1130 **Talk 10**|1130 **Talk 12**|1100 **Talk 16**|
+|1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1200 Break|
+|1430 **Talk 3**|1430 **Talk 7**||1430 **Talk 13**|1215 **Talk 17**|
+|1530 Coffee|1530 Coffee||1530 Coffee||
+|1630 **Talk 4**|1630 **Talk 8**||1630 **Talk 14**||
 
 # Acknowledgments
 
