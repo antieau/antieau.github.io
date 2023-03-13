@@ -157,11 +157,11 @@ Talks will take place in Harris 107.
 |0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|
 |0930 **Rezk**|0930 **Behrens**|0930 **Lurie**|0930 **Ravenel**|0930 **Stojanoska**|
 |1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|
-|1130 **Hill**|1130 **Beaudry**|1130 **Hoyois**|1130 **Xu**|1100 **Jardine**|
-|1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1200 Lunch|
-|1415 **Isaksen**|1430 **Henn**||1430 **Stapleton**|1330 **Hess**|
-|1515 Coffee|1530 Coffee||1530 Coffee|1430 Coffee|
-|1545 **Lawson**|1630 **Hopkins**||1630 **Schlank**|1500 **Greenlees**|
+|1130 **Hill**|1130 **Beaudry**|1130 **Hoyois**|1130 **Xu**|1100 **Hess**|
+|1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1200 Break|
+|1415 **Isaksen**|1430 **Henn**||1430 **Stapleton**|1215 **Greenlees**|
+|1515 Coffee|1530 Coffee||1530 Coffee|1315 Conference Ends|
+|1545 **Lawson**|1630 **Hopkins**||1630 **Schlank**||
 |1700 Reception|
 
 # Titles and abstracts
@@ -189,11 +189,6 @@ I'll talk about how developments in equivariant homotopy theory over the last de
 Recently, there have been several attempts at developing extensions of motivic homotopy theory that include non-A^1-invariant phenomena, such as the algebraic K-theory of singular schemes or de Rham cohomology in positive characteristic. These are usually based on extensions of the category of schemes itself, such as schemes with modulus or log structures. In joint work with Toni Annala and Ryomei Iwasa, we consider a very naive extension of stable motivic homotopy theory, in which we simply remove the A^1-invariance axiom. We show that many basic results in A^1-homotopy theory can be proved in this context, using the invertibility of P^1 in a clever way. We construct in particular a non-A^1-invariant refinement of algebraic cobordism, which is related to algebraic K-theory by a Conner-Floyd isomorphism.
 
 **Isaksen**, _Bimotivic homotopy theory_. I will discuss a possible new approach to computing the stable homotopy groups.  The basic idea is to combine the Adams and Adams-Novikov spectral sequences into one computable object.
-
-**Jardine**, _Local data structures_.
-Local data structures are systems of neighbourhoods within data sets. Specifications of neighbourhoods can arise in multiple ways, for example, from global geometric structure (stellar charts), combinatorial structure (weighted graphs), desired computational outcomes (natural language processing), or sampling. These examples are discussed, in the context of a theory of neighbourhoods.
-
-This theory is a step towards understanding clustering for large data sets. These clusters can only be approximated in practice, but approximations can be constructed from neighbourhoods via patching arguments that are derived from the Healy-McInnes UMAP construction. The patching arguments are enabled by changing the theoretical basis for data set structure, from metric spaces to extended pseudo metric spaces.
 
 **Lawson**, _Filtrations and their descendants_.
 Our understanding of the homotopy theory of CW-complexes used to be heavily based on the cellular approximation theorem. In this talk we'll take inspiration from this to define an operation taking a filtered space X to a "descendant" filtered space DX. We'll discuss how, when we have categories of filtered objects, applying D to the function spaces has a "page-turning" effect on the homotopy theory, giving a low-tech way to turn a category of filtered objects into an E_2-category. Unstably, we can recover spaces of functions between CW-complexes; stably, we can construct a near relative of Pstragowski's synthetic spectra from the category of modules over a spectral Rees ring.
