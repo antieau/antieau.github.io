@@ -157,11 +157,11 @@ Talks will take place in Harris 107.
 |0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|
 |0930 **Rezk**|0930 **Behrens**|0930 **Lurie**|0930 **Ravenel**|0930 **Stojanoska**|
 |1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|
-|1130 **Hill**|1130 **Beaudry**|1130 **Hoyois**|1130 **Xu**|1100 **Hess**|
+|1130 **Hill**|1130 **Hopkins**|1130 **Hoyois**|1130 **Xu**|1100 **Hess**|
 |1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1200 Break|
 |1415 **Isaksen**|1430 **Henn**||1430 **Stapleton**|1215 **Greenlees**|
 |1515 Coffee|1530 Coffee||1530 Coffee|1315 Conference Ends|
-|1545 **Lawson**|1630 **Hopkins**||1630 **Schlank**||
+|1545 **Lawson**|1630 **Beaudry**||1630 **Schlank**||
 |1700 Reception|
 
 # Titles and abstracts
@@ -195,6 +195,9 @@ Our understanding of the homotopy theory of CW-complexes used to be heavily base
 
 **Lurie**, _Lie algebras in stable homotopy theory_.
 In this talk, I'll review the classical theory of Lie algebras and discuss an "equation-free" approach which can be extended to the setting of homotopy-coherent mathematics. If time permits, I'll discuss some connections with the calculus of functors.
+
+**Ravenel**, _Hiking in the Alps: C_p-fixed points of Lubin-Tate spectra_.
+This is joint work with Mike Hill and Mike Hopkins.  We resume our long lost study of the homotopy fixed point spectrum of C_p acting on the Lubin-Tate spectrum E_n when n is  divisible by p-1 for a prime p.
 
 **Schlank**, _Lubin Tate spectra as algebraically closed fields_.
 The Goerss-Hopkins-Miller theorem gives an $\bE_\infty$-structure on Lubin-Tate spectra.
