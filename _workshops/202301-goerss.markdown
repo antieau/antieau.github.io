@@ -185,6 +185,9 @@ The theory of shadows, first introduced by Ponto, is an axiomatic, bicategorical
 **Hill**, _Equivariant approaches to chromatic homotopy_.
 I'll talk about how developments in equivariant homotopy theory over the last decade have resulted in new ways to study and understand Goerssian questions in chromatic homotopy. This is a preliminary report on work with various subsets of Beaudry, Bobkova, Lawson, Shi, Stojanoska, & Zeng.
 
+**Hopkins**, _Cohomology of motivic Eilenberg-MacLane spaces_.
+I will describe joint work with Tom Bachmann on the cohomology of motivic Eilenberg-MacLane spaces, and give several applications.
+
 **Hoyois**, _Non-A^1-homotopy theory_.
 Recently, there have been several attempts at developing extensions of motivic homotopy theory that include non-A^1-invariant phenomena, such as the algebraic K-theory of singular schemes or de Rham cohomology in positive characteristic. These are usually based on extensions of the category of schemes itself, such as schemes with modulus or log structures. In joint work with Toni Annala and Ryomei Iwasa, we consider a very naive extension of stable motivic homotopy theory, in which we simply remove the A^1-invariance axiom. We show that many basic results in A^1-homotopy theory can be proved in this context, using the invertibility of P^1 in a clever way. We construct in particular a non-A^1-invariant refinement of algebraic cobordism, which is related to algebraic K-theory by a Conner-Floyd isomorphism.
 
