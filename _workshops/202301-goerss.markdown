@@ -176,6 +176,11 @@ Maps\]](https://goo.gl/maps/ufqfEyScuKkxaZSg8) and is open to everyone attending
 **Behrens**, _tmf resolutions at the prime 2_.
 Around 20 years ago, Goerss, Henn, Mahowald, and Rezk started an industry of studying K(2)-local homotopy at bad primes using finite TMF resolutions.  I will discuss how these resolutions detect a swath of elements at the prime 2 in the Isaksen-Wang-Xu range.  This discussion involves a synthesis of collaboration with many folks over the years, including Beaudy, Bhattacharya, Bobkova, Culver, Hill, Hopkins, Mahowald, Ormsby, Petersen, Quigley, Stapleton, Stojanoska, Xu.
 
+**Beaudry**, _The big computation_.
+In the last ten years, our understanding of $K(2)$-local homotopy theory at the prime $2$ has increased by leaps and bounds. Many advancements were made possible by the duality resolution of Bobkova--Goerss--Henn--Mahowald--Rezk. Resolutionary techniques have opened the door to computations of the cohomology of the Morava stabilizer group $\mathbb{G}_2$ with coefficients in the homotopy groups of Morava E-theory $E_2$. They have also given rise to low-stem computations of the homotopy groups of the $K(2)$-local sphere. In turn, these computations have given us a better understanding of chromatic splitting, of the $K(2)$-local Picard group, and of duality in the $K(2)$-local category.
+
+In this talk, I will give a revisionist history of a small part of this now long story, with a focus on how the duality resolution and chromatic splitting have shaped the politics of this 2-primary saga. The work presented is based on collaborations with Irina Bobkova, Paul Goerss, Hans-Werner Henn, Viet-Cuong Pham and Vesna Stojanoska. The talk also borrows from various works of Bohmann, Goscinny, Hopkins, Mahowald, Miller, Ravenel and Uderzo.
+
 **Greenlees**, _Rational equivariant cohomology theories for compact Lie groups_.
 Several structural questions have emerged at least twice in topology: once in chromatic homotopy theory and once in equivariant topology
 (completions and localization, fracture squares, Balmer spectra, support, telescope conjecture, sheaves, filtrations, ….). In the chromatic world
