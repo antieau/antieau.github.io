@@ -202,6 +202,11 @@ In this talk, I'll review the classical theory of Lie algebras and discuss an "e
 **Ravenel**, _Hiking in the Alps: C_p-fixed points of Lubin-Tate spectra_.
 This is joint work with Mike Hill and Mike Hopkins.  We resume our long lost study of the homotopy fixed point spectrum of C_p acting on the Lubin-Tate spectrum E_n when n is  divisible by p-1 for a prime p.
 
+**Rezk**, _Reflections on free colimit completions_.
+In this talk I'll describe some basic but elegant observations about free adjoining classes of
+colimits to infinity-categories.  Then I'll give an interpretation of these results in terms of a
+'global' analogue of presheaves.
+
 **Schlank**, _Lubin Tate spectra as algebraically closed fields_.
 The Goerss-Hopkins-Miller theorem gives an $\bE_\infty$-structure on Lubin-Tate spectra.
 In this talk, I shall discuss a defining property of Lubin-Tate spectra attached to algebraically closed fields among all $K(n)$ (or $T(n)$) local
