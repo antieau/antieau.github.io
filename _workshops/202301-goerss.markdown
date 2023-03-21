@@ -240,10 +240,13 @@ In filtration 1 of the Adams spectral sequence, using secondary cohomology opera
 
 I will talk about joint work with Robert Burklund: In Adams filtration 3, we prove an infinite family of non-trivial d_4-differentials on the classes h_j^3 for j \geq 6, confirming a conjecture of Mahowald. Our proof uses two different deformations of stable homotopy theory – C-motivic stable homotopy theory and F_2-synthetic homotopy theory – both in an essential way. Along the way, we also show that h_j^2 survives to the Adams E_5-page and that h_6^2 survives to the Adams E_9-page.
 
-
-
 # Acknowledgments
 
 The organizers thank the Northwestern Department of Mathematics for funding.
 The drawing above is due to Fomenko and is reproduced from *Mathematical
 Impressions*, by Fomenko.
+
+# Conference photo
+
+<img style="padding: 10px" width="800" src="../assets/png/goerssfest_photo.png">
+
