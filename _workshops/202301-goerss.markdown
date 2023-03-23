@@ -254,5 +254,4 @@ Impressions*, by Fomenko.
 
 # Conference photo
 
-<img style="padding: 10px" width="800" src="../assets/png/goerssfest_photo.png">
-
+<img style="padding: 10px" width="800" src="../assets/jpg/goerssfest_photo.jpeg">
