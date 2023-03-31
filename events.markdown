@@ -4,17 +4,24 @@ title: events
 permalink: /events/
 ---
 
-<h1>workshops</h1>
+<h1>future organization</h1>
 
 PCMI program on motivic homotopy, Summer 2024.
 
-<a href="https://indico.math.cnrs.fr/event/8837/">IHES summer school on algebraic $K$-theory, 10-23 July 2023</a>.
+<a href="https://indico.math.cnrs.fr/event/8837/">IHES summer school on algebraic K-theory, 10-23 July 2023</a>.
 
 <a href="https://www.msri.org/summer_schools/992">MSRI summer school on derived algebraic geometry, Summer 2023</a>.
 
-{% for workshop in site.workshops reversed %}
-<a href="{{ workshop.url }}">{{ workshop.title }}, {{ workshop.dates }}</a>.
-{% endfor %}
+<a href="../workshops/202302-bhatt.html">Algebraic geometry and cohomology in mixed characteristic,
+    15-19 May 2023 @ Northwestern</a>.
+
+
+
+
+<h1>past organization</h1>
+
+<a href="../workshops/202301-goerss.html">Homotopy theory in honor of Paul Goerss, 20-24 March 2023 @
+Northwestern</a>.
 
 <a href="https://www.birs.ca/events/2021/5-day-workshops/21w5174">(CANCELLED)
 Chromatic homotopy theory and algebraic K-theory @ Casa
@@ -40,12 +47,12 @@ Generalised Lie algebras in derived geometry, near Utrecht, 29 May to 2 June 202
 
 
 
-<h1>past events</h1>
+<h1>recent past events</h1>
 
 <a href="https://www.math.ku.dk/english/calendar/events/zeta-values">Topological Hochschild homology and Zeta values, Masterclass at Copenhagen, 30 January to 3 February
 2023</a>.
 
-Workshop on $p$-adic Hodge theory, Clay Research Conference, 26-30 September 2022.
+Workshop on p-adic Hodge theory, Clay Research Conference, 26-30 September 2022.
 
 <a href="https://www.mfo.de/occasion/2231/www_view">Non-commutative geometry
 and cyclic homology @ Oberwolfach, 31 July to 6 August 2022</a>.
