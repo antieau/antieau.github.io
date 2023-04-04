@@ -162,6 +162,18 @@ Talks will take place in the Orrington Room at the Hilton Orrington.
 |1530 Coffee|1530 Coffee||1530 Coffee||
 |1630 **Talk 4**|1630 **Talk 8**||1630 **Talk 14**||
 
+# Titles and abstracts
+
+**Kedlaya**, _Algebraic Frobenius structures_.
+Let X be a smooth projective variety over Q. Let Z be a strict normal crossings divisor on X. Then for any vector bundle E on X equipped with a logarithmic (for Z) integrable connection, for almost all primes p we construct another vector bundle with logarithmic connection which interpolates the pullbacks along all analytic Frobenius lifts on X (in a sense which we will make precise in the talk). In particular, when the connection is of geometric origin, we obtain an isomorphism of vector bundles with connection which constitutes an "algebraic Frobenius structure". Conversely, in certain cases one can establish this isomorphism directly to show that E is an isocrystal, e.g., when the connection is rigid (recovering a result of Esnault-Groechenig) or superrigid (extending work of Klevdal-Patrikis). Moreover, in certain examples the algebraic Frobenius structures for *different* primes fit together in a manner that as yet lacks a general explanation.
+
+**Schwede**, _Perfectoid signature and an application to étale fundamental groups_.
+In characteristic p > 0 commutative algebra, the F-signature measures how
+close a strongly F-regular ring is from being non-singular. Here F-regular singularities are a characteristic p > 0 analog of klt singularities. In this talk,
+using the perfectoidization of Bhatt-Scholze, we will introduce a mixed
+characteristic analog of F-signature and Hilbert-Kunz multiplicity. As an application, we show it can be used to provide an explicit upper bound on the size of the étale fundamental group of the regular locus of a BCM-regular singularities (related to results of Xu, Braun, Zhuang, Carvajal-Rojas, Tucker, Bhatt-Gabber-Olsson, and others in characteristic zero and characteristic p). BCM-regular singularities, as introduced by Pérez-R.G. and Ma and myself, can be thought of as a mixed characteristic analog of klt and F-regular singularities from characteristic zero or p > 0 respectively. This is joint work with Hanlin Cai, Seungsu Lee, Linquan Ma and Kevin Tucker.
+
+
 # Acknowledgments
 
 The organizers thank the Nemmers Prize Fund and the Northwestern Department of Mathematics for funding.
