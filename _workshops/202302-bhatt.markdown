@@ -155,9 +155,9 @@ Talks will take place in the Orrington Room at the Hilton Orrington.
 |M|Tu|W|Th|F|
 |-|--|-|--|-|
 |0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|0900 Coffee|
-|0930 **Kedlaya**|0930 **Lurie**|0930 **Schwede**|0930 **Nizioł**|0930 **Petrov**|
+|0930 **Kedlaya**|0930 **Lurie**|0930 **Schwede**|0930 **Nizioł**|0930 **Illusie**|
 |1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|
-|1130 **Bragg**|1130 **Esnault**|1130 **Mathew**|1130 **Arvidsson**|1100 **Illusie**|
+|1130 **Bragg**|1130 **Esnault**|1130 **Mathew**|1130 **Arvidsson**|1100 **Petrov**|
 |1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1200 Conference ends|
 |1430 **Frei**|1430 **Ogus**||1430 **Witaszek**||
 |1530 Coffee|1530 Coffee||1530 Coffee||
