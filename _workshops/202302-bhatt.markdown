@@ -208,6 +208,14 @@ In a joint work with Pierre Colmez and Sally Gilles we conjecture that it also e
 Let $X/k$ be a smooth scheme over a perfect field $k$ of characteristic $p > 0$ and let $W$ be the Witt ring of $k$.
 Inspired by Drinfeld’s ''stacky'' approach to prismatic cohomology, Bhatt, Lurie, and others have shown that a lifting of $X/k$ to $W$ induces a canonical action of the divided power version of $\Gm$ on $R\Gamma(X,\Omega^\bullet_{X/k})$. The $\bZ/p\bZ$-grading associated to the restriction of this action to $\mu_p$ generalizes the Deligne--Illusie decomposition theorem. I will explain several explicit geometric constructions of this action and how discussions with Bhatt and Vologodsky clarified the relationships among them. This will not be a formal research talk, but rather the a story still in progress.
 
+**Olsson**, _Homological descent and base change for stacks_.
+Classically for a morphism $f:X\rightarrow Y$ of schemes the functor $$f_!:D(X)\rightarrow D(Y)$$ on derived categories of \'etale sheaves is defined using compactifications and ordinary pushforward $$f_*$$ for proper morphisms.
+Verdier duality relates this functor to $f_*$, and this observation was used in earlier joint work with Laszlo to define $f_!$ for a morphism of algebraic stacks.
+However, this approach has some deficiencies; in particular, it does not readily give the proper base change theorem in the context of stacks.
+The base change theorem was subsequently proven by Liu and Zheng using other methods.
+In this talk I will explain an alternate approach to $f_!$, which in particular gives the proper base change theorem, based on homological descent - a theory whose existence was suggested by Gabber some years ago.
+This is joint work with Bhargav Bhatt.
+
 **Petrov**, _Non-decomposability of the de Rham complex and non-semisimplicity of the Sen operator II_.
 This is a continuation of Luc Illusie's talk.
 I will describe a general algebraic approach to analyzing extensions in the canonical filtration on a complex admitting a certain special type of a derived commutative algebra structure, applicable e.g.
