@@ -236,6 +236,16 @@ As an application, we show it can be used to provide an explicit upper bound on 
 BCM-regular singularities (related to results of Xu, Braun, Zhuang, Carvajal--Rojas, Tucker, Bhatt--Gabber--Olsson, and others in characteristic zero and characteristic p). BCM-regular singularities, as introduced by Pérez-R.G. and Ma and myself, can be thought of as a mixed characteristic analog of klt and
 $F$-regular singularities from characteristic zero or $p > 0$ respectively. This is joint work with Hanlin Cai, Seungsu Lee, Linquan Ma and Kevin Tucker.
 
+**Witaszek**, _Singularities in mixed characteristic via the Riemann-Hilbert
+correspondence_.
+In my talk, I will start by reviewing how various properties
+of characteristic zero singularities can be understood topologically
+by ways of the Riemann-Hilbert correspondence. After that, I will
+explain how similar ideas can be applied in the study of mixed
+characteristic singularities. This is based on a joint work (in
+progress) with Bhargav Bhatt, Linquan Ma, Zsolt Patakfalvi, Karl
+Schwede, Kevin Tucker, and Joe Waldron.
+
 
 # Acknowledgments
 
