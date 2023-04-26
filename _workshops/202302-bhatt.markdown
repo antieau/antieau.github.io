@@ -147,6 +147,10 @@ nearby to the hotel and elsewhere around Evanston.
 
 Talks will take place in the Orrington Room at the Hilton Orrington.
 
+# Reception
+
+The reception will take place from 1700 to 1900 Monday evening on campus in **[Harris 108](https://goo.gl/maps/Q47BnX4tnLL5xdn97)** and is open to everyone attending the conference.
+
 # Tentative schedule
 
 |M|Tu|W|Th|F|
@@ -156,9 +160,10 @@ Talks will take place in the Orrington Room at the Hilton Orrington.
 |1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|1030 Coffee|
 |1130 **Bragg**|1130 **Esnault**|1130 **Mathew**|1130 **Arvidsson**|1100 **Petrov**|
 |1230 Lunch|1230 Lunch|Free afternoon|1230 Lunch|1200 Conference ends|
-|1430 **Frei**|1430 **Ogus**||1430 **Witaszek**||
-|1530 Coffee|1530 Coffee||1530 Coffee||
-|1630 **Mondal**|1630 **Zavyalov**||1630 **Olsson**||
+|1415 **Frei**|1430 **Ogus**||1430 **Witaszek**||
+|1515 Coffee|1530 Coffee||1530 Coffee||
+|1545 **Mondal**|1630 **Zavyalov**||1630 **Olsson**||
+|1700 Reception|
 
 # Titles and abstracts
 
