@@ -206,6 +206,13 @@ when the connection is rigid (recovering a result of Esnault-Groechenig) or supe
 Let X be a projective algebraic variety over the field of complex numbers. A central result of Hodge theory is that every cohomology class on X can be represented (uniquely) by a harmonic differential form. This has an algebraic consequence: the Hodge-to-de-Rham spectral sequence of X degenerates. In the late 1980's, Deligne and Illusie gave a purely algebraic proof of the latter statement, using positive characteristic algebraic geometry in place of classical Hodge theory. In this talk, I'll describe some recent joint work with Bhargav Bhatt which offers a new point of view on
 the work of Deligne-Illusie, using the theory of prismatic cohomology.
 
+**Mathew**, _Nonconnective animated rings and affine stacks_.
+I will discuss a theory of "derived rings" (a nonconnective
+generalization of animated or simplicial commutative rings) and their
+connection with affine stacks in the sense of Toen. Based on joint
+work with Bhargav Bhatt, work of Arpon Raksit, and joint work with
+Shubhodip Mondal.
+
 **Mondal**, _Unipotent homotopy theory of schemes_.
 Building on Toen's work on higher (affine) stacks,
 I will discuss a notion of homotopy theory for algebraic varieties, which we call `unipotent homotopy theory'.
