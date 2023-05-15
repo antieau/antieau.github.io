@@ -164,7 +164,7 @@ The reception will take place from 1700 to 1900 Monday evening on campus in **[H
 |1515 Coffee|1530 Coffee||1530 Coffee||
 |1545 **Mondal**|1630 **Zavyalov**||1630 **Olsson**||
 |1700 Reception|
-
+  
 # Titles and abstracts
 
 **Arvidsson**, _Properties of log canonical singularities in positive characteristic_.
@@ -174,6 +174,11 @@ We will see that the pathological behavior of these singularities in positive ch
 Additionally, we will explore how these questions are related to the moduli theory of varieties of general type.
 
 This is based on joint work with F. Bernasconi and Zs. Patakfalvi, as well as joint work with Q. Posva.
+
+**Bragg**, _A Stacky Murphy’s Law for the Stack of Curves_.
+We show that every Deligne-Mumford gerbe over a field occurs as the residual gerbe of a point of the moduli stack of curves.
+Informally, this means that the moduli space of curves fails to be a fine moduli space in every possible way.
+We also show the same result for a list of other natural moduli problems. This is joint work with Max Lieblich.
 
 **Esnault**, _Crystallinity properties of complex rigid local systems_.
 Joint work in progress with Michael Groechenig.
@@ -272,6 +277,14 @@ explain how similar ideas can be applied in the study of mixed
 characteristic singularities. This is based on a joint work (in
 progress) with Bhargav Bhatt, Linquan Ma, Zsolt Patakfalvi, Karl
 Schwede, Kevin Tucker, and Joe Waldron.
+
+**Zavyalov**, _Poincare Duality in an abstract 6-functor formalism_.
+In this talk, I will discuss Poincare Duality in the context of an abstract 
+6-functor formalism. Somewhat surprisingly, a 6-functor formalism satisfies
+an appropriate form of Poincare Duality under a minimal set of extra assumptions. Furthermore,
+these assumptions are essentially independent of the ``coefficient'' categories D(X). This makes 
+it easy to verify these assumptions in practice. In particular, this allows us to reprove previously 
+established Poincare Duality results in a uniform and almost formal way.
 
 
 # Acknowledgments
