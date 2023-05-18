@@ -263,7 +263,8 @@ The approach relies on the analog of Steenrod operations for these derived commu
 As an application, we will see a discrepancy between equivariant Hodge and de Rham cohomology of an abelian variety equipped with an action of a discrete group.
 This discrepancy gives rise to an example of a liftable variety with a non-degenerate Hodge-to-de Rham spectral sequence.
 
-**Schwede**, _Perfectoid signature and an application to étale fundamental groups_.
+**Schwede**, _Perfectoid signature and an application to étale fundamental groups_
+[\(slides\)](../assets/pdf/bhattfest_schwede.pdf).
 In characteristic $p > 0$ commutative algebra, the $F$-signature measures how
 close a strongly $F$-regular ring is from being non-singular. Here $F$-regular singularities are a characteristic $p > 0$
 analog of klt singularities. In this talk, using the perfectoidization of Bhatt--Scholze, we will introduce a mixed
@@ -296,3 +297,7 @@ established Poincare Duality results in a uniform and almost formal way.
 The organizers thank the Nemmers Prize Fund and the Northwestern Department of Mathematics for funding.
 The [image](https://flickr.com/photos/byzantiumbooks/47145660811/) above is due to [Bill Smith](https://flickr.com/photos/byzantiumbooks/) and used under [CC
 BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+
+# Conference photo
+
+<img style="padding: 10px" width="800" src="../assets/jpg/bhattfest_photo_cropped.jpg">
