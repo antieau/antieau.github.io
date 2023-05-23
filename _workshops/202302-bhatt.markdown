@@ -220,7 +220,7 @@ we construct another vector bundle with logarithmic connection which interpolate
 Conversely, in certain cases one can establish this isomorphism directly to show that E is an isocrystal, e.g.,
 when the connection is rigid (recovering a result of Esnault-Groechenig) or superrigid (extending work of Klevdal-Patrikis). Moreover, in certain examples the algebraic Frobenius structures for *different* primes fit together in a manner that as yet lacks a general explanation.
 
-**Lurie**, _Deligne-Illusie from the Prismatic Perspective_.
+**Lurie**, _Deligne-Illusie from the Prismatic Perspective_ [\(slides\)](../assets/pdf/bhattfest_lurie.pdf).
 Let X be a projective algebraic variety over the field of complex numbers. A central result of Hodge theory is that every cohomology class on X can be represented (uniquely) by a harmonic differential form. This has an algebraic consequence: the Hodge-to-de-Rham spectral sequence of X degenerates. In the late 1980's, Deligne and Illusie gave a purely algebraic proof of the latter statement, using positive characteristic algebraic geometry in place of classical Hodge theory. In this talk, I'll describe some recent joint work with Bhargav Bhatt which offers a new point of view on
 the work of Deligne-Illusie, using the theory of prismatic cohomology.
 
@@ -244,7 +244,7 @@ This is joint work with Emanuel Reinecke.
 It is well known that local Tate duality extends to $p$-adic etale cohomology of schemes over local fields.
 In a joint work with Pierre Colmez and Sally Gilles we conjecture that it also extends to p-adic pro-etale cohomology of analytic spaces and prove it for analytic curves. I will discuss this work and, if time permits, its geometric analog.
 
-**Ogus**, _Diffracting prisms: resolution of a quandary_.
+**Ogus**, _Diffracting prisms: resolution of a quandary_ [\(slides\)](../assets/pdf/bhattfest_ogus.pdf).
 Let $X/k$ be a smooth scheme over a perfect field $k$ of characteristic $p > 0$ and let $W$ be the Witt ring of $k$.
 Inspired by Drinfeld’s ''stacky'' approach to prismatic cohomology, Bhatt, Lurie, and others have shown that a lifting of $X/k$ to $W$ induces a canonical action of the divided power version of $\Gm$ on $R\Gamma(X,\Omega^\bullet_{X/k})$. The $\bZ/p\bZ$-grading associated to the restriction of this action to $\mu_p$ generalizes the Deligne--Illusie decomposition theorem. I will explain several explicit geometric constructions of this action and how discussions with Bhatt and Vologodsky clarified the relationships among them. This will not be a formal research talk, but rather a story still in progress.
 
