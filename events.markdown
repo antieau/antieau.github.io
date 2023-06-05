@@ -12,13 +12,12 @@ PCMI program on motivic homotopy, Summer 2024.
 
 <a href="https://www.msri.org/summer_schools/992">MSRI summer school on derived algebraic geometry, Summer 2023</a>.
 
-<a href="../workshops/202302-bhatt.html">Algebraic geometry and cohomology in mixed characteristic,
-    15-19 May 2023 @ Northwestern</a>.
-
-
 
 
 <h1>past organization</h1>
+
+<a href="../workshops/202302-bhatt.html">Algebraic geometry and cohomology in mixed characteristic,
+    15-19 May 2023 @ Northwestern</a>.
 
 <a href="../workshops/202301-goerss.html">Homotopy theory in honor of Paul Goerss, 20-24 March 2023 @
 Northwestern</a>.
@@ -41,13 +40,15 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 <h1>future trips</h1>
 
-University of Michigan, 3-5 April 2023.
 
-Generalised Lie algebras in derived geometry, near Utrecht, 29 May to 2 June 2023.
 
 
 
 <h1>recent past events</h1>
+
+<a href="https://derivedutrecht2023.github.io/workshop/">Generalised Lie algebras in derived geometry, near Utrecht</a>, 29 May to 2 June 2023.
+
+University of Michigan, 3-5 April 2023.
 
 <a href="https://www.math.ku.dk/english/calendar/events/zeta-values">Topological Hochschild homology and Zeta values, Masterclass at Copenhagen, 30 January to 3 February
 2023</a>.
