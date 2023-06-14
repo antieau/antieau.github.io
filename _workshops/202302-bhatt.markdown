@@ -276,7 +276,7 @@ BCM-regular singularities (related to results of Xu, Braun, Zhuang, Carvajal--Ro
 $F$-regular singularities from characteristic zero or $p > 0$ respectively. This is joint work with Hanlin Cai, Seungsu Lee, Linquan Ma and Kevin Tucker.
 
 **Witaszek**, _Singularities in mixed characteristic via the Riemann-Hilbert
-correspondence_.
+correspondence_ [\(slides\)](../assets/pdf/witaszek_schwede.pdf).
 In my talk, I will start by reviewing how various properties
 of characteristic zero singularities can be understood topologically
 by ways of the Riemann-Hilbert correspondence. After that, I will
