@@ -67,7 +67,7 @@ $
 
 # What
 
-A highly-focused workshop on recent developments in Brauer groups and derived categories, suitable
+A highly focused workshop on recent developments in Brauer groups and derived categories, suitable
 for people working in the field, organized around a mini-course by each speaker.
 
 # Speakers
