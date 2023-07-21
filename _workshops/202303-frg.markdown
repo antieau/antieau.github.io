@@ -117,7 +117,8 @@ For more details, see
 
 # Acknowledgments
 
-This conference is funded by the NSF FRG grant...
+This conference is funded by the NSF grant DMS-2152235, _FRG: higher categorical structures in
+algebraic geometry_.
 The image above was created at
 [deepai.org](https://deepai.org/machine-learning-model/abstract-painting-generator) with the prompt
 "Brauer group".
