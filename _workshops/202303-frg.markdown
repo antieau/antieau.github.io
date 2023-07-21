@@ -1,0 +1,123 @@
+---
+layout: workshop
+dates: 20-22 October 2023 @ Northwestern
+title: FRG workshop on Brauer groups and derived categories
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TP{\mathrm{TP}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+$
+</div>
+
+
+<img style="float: right; padding: 10px" width="400" src="../assets/jpg/frg_workshop.jpeg">
+
+# What
+
+A highly-focused workshop on recent developments in Brauer groups and derived categories, suitable
+for people working in the field, organized around a mini-course by each speaker.
+
+# Speakers
+
+[James Hotchkiss](https://sites.google.com/view/jameshotchkiss/james-hotchkiss) (Columbia)
+
+[Alex Perry](http://www-personal.umich.edu/~arper/) (Michigan)
+
+[Laura Pertusi](http://www.mat.unimi.it/users/pertusi/) (Milano)
+
+# Organizers
+
+Benjamin Antieau, Andrei Caldararu, Max Lieblich, Akhil Mathew, Martin Olsson
+
+# Registration
+
+Register [here](https://forms.gle/XELBPHvf6SHgXCNq7) no later than 2 October 2023; for funding,
+register no later than 14 September 2023.
+
+# Funding
+
+Some funding is available for graduate students, early-career researchers, and others. To apply for it, your
+registration must be received by 14 September 2023, with decisions made by 21 September 2023.
+For funding, graduate students must have a letter of recommendation submitted on their behalf to me,
+at ```antieau@northwestern.edu```, no later than the deadline above.
+
+# Lodging
+
+Participants, even those we fund, are asked to book their own lodging and be reimbursed. We will
+book lodging for speakers. Suitable hotels include the Hyatt House Evanston and the Hilton Orrington
+Evanston.
+
+# Travel
+
+Northwestern is accessible via Amtrak through Chicago Union Station and via plane through Chicago O'Hare or
+Midway airports. One can take a cab from any of these stations or take public transportation on the Red or
+Purple 'L' Lines or on the **[UP-N
+Line](https://ridertools.metrarail.com/maps-schedules/train-lines/UP-N)** of the Metra.
+
+# Parking
+
+Parking is available at either the South or North Campus Parking Garage for $9/day.
+The South Garage is a 5-10 minute walk from 
+the location of the conference, the North Garage is a 15-20 minute walk.
+For more details, see
+[here](https://www.northwestern.edu/transportation-parking/evanston-parking/).
+
+# Acknowledgments
+
+This conference is funded by the NSF FRG grant...
+The image above was created at
+[deepai.org](https://deepai.org/machine-learning-model/abstract-painting-generator) with the prompt
+"Brauer group".
