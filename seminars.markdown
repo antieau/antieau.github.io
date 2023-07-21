@@ -4,6 +4,7 @@ title: seminars
 permalink: /seminars/
 ---
 
+<a href="../workshops/202304-preprint.html">FRG preprint seminar</a>.
 
 {% for seminar in site.seminars reversed %}
 <a href="{{ seminar.url }}">{{ seminar.term }} - {{ seminar.title }}</a>.
