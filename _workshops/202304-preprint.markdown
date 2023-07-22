@@ -63,13 +63,15 @@ $
 </div>
 
 
-# 26 July 2023
+# 26 July 2023 in Lunt 103
 
-Benjamin Antieau (Northwestern). Land and Tamme's [On the K-theory of
+Alicia Lima (UC) at **1030**. Burklund's [Multiplicative structures on Moore
+spectra](https://arxiv.org/abs/2203.14787).
+
+Benjamin Antieau (NU) at **1400**. Land and Tamme's [On the K-theory of
 pushouts](https://arxiv.org/abs/2304.12812).
 
-Alicia Lima (Chicago). Burklund's [Multiplicative structures on Moore
-spectra](https://arxiv.org/abs/2203.14787).
+
 
 
 # Organizers
