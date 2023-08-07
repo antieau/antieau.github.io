@@ -62,6 +62,18 @@ $
 $
 </div>
 
+# 16-18 August 2023 in Lunt 107
+
+Elden Elmanto (Harvard/Toronto) at **1030** on _16 August_. Motivic cohomology.
+
+Vadim Vologodsky at **1400** on _16 August_. Prismatic $F$-gauges at Fontaine--Laffaille modules.
+
+Akhil Mathew (UC) at **1400** on _17 August_. Nuclear modules for dgas after Efimov.
+
+Noah Riggenbach (NU) at **1400** on _18 August_. Binda, Lundemo, Park, and Østvær's [Logarithmic
+prismatic cohomology via THH](https://arxiv.org/abs/2306.01368).
+
+
 
 # 26 July 2023 in Lunt 103
 
