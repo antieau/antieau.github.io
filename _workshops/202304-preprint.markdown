@@ -66,7 +66,7 @@ $
 
 Elden Elmanto (Harvard/Toronto) at **1030** on _16 August_. Motivic cohomology.
 
-Vadim Vologodsky at **1400** on _16 August_. Prismatic $F$-gauges at Fontaine--Laffaille modules.
+Vadim Vologodsky at **1400** on _16 August_. Prismatic $F$-gauges and Fontaine--Laffaille modules.
 
 Akhil Mathew (UC) at **1400** on _17 August_. Nuclear modules for dgas after Efimov.
 
