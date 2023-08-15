@@ -8,6 +8,8 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[45] B. Antieau, _Spherical Witt vectors and integral models for spaces_, submitted, \[[arXiv:2308](https://arxiv.org/abs/2308.07288)\].
+
 [44] B. Antieau, L. Meier, and V. Stojanoska, _Picard sheaves, local Brauer groups, and topological
 modular forms_, submitted, \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
 
