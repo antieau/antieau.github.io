@@ -64,16 +64,21 @@ $
 
 # 16-18 August 2023 in Lunt 107
 
-Elden Elmanto (Harvard/Toronto) at **1030** on _16 August_. Motivic cohomology.
+Elden Elmanto (Harvard/Toronto) at **1030** on _16 August_. On motivically-lisse schemes.
+\[[Notes](https://www.dropbox.com/scl/fi/ifyd4aooyzxn1718doyi5/elmanto-on-motivically-lisse-schemes.pdf?rlkey=6wel8goxw93t5dmt0ntmkv2hx&dl=0)\]
 
-Akhil Mathew (UC) at **1400** on _16 August_. Refined prismatization (pre-talk for Vologodsky).
+Akhil Mathew (UC) at **1400** on _16 August_. $F$-gauges (pre-talk for Vologodsky).
+\[[Notes](https://www.dropbox.com/scl/fi/kgh53y0w0cze6b9nkbakg/mathew-f-gauges-pre-talk-for-vologodsky.pdf?rlkey=q19fim5datoi362t9w7e7ysns&dl=0)\]
 
 Vadim Vologodsky (UC and HSE University) at **1530** on _16 August_. Prismatic $F$-gauges and Fontaine--Laffaille modules.
+\[[Notes](https://www.dropbox.com/scl/fi/mj67ho3hvvtycxjnxtgar/vologodsky-prismatic-f-gauges-and-fontaine-lafaille-modules.pdf?rlkey=42d3pnnbfaykkb5wq7qmplgr8&dl=0)\]
 
 Akhil Mathew (UC) at **1400** on _17 August_. Nuclear modules for dgas after Efimov.
+\[[Notes](https://www.dropbox.com/scl/fi/88yftvoqxx0p9lng5jysc/mathew-nuclear-modules-for-proper-dg-algebras-after-efimov.pdf?rlkey=fveqqcm3ao6xz3rvbw5s0kkoc&dl=0)\]
 
 Noah Riggenbach (NU) at **1400** on _18 August_. Binda, Lundemo, Park, and Østvær's [Logarithmic
 prismatic cohomology via THH](https://arxiv.org/abs/2306.01368).
+\[[Notes](https://www.dropbox.com/scl/fi/id5h06r1n7oaqats24g4o/riggenbach-log-prismatic-cohomology-via-thh-binda-lundemo-park-ostvaer.pdf?rlkey=gmm2uxr74jbuwptf7rbg49wc3&dl=0)\]
 
 
 
@@ -81,9 +86,11 @@ prismatic cohomology via THH](https://arxiv.org/abs/2306.01368).
 
 Alicia Lima (UC) at **1030**. Burklund's [Multiplicative structures on Moore
 spectra](https://arxiv.org/abs/2203.14787).
+\[[Notes](https://www.dropbox.com/scl/fi/khmegsb5wnaq7g3satiek/lima-multiplicative-structures-on-moore-spectra-burklund.pdf?rlkey=jjaee1bzfyuggfl70vxakknnz&dl=0)\]
 
 Benjamin Antieau (NU) at **1400**. Land and Tamme's [On the K-theory of
 pushouts](https://arxiv.org/abs/2304.12812).
+\[[Notes](https://www.dropbox.com/scl/fi/vhdldoqeizhtxb0rptpyc/antieau-on-the-k-theory-of-pushouts-land-and-tamme.pdf?rlkey=o5fjboso0hqum9ndoihrrd4hr&dl=0)\]
 
 
 
