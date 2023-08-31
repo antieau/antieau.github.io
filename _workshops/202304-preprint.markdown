@@ -65,7 +65,7 @@ $
 
 Future dates: Friday 3 November and Wednesday 6 December 2023.
 
-# 27 September 2023
+# 27 September 2023 in Tech M164
 
 Deven Manam (NU). Mondal and Reinecke's [Unipotent homotopy theory of schemes](https://arxiv.org/abs/2302.10703).
 
