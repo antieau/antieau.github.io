@@ -67,9 +67,9 @@ Future dates: Friday 3 November and Wednesday 6 December 2023.
 
 # 27 September 2023 in Tech M164
 
-Deven Manam (NU). Mondal and Reinecke's [Unipotent homotopy theory of schemes](https://arxiv.org/abs/2302.10703).
+Deven Manam (NU) at **1500**. Mondal and Reinecke's [Unipotent homotopy theory of schemes](https://arxiv.org/abs/2302.10703).
 
-Noah Ankney (NU). Hausmann's [Global group laws and equivariant bordism rings](https://arxiv.org/abs/1912.07583).
+Noah Ankney (NU) at **1630**. Hausmann's [Global group laws and equivariant bordism rings](https://arxiv.org/abs/1912.07583).
 
 
 
