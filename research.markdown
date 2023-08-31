@@ -16,7 +16,8 @@ modular forms_, submitted, \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
 [43] B. Antieau, A. Krause, and T. Nikolaus, _The K-theory of Z/p^n -- announcement_,
     \[[arXiv:2204](https://arxiv.org/abs/2204.03420)\].
 
-[42] B. Antieau, A. Mathew, and M. Morrow, _The K-theory of perfectoid rings_, to appear in Documenta Math. \[[arxiv:2203](http://arxiv.org/abs/2203.06472)\].
+[42] B. Antieau, A. Mathew, and M. Morrow, _The K-theory of perfectoid rings_, Documenta Math. **27** (2022), 1923–1952.
+\[[arxiv:2203](http://arxiv.org/abs/2203.06472)\].
 
 [41] B. Antieau and A. Auel, _Explicit descent on elliptic curves and splitting
 Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
@@ -35,7 +36,7 @@ Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 [34]  N. Addington, B. Antieau, S. Frei, and K. Honigs, _Rational points and derived equivalence_, Compositio Math. **157** (2021), no. 5, 1036-1050. \[[Compositio](https://www.doi.org/10.1112/S0010437X21007089)\]. \[[arxiv:1906](https://arxiv.org/abs/1906.02261)\].
 
-[33]  B. Antieau, _On the uniqueness of infinity-categorical enhancements of triangulated categories_, submitted. \[[arxiv:1812](http://arxiv.org/abs/1812.01526)\].
+[33]  B. Antieau, _On the uniqueness of infinity-categorical enhancements of triangulated categories_. \[[arxiv:1812](http://arxiv.org/abs/1812.01526)\].
 
 [32]  B. Antieau and T. Nikolaus, _Cartier modules and cyclotomic spectra_, J. Amer. Math. Soc. **34** (2021), no. 1, 1-78. \[[arxiv:1809](http://arxiv.org/abs/1809.01714)\].
 
