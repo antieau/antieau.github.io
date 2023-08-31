@@ -62,6 +62,17 @@ $
 $
 </div>
 
+
+Future dates: Friday 3 November and Wednesday 6 December 2023.
+
+# 27 September 2023
+
+Deven Manam (NU). Mondal and Reinecke's [Unipotent homotopy theory of schemes](https://arxiv.org/abs/2302.10703).
+
+Noah Ankney (NU). Hausmann's [Global group laws and equivariant bordism rings](https://arxiv.org/abs/1912.07583).
+
+
+
 # 16-18 August 2023 in Lunt 107
 
 Elden Elmanto (Harvard/Toronto) at **1030** on _16 August_. On motivically-lisse schemes.
