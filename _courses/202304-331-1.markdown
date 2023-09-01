@@ -1,0 +1,109 @@
+---
+layout: course
+year: 2023
+quarter: Fall
+number: Math 331-1
+title: MENU Abstract Algebra
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand\TP{\mathrm{TP}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+$
+</div>
+
+<!-- éČ -->
+
+# Details
+
+*Times*: MWF 1000 for lectures, Th 1000 for discussion sections.
+
+*Place*: University Hall 101 for lectures, Lunt 105 for discussion sections.
+
+*Office hours*: 30 minutes before and 30 minutes after each class, in Lunt Hall 304.
+
+*Textbook*: Course notes (required), to be distributed, and Dummit and Foote's *Abstract algebra*, 3rd edition, available at the
+campus bookstore. Dummit and Foote is optional for this course, but strongly recommended as an
+additional resource and will probably be required in the second and third quarters.
+
+*Catalog description*: group theory, including the Sylow theorems.
+
+*Full syllabus*: on Canvas.
+
+# Syllabus
+
+**09/18**. The first day of class is **Wednesday 09/20**.
+
+**09/25**. 
+
+**10/02**.
+
+**10/09**.
+
+**10/16**. Midterm on **Friday 10/19**.
+
+**10/23**.
+
+**10/30**.
+
+**11/06**. Class will meet on Zoom.
+
+**11/13**. 
+
+**11/20**. Thanksgiving Holiday, no discussion on **Thursday 11/23** and no class on **Friday 11/24**.
+
+**11/27**. Reading period begins; no classes.
+
+**12/07**. Final exam **1500-1700** in University Hall 101.
