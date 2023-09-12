@@ -70,13 +70,12 @@ $
 
 *Times*: MWF 1000 for lectures, Th 1000 for discussion sections.
 
-*Place*: University Hall 101 for lectures, Lunt 105 for discussion sections.
+*Place*: Tech A110 for lectures, Lunt 105 for discussion sections.
 
 *Office hours*: 30 minutes before and 30 minutes after each class, in Lunt Hall 304.
 
-*Textbook*: Course notes (required), to be distributed, and Dummit and Foote's *Abstract algebra*, 3rd edition, available at the
-campus bookstore. Dummit and Foote is optional for this course, but strongly recommended as an
-additional resource and will probably be required in the second and third quarters.
+*Textbook*: Dummit and Foote's *Abstract algebra*, 3rd edition, available at the
+campus bookstore.
 
 *Catalog description*: group theory, including the Sylow theorems.
 
