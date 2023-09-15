@@ -32,6 +32,10 @@ Full cv \[[pdf](../assets/pdf/cv.pdf)\] \(04 Mar 2021\).
 
 # Notable grants and awards
 
+2023 Simons Collaboration on Perfection.
+
+2022 NSF FRG Grant _Higher categorical structures in algebraic geometry_.
+
 2021 Fellow of the AMS.
 
 2021 Member of the K-Theory Foundation.
@@ -51,6 +55,7 @@ algebras_.
 undergraduate research center_.
 
 2013 NSF Grant _Topological methods for Azumaya algebras_.
+
 
 
 # Publications
