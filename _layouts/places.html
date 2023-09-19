@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="home">
+  {{ content }}
+
+  <h1>places</h1>
+
+  {% for place in site.places %}
+  <a href="{{ place.url }}">{{ place.title }}</a>
+  <br>
+  {% endfor %}
+
+</div>
