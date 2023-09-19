@@ -74,8 +74,8 @@ $
 
 *Office hours*: MF 3-4pm and W 2-3pm in Lunt Hall 304.
 
-*Textbook*: Course notes and Dummit and Foote's *Abstract algebra*, 3rd edition, available at the
-campus bookstore.
+*Textbook*: Course notes (required) and Dummit and Foote's *Abstract algebra*, 3rd edition, available at the
+campus bookstore (optional).
 
 *Catalog description*: group theory, including the Sylow theorems.
 
