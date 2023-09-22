@@ -4,6 +4,8 @@ title: seminars
 permalink: /seminars/
 ---
 
+<a href="../workshops/202305-topology.html">Topology seminar</a>.
+
 <a href="../workshops/202304-preprint.html">FRG preprint seminar</a>.
 
 {% for seminar in site.seminars reversed %}
