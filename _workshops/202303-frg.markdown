@@ -78,6 +78,10 @@ for people working in the field, organized around a mini-course by each speaker.
 
 [Laura Pertusi](http://www.mat.unimi.it/users/pertusi/) (Milano)
 
+# Schedule
+
+We will start at 3pm on Friday and conclude by 2pm on Sunday.
+
 # Organizers
 
 Benjamin Antieau, Andrei Caldararu, Max Lieblich, Akhil Mathew, Martin Olsson
