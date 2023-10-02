@@ -80,6 +80,15 @@ for people working in the field, organized around a mini-course by each speaker.
 
 # Schedule
 
+|F|Sa|Su|
+|-|--|-|
+|1500 Pertusi 1|0915 Perry 2|0900 Hotchkiss 3|
+|1545 Coffee|1030 Coffee|1000 Coffee|
+|1600 Perry 1|1115 Hotchkiss 2|1030 Pertusi 3|
+|1600 Coffee|1230 Lunch|1130 Coffee|
+|1700 Hotchkiss 1|1430 Pertusi 2|1200 Perry 3|
+|1745 Day ends|1545 Day ends|1300 Workshop ends|
+
 We will start at 3pm on Friday and conclude by 2pm on Sunday.
 
 # Organizers
