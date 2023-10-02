@@ -75,6 +75,10 @@ $
 
 11/13. **Naruki Masuda** (Johns Hopkins).
 
+11/20. **Jared Weinstein** (Boston University).
+
+11/27. **Kendric Schefers** (Berkeley).
+
 
 
 # Spring 2023 schedule
