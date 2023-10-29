@@ -63,7 +63,16 @@ $
 </div>
 
 
-Future dates: Friday 3 November and Wednesday 6 December 2023.
+
+# 6 December 2023
+
+Haoyang Guo (Chicago). Bhatt's [Crystals and Chern classes](https://arxiv.org/pdf/2310.00676.pdf).
+
+Iris Li (Chicago). Pstragowski's [Perfect even modules and the even filtration](https://arxiv.org/abs/2304.04685).
+
+Kirill Magidson (NU). Krause, McCandless, and Nikolaus' [Polygonic spectra and TR with coefficients](https://arxiv.org/abs/2302.07686).
+
+
 
 # 27 September 2023 in Tech M164
 
