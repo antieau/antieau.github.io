@@ -64,7 +64,7 @@ $
 
 
 
-# 6 December 2023
+# 6 December 2023 in Tech MG28, 1pm-5pm
 
 Haoyang Guo (Chicago). Bhatt's [Crystals and Chern classes](https://arxiv.org/pdf/2310.00676.pdf).
 
