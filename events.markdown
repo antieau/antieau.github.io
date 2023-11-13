@@ -8,12 +8,13 @@ permalink: /events/
 
 PCMI program on motivic homotopy, Summer 2024.
 
-<a href="../workshops/202303-frg.html">FRG workshop: Brauer groups and derived categories,
-    20-22 October 2023 @ Northwestern</a>.
-
 
 
 <h1>past organization</h1>
+
+<a href="../workshops/202303-frg.html">FRG workshop: Brauer groups and derived categories,
+    20-22 October 2023 @ Northwestern</a>.
+
 
 <a href="https://indico.math.cnrs.fr/event/8837/">IHES summer school on algebraic K-theory, 10-23 July 2023</a>.
 

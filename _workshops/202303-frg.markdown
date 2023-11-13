@@ -70,6 +70,7 @@ $
 A highly focused workshop on recent developments in Brauer groups and derived categories, suitable
 for people working in the field, organized around a mini-course by each speaker.
 
+
 # Speakers
 
 [James Hotchkiss](https://sites.google.com/view/jameshotchkiss/james-hotchkiss) (Columbia)
@@ -101,6 +102,18 @@ A hyperkaehler manifold is a compact complex simply connected Kaehler manifold w
 In dimension two, hyperkaehler manifolds are K3 surfaces, while finding examples in higher dimensions is a challenging problem.
  
 The aim of this mini-course is to investigate the recent developments about the construction of families of hyperkaehler manifolds, using derived categories techniques and moduli spaces of semistable objects.
+
+# Slides
+
+[Hotchkiss 1](../assets/pdf/hotchkiss_1.pdf),
+[Hotchkiss 2](../assets/pdf/hotchkiss_2.pdf),
+[Hotchkiss 3](../assets/pdf/hotchkiss_3.pdf),
+[Perry 1](../assets/pdf/perry_1.pdf),
+[Perry 2](../assets/pdf/perry_2.pdf),
+[Perry 3](../assets/pdf/perry_3.pdf),
+[Pertusi 1](../assets/pdf/pertusi_1.pdf),
+[Pertusi 2](../assets/pdf/pertusi_2.pdf),
+[Pertusi 3](../assets/pdf/pertusi_3.pdf).
 
 # Organizers
 
