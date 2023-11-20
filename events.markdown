@@ -8,6 +8,15 @@ permalink: /events/
 
 PCMI program on motivic homotopy, Summer 2024.
 
+<h1>future trips</h1>
+
+
+IAS, Spring 2024.
+
+NYU, 13 February 2024.
+
+Simons Collaboration annual meeting, 7-8 March 2024.
+
 
 
 <h1>past organization</h1>
@@ -43,16 +52,12 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 
-<h1>future trips</h1>
-
-MIT, 18 September 2023.
-
-IAS, Spring 2024.
-
 
 
 
 <h1>recent past events</h1>
+
+MIT, 18 September 2023.
 
 <a href="https://derivedutrecht2023.github.io/workshop/">Generalised Lie algebras in derived geometry, near Utrecht</a>, 29 May to 2 June 2023.
 
