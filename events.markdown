@@ -6,7 +6,7 @@ permalink: /events/
 
 <h1>future organization</h1>
 
-PCMI program on motivic homotopy, Summer 2024.
+[PCMI program on motivic homotopy theory](https://www.ias.edu/pcmi/pcmi-2024-research-program), Summer 2024.
 
 <h1>future trips</h1>
 
