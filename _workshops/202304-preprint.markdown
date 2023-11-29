@@ -66,11 +66,11 @@ $
 
 # 6 December 2023 in Tech MG28, 1pm-5pm
 
-Haoyang Guo (Chicago). Bhatt's [Crystals and Chern classes](https://arxiv.org/pdf/2310.00676.pdf).
+Iris Li (Chicago) at **1300**. Pstragowski's [Perfect even modules and the even filtration](https://arxiv.org/abs/2304.04685).
 
-Iris Li (Chicago). Pstragowski's [Perfect even modules and the even filtration](https://arxiv.org/abs/2304.04685).
+Kirill Magidson (NU) at **1430**. Krause, McCandless, and Nikolaus' [Polygonic spectra and TR with coefficients](https://arxiv.org/abs/2302.07686).
 
-Kirill Magidson (NU). Krause, McCandless, and Nikolaus' [Polygonic spectra and TR with coefficients](https://arxiv.org/abs/2302.07686).
+Haoyang Guo (Chicago) at **1600**. Bhatt's [Crystals and Chern classes](https://arxiv.org/pdf/2310.00676.pdf).
 
 
 
