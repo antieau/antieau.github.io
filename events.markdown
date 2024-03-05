@@ -11,12 +11,19 @@ permalink: /events/
 <h1>future trips</h1>
 
 
-IAS, Spring 2024.
-
-NYU, 13 February 2024.
+IAS, Winter 2024.
 
 Simons Collaboration annual meeting, 7-8 March 2024.
 
+MPIM, Fall 2024.
+
+<a href="https://www.mpim-bonn.mpg.de/dualcat2024">MPIM workshop on dualisable categories and continuous K-theory, 9-13 September 2024</a>.
+
+Berkeley, Winter and Spring 2025.
+
+Motivic homotopy theory, 17-21 March 2025 at Regensburg.
+
+Oslo, Summer 2025.
 
 
 <h1>past organization</h1>
