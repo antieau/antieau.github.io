@@ -123,19 +123,19 @@ Noah Riggenbach (Boas postdoc).
 
 Carlos Cortez (PhD).
 
-Micah Darrell (PhD).
-
 Adam Holeman (PhD).
-
-Anna Lipman (PhD).
 
 Kirill Magidson (PhD).
 
 Deven Manam (PhD).
 
-Lucy Yang (PhD, visiting from Harvard).
-
 Yuanning Zhang (PhD).
+
+Anna Lipman (PhD).
+
+[Preston Cranford](https://prestoncranford.github.io/) (PhD).
+
+
 
 # past group members
 
@@ -150,3 +150,5 @@ Tasos Moulinos (UIC PhD 2018).
 Harry Smith (UIC PhD 2020).
 
 Joel Stapleton (UIC PhD 2021).
+
+Micah Darrell (NU PhD 2023).

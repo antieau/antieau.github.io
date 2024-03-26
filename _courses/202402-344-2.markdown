@@ -72,7 +72,7 @@ $
 
 *Place*: Lunt 101 for lectures, Lunt 104 for discussion sections.
 
-*Office hours*: TBD.
+*Office hours*: Wednesdays at 1600 in Lunt 304.
 
 *Textbook*: Munkres' textbook **Topology**, 2nd edition.
 

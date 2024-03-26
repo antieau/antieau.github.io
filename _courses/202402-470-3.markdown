@@ -72,7 +72,7 @@ $
 
 *Place*: Lunt 103 for lectures and discussion sections.
 
-*Office hours*: TBD.
+*Office hours*: Wednesdays at 1600 in Lunt 304.
 
 *Textbooks*: Aluffi's **Algebra: Chapter 0**, Atiyah and Macdonald's **Introduction to
 commutative algebra**, and Weibel's **An introduction to homological algebra**.
