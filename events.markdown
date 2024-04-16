@@ -11,15 +11,13 @@ permalink: /events/
 <h1>future trips</h1>
 
 
-IAS, Winter 2024.
-
-Simons Collaboration annual meeting, 7-8 March 2024.
-
 MPIM, Fall 2024.
 
 <a href="https://www.mpim-bonn.mpg.de/dualcat2024">MPIM workshop on dualisable categories and continuous K-theory, 9-13 September 2024</a>.
 
 Berkeley, Winter and Spring 2025.
+
+Algebraic geometry: a motivic view, 13-17 January 2025, ETH Zürich.
 
 Motivic homotopy theory, 17-21 March 2025 at Regensburg.
 
@@ -60,9 +58,11 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 
-
-
 <h1>recent past events</h1>
+
+IAS, Winter 2024.
+
+Simons Collaboration annual meeting, 7-8 March 2024.
 
 MIT, 18 September 2023.
 
