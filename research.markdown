@@ -117,17 +117,24 @@ Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 [i] B. Antieau, _The even filtration after Hahn, Raksit, and Wilson_, [Oberwolfach Report
 24/2022](https://publications.mfo.de/handle/mfo/3959).
 
-# current group members
+
+
+# current group members and their research
 
 Noah Riggenbach (Boas postdoc).
+- Darrell and Riggenbach, _TR of quasiregular semiperfect rings is even_, \[[arxiv:2308](https://arxiv.org/abs/2308.13008)\].
+- Riggenbach, _K-theory of truncated polynomials_, \[[arxiv:2211](https://arxiv.org/abs/2211.11110)\].
+- Riggenbach, _K-theory of cuspidal curves over a perfectoid base and formal analogues_, \[[arxiv:2203](https://arxiv.org/abs/2203.17136)\].
 
 Carlos Cortez (PhD).
 
 Adam Holeman (PhD).
+- Holeman, _Derived δ-Rings and relative prismatic cohomology_, \[[arxiv:2303](https://arxiv.org/abs/2303.17447)\].
 
 Kirill Magidson (PhD).
 
 Deven Manam (PhD).
+- Manam, _On the Drinfeld formal group_, \[[arxiv:2403](https://arxiv.org/abs/2403.02555)\].
 
 Yuanning Zhang (PhD).
 
@@ -152,3 +159,4 @@ Harry Smith (UIC PhD 2020).
 Joel Stapleton (UIC PhD 2021).
 
 Micah Darrell (NU PhD 2023).
+- Darrell and Riggenbach, _TR of quasiregular semiperfect rings is even_, \[[arxiv:2308](https://arxiv.org/abs/2308.13008)\].
