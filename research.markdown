@@ -8,13 +8,16 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[47] B. Antieau, A. Krause, and T. Nikolaus, _On the K-theory of Z/p^n_,
+    submitted, \[[arXiv:2405](https://arxiv.org/abs/)\].
+
 [46] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_,
     \[[arxiv:2310](https://arxiv.org/abs/2310.12770)\].
 
 [45] B. Antieau, _Spherical Witt vectors and integral models for spaces_, submitted, \[[arXiv:2308](https://arxiv.org/abs/2308.07288)\].
 
 [44] B. Antieau, L. Meier, and V. Stojanoska, _Picard sheaves, local Brauer groups, and topological
-modular forms_, to appear in Journal of Topology, \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
+modular forms_, Journal of Topology **17** (2024), no. 2, e12333. \[[J. Top.](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.12333)\]. \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
 
 [43] B. Antieau, A. Krause, and T. Nikolaus, _The K-theory of Z/p^n -- announcement_,
     \[[arXiv:2204](https://arxiv.org/abs/2204.03420)\].
@@ -116,6 +119,10 @@ Brauer classes_. \[[arxiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 [i] B. Antieau, _The even filtration after Hahn, Raksit, and Wilson_, [Oberwolfach Report
 24/2022](https://publications.mfo.de/handle/mfo/3959).
+
+# software
+
+[a] B. Antieau, A. Krause, and T. Nikolaus, `KZPN`, \[[GitHub](https://github.com/antieau/kzpn)\].
 
 
 
