@@ -9,9 +9,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 # publications and preprints
 
 [47] B. Antieau, A. Krause, and T. Nikolaus, _On the K-theory of Z/p^n_,
-    submitted, \[[arXiv:2405](https://arxiv.org/abs/)\].
+    submitted, \[[arXiv:2405](https://arxiv.org/abs/2405.04329)\].
 
-[46] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_,
+[46] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_, submitted,
     \[[arxiv:2310](https://arxiv.org/abs/2310.12770)\].
 
 [45] B. Antieau, _Spherical Witt vectors and integral models for spaces_, submitted, \[[arXiv:2308](https://arxiv.org/abs/2308.07288)\].
@@ -19,7 +19,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 [44] B. Antieau, L. Meier, and V. Stojanoska, _Picard sheaves, local Brauer groups, and topological
 modular forms_, Journal of Topology **17** (2024), no. 2, e12333. \[[J. Top.](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.12333)\]. \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
 
-[43] B. Antieau, A. Krause, and T. Nikolaus, _The K-theory of Z/p^n -- announcement_,
+[43] B. Antieau, A. Krause, and T. Nikolaus, _The K-theory of Z/p^n -- announcement_, submitted,
     \[[arXiv:2204](https://arxiv.org/abs/2204.03420)\].
 
 [42] B. Antieau, A. Mathew, and M. Morrow, _The K-theory of perfectoid rings_, Documenta Math. **27** (2022), 1923–1952.
