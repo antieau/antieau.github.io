@@ -15,11 +15,25 @@ MPIM, Fall 2024.
 
 <a href="https://www.mpim-bonn.mpg.de/dualcat2024">MPIM workshop on dualisable categories and continuous K-theory, 9-13 September 2024</a>.
 
+<a href="https://www.mpim-bonn.mpg.de/node/13256">
+Unstable homotopy theory, 11-15 November 2025, MPIM
+</a>.
+
+NRW topology meeting, November 2024.
+
 Berkeley, Winter and Spring 2025.
 
-Algebraic geometry: a motivic view, 13-17 January 2025, ETH Zürich.
+<a href="https://math.ethz.ch/fim/activities/conferences/Algebraic-geometry-a-motivic-view.html">
+Algebraic geometry: a motivic view, 13-17 January 2025, ETH Zürich
+</a>.
 
-Motivic homotopy theory, 17-21 March 2025 at Regensburg.
+<a href="https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Motivic_homotopy_theory_2025">
+Motivic homotopy theory, 17-21 March 2025 at Regensburg
+</a>.
+
+
+<a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
+Oberwolfach, 10-15 August 2024</a>.
 
 Oslo, Summer 2025.
 
