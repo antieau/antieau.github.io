@@ -133,11 +133,6 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 - Riggenbach, _K-theory of truncated polynomials_, \[[arXiv:2211](https://arxiv.org/abs/2211.11110)\].
 - Riggenbach, _K-theory of cuspidal curves over a perfectoid base and formal analogues_, \[[arXiv:2203](https://arxiv.org/abs/2203.17136)\].
 
-Carlos Cortez (PhD).
-
-[Adam Holeman](https://adamholeman.github.io/) (PhD).
-- Holeman, _Derived δ-Rings and relative prismatic cohomology_, \[[arXiv:2303](https://arxiv.org/abs/2303.17447)\].
-- Holeman, _K\_Theory\_Transformer_, \[[GitHub](https://github.com/AdamHoleman/K_Theory_Transformer)\].
 
 Kirill Magidson (PhD).
 - Magidson, _Divided powers and derived de Rham cohomology_, \[[arXiv:2405](https://arxiv.org/abs/2405.05153)\].
@@ -155,17 +150,24 @@ Anna Lipman (PhD).
 
 # past group members
 
-Xing Gu (UIC PhD 2017).
+Carlos Cortez (NU PhD 2024).
 
-Victor Jatoba (UIC PhD 2020).
-
-Jānis Lazovskis (UIC PhD 2019).
-
-Tasos Moulinos (UIC PhD 2018).
-
-Harry Smith (UIC PhD 2020).
-
-Joel Stapleton (UIC PhD 2021).
+[Adam Holeman](https://adamholeman.github.io/) (NU PhD 2024).
+- Holeman, _Derived δ-Rings and relative prismatic cohomology_, \[[arXiv:2303](https://arxiv.org/abs/2303.17447)\].
+- Holeman, _K\_Theory\_Transformer_, \[[GitHub](https://github.com/AdamHoleman/K_Theory_Transformer)\].
 
 Micah Darrell (NU PhD 2023).
 - Darrell and Riggenbach, _TR of quasiregular semiperfect rings is even_, \[[arXiv:2308](https://arxiv.org/abs/2308.13008)\].
+
+Joel Stapleton (UIC PhD 2021).
+
+Harry Smith (UIC PhD 2020).
+
+Tasos Moulinos (UIC PhD 2018).
+
+Jānis Lazovskis (UIC PhD 2019).
+
+Victor Jatoba (UIC PhD 2020).
+
+Xing Gu (UIC PhD 2017).
+
