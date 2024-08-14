@@ -31,6 +31,11 @@ Algebraic geometry: a motivic view, 13-17 January 2025, ETH Zürich
 Motivic homotopy theory, 17-21 March 2025 at Regensburg
 </a>.
 
+<a
+href="https://sites.google.com/view/2025summerinstitute/home/week-3-july-28-aug-1">Connections
+between algebraic geometry and topology at the Summer Research Institute, 28
+July to 3 August 2025, Fort Collins, CO</a>.
+
 
 <a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
 Oberwolfach, 10-15 August 2025</a>.
