@@ -33,7 +33,7 @@ Motivic homotopy theory, 17-21 March 2025 at Regensburg
 
 
 <a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
-Oberwolfach, 10-15 August 2024</a>.
+Oberwolfach, 10-15 August 2025</a>.
 
 Oslo, Summer 2025.
 
