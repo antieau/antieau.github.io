@@ -16,7 +16,7 @@ MPIM, Fall 2024.
 <a href="https://www.mpim-bonn.mpg.de/dualcat2024">MPIM workshop on dualisable categories and continuous K-theory, 9-13 September 2024</a>.
 
 <a href="https://www.mpim-bonn.mpg.de/node/13256">
-Unstable homotopy theory, 11-15 November 2025, MPIM
+Unstable homotopy theory, 11-15 November 2024, MPIM
 </a>.
 
 NRW topology meeting, November 2024.
