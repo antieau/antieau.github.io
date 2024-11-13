@@ -2,7 +2,7 @@
 layout: post
 title:  "New paper: the K-theory of Z$/p^n$"
 stitle: "New paper: K-theory of Z$/p^n$"
-tags: 2021
+tags: 2024
 ---
 <div style="display:none">
 $
@@ -90,66 +90,55 @@ $
 
 <!--ëéłö-->
 
-Achim Krause, Thomas Nikolaus, and I have uploaded our research announcement
-[\[1\]](#akn) on the $\K$-groups of $\bZ/p^n$ to the arXiv. We constructed an algorithm to compute the
-syntomic cohomology $\bZ_p(i)$ in the sense of Bhatt--Morrow--Scholze of $\bZ/p^n$ or
-more generally $\Oscr_K/\varpi^n$ where $K$ is a finite extension of $\bQ_p$
-and $\varpi$ is a uniformizer of the ring of integers $\Oscr_K$.
+After a long delay, Achim Krause, Thomas Nikolaus, and I finally uploaded our paper [\[3\]](#akn)
+on the $\K$-groups of $\bZ/p^n$, and more generally of $\Oscr_K/\varpi^n$ for $K$ a $p$-adic local field and $\varpi$ a uniformizer, to the `arXiv`. And, I have finally written this blog post, since the
+paper has been up for six months now. These results were originally announced in
+[\[1\]](#akn-announcement) and [our previous post]({% post_url 2022-04-12-kzpn %}). See the latter
+for an outline of the main results. Most importantly, our implementation of the algorithm which
+computes these groups is available publicly at [kzpn @ GitHub](https://github.com/antieau/kzpn).
 
-The BMS spectral sequence in this case collapses entirely and hence the
-algorithm gives a way to compute the $p$-adic $\K$-groups:
+Several related papers have appeared in the meantime, most notably the paper [\[5\]](#hls) of Jeremy Hahn, Ishan
+Levy, and Andrew Senger which computes the $\K$-groups of $\bZ/p^n$ modulo $p$ and $v_1$.
+Remarkably, their computation shows that the answer is independent of $n$ for $n\geq 2$.
 
-$$\K_{2i-1}(\Oscr_K/\varpi^n;\bZ_p)\cong\H^1(\bZ_p(i)(\Oscr_K/\varpi^n))$$
+In a short paper using both the techniques of [\[3\]](#akn) and [\[5\]](#hls), Krause and Senger have given the exact
+vanishing bound for the even $\K$-groups of $\bZ/p^n$ in [\[6\]](#ks), strengthening one of the main theorems in
+[\[3\]](#akn).
 
-for $i\geq 1$ and
-
-$$\K_{2i-2}(\Oscr_K/\varpi^n;\bZ_p)\cong\H^2(\bZ_p(i)(\Oscr_K/\varpi^n))$$
-
-for $i\geq 2$. The $\K$-groups are torsion and the prime-to-$p$ information is governed by
-Quillen's computation of the $\K$-theory of finite fields.
-
-See the announcement for tables of computations and references. After running our
-algorithm in a bunch of cases, we conjectured that in fact the even groups vanish for $i$
-sufficiently large. This is indeed the case.
-
-**Theorem** (Even vanishing theorem). If
-
-$$i\geq\frac{p^2}{(p-1)^2}\left(p^{\lceil\tfrac{n}{e}\rceil}-1\right),$$
-
-then $\K_{2i-2}(\Oscr_K/\varpi^n)=0$.
-
-Recall that Bhatt and Scholze proved the odd vanishing conjecture, namely that
-odd $\K$-groups vanish and even $\K$-groups are
-$p$-torsion free quasisyntomic-locally . (This had been proved in
-characteristic $p$ first in BMS2.) Bhatt and Scholze also proved a more precise
-statement which showed in particular that
-$\K_*(\Oscr_{\bC_p}/p^n;\bZ_p)$ is concentrated in even degrees.
-Combined with our theorem, one obtains the following consequence.
-
-**Corollary**. If $i\geq\frac{p^2(p^n-1)}{(p-1)^2}$,  then
-$\K_{2i-2}(\Oscr_{\bC_p}/p^n;\bZ_p)$
-is $p$-torsion free.
-
-**Added 03 May 2022**: Bhargav Bhatt pointed out that the stronger form of the
-odd vanishing conjecture can be used to make the proof below easier.
-
-**Added 14 May 2022**: Bhargav pointed out again that there is an easier
-argument! I was worried about something the even groups in
-$\K_{2i-2}(\Oscr_K/\varpi^m)$ somehow accumulating to contribute to
-$\H^2(\bZ_p(i)(\Oscr_{\bC_p}/p^n))$, which is not possible since for *any*
-quasiregular semiperfectoid ring $R$ the $p$-adic syntomic complexes $\bZ_p(i)(R)$
-have cohomology concentrated in degrees $[0,1]$. So, this `corollary' is really
-an easier corollary of the results of Bhatt--Morrow--Scholze and Bhatt--Scholze.
+Finally, our work uses our paper [\[2\]](#akn-delta) on prismatic cohomology relative to $\delta$-rings, which
+introduces in particular a relative form of syntomic cohomology.
 
 
 # References
 
-<span id="akn_announcement">
+<span id="akn-announcement">
 [1] Antieau, Krause, and Nikolaus, *The K-theory of $\bZ/p^n$ -- announcement*,
     [<tt>arXiv:2204.03420</tt>](https://arxiv.org/abs/2204.03420).
 </span>
 
+<span id="akn-delta">
+[2] Antieau, Krause, and Nikolaus, *Prismatic cohomology relative to $\delta$-rings*,
+    [<tt>arXiv:2310.12770</tt>](https://arxiv.org/abs/2310.12770).
+</span>
+
+<span id="akn">
+[3] Antieau, Krause, and Nikolaus, *The K-theory of $\bZ/p^n$*,
+    [<tt>arXiv:2405.04329</tt>](https://arxiv.org/abs/2405.04329).
+</span>
+
 <span id="bs">
-[2] Bhatt, Scholze, *Prisms and prismatic cohomology*,
+[4] Bhatt, Scholze, *Prisms and prismatic cohomology*,
     [<tt>arXiv:1905.08229</tt>](https://arxiv.org/abs/1905.08229).
 </span>
+
+<span id="hls">
+[5] Hahn, Levy, Senger, *Crystallinity for reduced syntomic cohomology and the mod
+$(p,v_1^{p^{n-2}})$ $\K$-theory of $\bZ/p^n$*,
+    [<tt>arXiv:2409.20543</tt>](https://arxiv.org/abs/2409.20543).
+</span>
+
+<span id="ks">
+[6] Krause, Senger, *Exact bounds for even vanishing of $$\K_*(\bZ/p^n)$$*,
+    [<tt>arXiv:2409.20523</tt>](https://arxiv.org/abs/2409.20523).
+</span>
+
