@@ -9,6 +9,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 # publications and preprints
 
 [48] B. Antieau, _Spectral sequences, décalage, and the Beilinson t-structure_,
+    submitted,
     \[[arXiv:2411](https://arxiv.org/abs/2411.09115)\].
 
 [47] B. Antieau, A. Krause, and T. Nikolaus, _On the K-theory of Z/p^n_,
