@@ -8,6 +8,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[49] B. Antieau and N. Riggenbach, _Cyclotomic synthetic spectra_,
+    \[[arXiv:2411](https://arxiv.org/abs/2411.19929)\].
+
 [48] B. Antieau, _Spectral sequences, décalage, and the Beilinson t-structure_,
     submitted,
     \[[arXiv:2411](https://arxiv.org/abs/2411.09115)\].
