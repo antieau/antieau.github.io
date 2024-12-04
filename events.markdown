@@ -13,6 +13,11 @@ permalink: /events/
 
 Berkeley, Winter and Spring 2025.
 
+<a
+href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2025/">
+Simons Collaboration annual meeting, 13-14 March 2025</a>.
+
+
 <a href="https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Motivic_homotopy_theory_2025">
 Motivic homotopy theory, 17-21 March 2025 at Regensburg
 </a>.
