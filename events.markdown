@@ -17,10 +17,8 @@ Berkeley, Winter and Spring 2025.
 href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2025/">
 Simons Collaboration annual meeting, 13-14 March 2025</a>.
 
+The Abel Symposium, 23-27 June 2025, Trondheim, Norway.
 
-<a href="https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Motivic_homotopy_theory_2025">
-Motivic homotopy theory, 17-21 March 2025 at Regensburg
-</a>.
 
 <a
 href="https://sites.google.com/view/2025summerinstitute/home/week-3-july-28-aug-1">Connections
@@ -31,7 +29,6 @@ July to 3 August 2025, Fort Collins, CO</a>.
 <a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
 Oberwolfach, 10-15 August 2025</a>.
 
-Oslo, Summer 2025.
 
 
 <h1>past organization</h1>
