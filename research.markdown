@@ -26,7 +26,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 [44] B. Antieau, L. Meier, and V. Stojanoska, _Picard sheaves, local Brauer groups, and topological
 modular forms_, Journal of Topology **17** (2024), no. 2, e12333. \[[J. Top.](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.12333)\]. \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
 
-[43] B. Antieau, A. Krause, and T. Nikolaus, _The K-theory of Z/p^n -- announcement_, submitted,
+[43] B. Antieau, A. Krause, and T. Nikolaus, _The K-theory of Z/p^n -- announcement_,
     \[[arXiv:2204](https://arxiv.org/abs/2204.03420)\].
 
 [42] B. Antieau, A. Mathew, and M. Morrow, _The K-theory of perfectoid rings_, Documenta Math. **27** (2022), 1923–1952.
@@ -135,13 +135,15 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 # current group members and their research
 
-[Noah Riggenbach](https://sites.google.com/view/riggenbachn) (Boas postdoc).
+[Noah Riggenbach](https://sites.google.com/view/riggenbachn) (Simons Collaboration postdoc).
+- Antieau and Riggenbach, _Cyclotomic synthetic spectra_, \[[arXiv:2411](https://arxiv.org/abs/2411.19929)\].
 - Darrell and Riggenbach, _TR of quasiregular semiperfect rings is even_, \[[arXiv:2308](https://arxiv.org/abs/2308.13008)\].
 - Riggenbach, _K-theory of truncated polynomials_, \[[arXiv:2211](https://arxiv.org/abs/2211.11110)\].
 - Riggenbach, _K-theory of cuspidal curves over a perfectoid base and formal analogues_, \[[arXiv:2203](https://arxiv.org/abs/2203.17136)\].
 
 
 Kirill Magidson (PhD).
+- Brantner, Magidson, Nuiten, _Formal integration of derived foliations_, \[[arXiv:2502](https://arxiv.org/abs/2502.05257)\].
 - Magidson, _Witt vectors and $\delta$-Cartier algebras_, \[[arXiv:2409](https://arxiv.org/abs/2409.03877)\].
 - Magidson, _Divided powers and derived de Rham cohomology_, \[[arXiv:2405](https://arxiv.org/abs/2405.05153)\].
 
