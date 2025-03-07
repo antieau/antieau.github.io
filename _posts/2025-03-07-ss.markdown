@@ -1,0 +1,183 @@
+---
+layout: post
+title:  "New paper: spectral sequences, décalage, and the Beilinson t-structure"
+stitle: "New paper: spectral sequences" 
+tags: 2025
+---
+<div style="display:none">
+$
+\newcommand\nil{\mathrm{nil}}
+\newcommand\gfrak{\mathfrak{g}}
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\C{\mathrm{C}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\F{\mathrm{F}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\h{\mathrm{h}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\N{\mathrm{N}}
+\newcommand\R{\mathrm{R}}
+\newcommand\t{\mathrm{t}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bH}{\mathbf{H}}
+\newcommand{\bT}{\mathbf{T}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\Gm}{\bG_m}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Fscr{\mathcal{F}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Oscr{\mathcal{O}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\gr{\mathrm{gr}}
+\newcommand\Gr{\mathrm{Gr}}
+\newcommand\fil{\mathrm{fil}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\dRhat{\widehat{\dR}}
+\newcommand\we{\simeq}
+\newcommand\Sym{\mathrm{Sym}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\HC{\mathrm{HC}}
+\newcommand\HP{\mathrm{HP}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand{\coMod}{\mathrm{coMod}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bQ{\mathbf{Q}}
+\newcommand\bC{\mathbf{C}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}\,}
+\newcommand\CAlg{\mathrm{CAlg}}
+\newcommand\aCAlg{\mathfrak{a}\CAlg}
+\newcommand\dCAlg{\mathfrak{d}\CAlg}
+\newcommand{\Cat}{\mathrm{Cat}}
+\newcommand{\Sscr}{\mathcal{S}}
+\newcommand{\poly}{\mathrm{poly}}
+\newcommand{\perf}{\mathrm{perf}}
+\newcommand{\Dec}{\mathrm{Dec}}
+$
+</div>
+
+<!--ëé-->
+
+I am finally writing about a paper [\[1\]](#ss) I put on the `arXiv` last year about spectral sequences. This
+paper gives a new construction of all pages of the spectral sequence of a filtered object in a
+stable $\infty$-category equipped with a $t$-structure.
+
+The idea is quite simple. Let $\Cscr$ be a stable $\infty$-category which admits sequential limits
+and colimits. Suppose that $\Cscr$ moreover admits a $t$-structure. On the $\infty$-category
+$\F\Cscr=\Fun(\bZ^\op,\Cscr)$ of decreasing filtrations in $\Cscr$ there is a $t$-structure where
+an object $\F^\star$ is connective, i.e., in $\F\Cscr_{\geq 0}^\B$ if and only if $\gr^i\in\Cscr_{\geq
+-i}$, the latter with respect to the given $t$-structure above. This is called the Beilinson
+$t$-structure and has been considered in [\[2\]](#ariotta), [\[3\]](#bms2), and [\[9\]](#raksit).
+The heart of this $t$-structure
+is equivalent to the abelian category of cochain complexes in $\Cscr^\heart$. It is not difficult
+to see that the homotopy objects $\pi_i^\B(\F^\star)$ are precisely the (co)chain complexes
+appearing on the $\E^1$-page of the spectral sequence associated to $\F^\star$.
+
+The paper [\[1\]](#ss) provides an answer to the question of how to coherently construct the other pages. I
+use the $t$-structure to define an endofunctor of $\F\Cscr$, called $\Dec$. By definition, given an
+object $\F^\star\in\F\Cscr$ there is a Whitehead tower
+
+$$\cdots\rightarrow\tau_{\geq n+1}^\B(\F^\star)\rightarrow\tau_{\geq n}^\B(\F^\star)\rightarrow\tau_{\geq n-1}^\B(\F^\star)\rightarrow\cdots.$$
+
+Let $|-|\colon\F\Cscr\rightarrow\Cscr$ denote the colimit functor, which exists as we assume that
+$\Cscr$ admits sequential colimits. We can apply $|-|$ to the Whitehead tower to obtain a new
+decreasing filtration
+
+$$\cdots\rightarrow|\tau_{\geq n+1}^\B(\F^\star)|\rightarrow|\tau_{\geq n}^\B(\F^\star)|\rightarrow|\tau_{\geq n-1}^\B(\F^\star)|\rightarrow\cdots.$$
+
+This is $\Dec(\F^\star)$. More generally, we can iterate to obtain $\Dec^{(n)}(\F^\star)$.
+
+This leads to a simple definition of all pages.
+
+**Definition.** For $n\geq 1$, the $\E^n$-page of the spectral sequence attached to $\F^\star$ is
+the $\E^1$-page of the spectral sequence of $\Dec^{(n-1)}(\F^\star)$, with some reindexing.
+
+The difficult part of the paper is the proof of the following result.
+
+**Theorem.** This agrees with the definition of the higher pages given in [\[8\]](#lurie).
+
+One reason I find this interesting is that in the presence of a symmetric monoidal structure on
+$\Cscr$, and assuming that the $t$-structure on $\Cscr$ is compatible with the symmetric monoidal
+structure, one finds that $\Dec$ is lax symmetric monoidal. From this, one can easily prove
+multiplicativity results about all pages of a spectral sequence.
+
+Another reason is that it makes it straightforward to compare, say, the two standard definitions of
+the Atiyah-Hirzebruch spectral sequence computing the $E$-cohomology of a space $X$, one using the
+Whitehead tower of $E$ and the other using a cellular filtration on $X$.
+
+This work did not arise in a vacuum and some of our results are closely related to work of
+Deligne [\[4\]](#deligne), Lawson [\[6\]](#lawson), and Levine [\[7\]](#levine).
+Some of the ideas also were explained in the PhD thesis [\[5\]](#hedenlund) of Alice
+Hedenlund.
+
+
+
+# References
+
+<span id="ss">
+[1] Antieau, _Spectral sequences, décalage, and the Beilinson t-structure_,
+    [<tt>arXiv:2411.09115</tt>](https://arxiv.org/abs/2411.09115).
+</span>
+
+<span id="ariotta">
+[2] Ariotta, _Coherent cochain complexes and Beilinson $t$-structures, with an
+appendix by Achim Krause_,
+[<tt>arXiv:2109.01017</tt>](https://arxiv.org/abs/2109.01017).
+</span>
+
+<span id="bms2">
+[3] Bhargav Bhatt, Matthew Morrow, and Peter Scholze, *Topological Hochschild homology and integral p-adic Hodge theory*, Publ. Math. Inst. Hautes Études Sci.
+**129** (2019), 199–310.
+</span>
+
+<span id="deligne">
+[4] Deligne, *Théorie de Hodge. II*, Inst. Hautes Études Sci. Publ. Math. (1971), no. 40, 5–57.
+</span>
+
+<span id="hedenlund">
+[5] Hedenlund, *Multiplicative Tate spectral sequences*, [PhD
+Thesis at Oslo](https://www.mn.uio.no/math/personer/vit/rognes/theses/hedenlund-thesis.pdf).
+</span>
+
+<span id="lawson">
+[6] Lawson, *Filtered spaces, filtered objects*,
+    [<tt>arXiv:2410.08348</tt>](https://arxiv.org/abs/2410.08348).
+</span>
+
+<span id="levine">
+[7] Levine, *The Adams-Novikov spectral sequence and Voevodsky’s slice tower*, Geom. Topol. **19** (2015),
+no. 5, 2691–2740.
+</span>
+
+<span id="lurie">
+[8] Lurie, *Higher algebra*, [version dated 18 September 2017](https://www.math.ias.edu/~lurie/papers/HA.pdf).
+</span>
+
+<span id="raksit">
+[9] Raksit, _Hochschild homology and the derived de Rham complex
+revisited_,
+[<tt>arXiv:2007.025760</tt>](https://arxiv.org/abs/2007.02576).
+</span>
