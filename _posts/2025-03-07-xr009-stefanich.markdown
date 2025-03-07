@@ -1,0 +1,178 @@
+---
+layout: post
+title:  "arXiv reviews 9: big invertible categories"
+stitle: "XR 9: Br=Br''"
+tags: 2025 XR
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\we{\simeq}
+\newcommand\qc{\mathrm{qc}}
+\newcommand\id{\mathrm{id}}
+\newcommand\Sp{\mathrm{Sp}}
+\newcommand\Cat{\mathrm{Cat}}
+\newcommand\perf{\mathrm{perf}}
+\newcommand\Mot{\mathrm{Mot}}
+\newcommand\loc{\mathrm{loc}}
+\newcommand\unit{\mathbf{1}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Fun{\mathrm{Fun}}
+\newcommand\fin{\mathrm{fin}}
+\newcommand\Ac{\mathrm{Ac}}
+\newcommand\bPic{\mathbf{Pic}}
+\newcommand\bBr{\mathbf{Br}}
+\newcommand\CGp{\mathbf{CGp}}
+\newcommand\CMon{\mathbf{CMon}}
+\newcommand\Sscr{\mathcal{S}}
+\newcommand\Lscr{\mathcal{L}}
+\newcommand\Br{\mathrm{Br}}
+\newcommand\dual{\mathrm{dual}}
+\newcommand\Nuc{\mathrm{Nuc}}
+\newcommand\bS{\mathbf{S}}
+\newcommand\st{\mathrm{st}}
+\newcommand\R{\mathrm{R}}
+\newcommand\et{\mathrm{ét}}
+\newcommand\B{\mathrm{B}}
+$
+</div>
+
+<!--ëé-->
+
+# History
+
+Let $\Cat_\infty^\perf$ denote the $\infty$-category of small idempotent complete stable
+$\infty$-categories. A typical example of an object is $\Perf(R)$ for a commutative ring $R$.
+The $\infty$-category $\Cat_\infty^\perf$ admits a natural symmetric monoidal structure which has the property that 
+if $R$ and $S$ are commutative rings, then $\Perf(R)\otimes\Perf(S)\we\Perf(R\otimes_\bS S)$,
+where $\bS$ denotes the sphere spectrum. If $R$ is an $\bE_\infty$-ring spectrum, for example if it
+is a commutative ring, then $\Perf(R)$ is an $\bE_\infty$-algebra in $\Cat_\infty^\perf$.
+
+A modern perspective on the Brauer group of a ring $R$ is that it is the Picard group of the
+symmetric monoidal category $\Cat_R$, which is defined to be the $\infty$-category of
+$\Perf(R)$-modules in $\Cat_\infty^\perf$. This definition was given by Toën in [\[4\]](#toen) over animated
+commutative rings using dg categories and extended by myself and David Gepner in [\[1\]](#ag) to handle the case
+when $R$ is an $\bE_\infty$-ring spectrum.
+
+We will write $\bBr(R)$ for the space of invertible objects in $\Cat_R$. Specifically, there is an inclusion
+of $\CGp(\Sscr)\subseteq\CMon(\Cat_\infty)$ of the $\infty$-category of grouplike $\bE_\infty$-spaces[^a] into
+the $\infty$-category of symmetric monoidal $\infty$-categories. This inclusion admits a right
+adjoint $\bPic$. We let $\bBr(R)=\bPic(\Cat_R)$. Toën's Bruer group is $\Br(R)=\pi_0\bPic(R)$.
+
+[^a]: The $\infty$-category $\CGp(\Sscr)$ is equivalent to the $\infty$-category $\D(\bS)_{\geq 0}$
+    of connective spectra.
+
+If $R$ is connective, meaning that $\pi_iR=0$ for $i<0$, every $\Cscr\in\Br(R)$ is étale-locally
+trivial. We also have $\bPic(R)=\bPic(\Perf(R))$, which is the space of automorphisms of the
+$\Perf(R)$. This implies that $\bBr(R)$ can also be described as $\R\Gamma_\et(\Spec R,\B\bPic)$.
+This is a positive answer to a form of Grothendieck's $\Br=\Br'$ question.
+
+Let $\Pr^{\L,\dual}\_\st$ be the $\infty$-category of dualizable stable presentable $\infty$-categories and
+left adjoint functors whose right adjoints are right adjoints. A result of [\[2\]](#efimov) implies
+that $\Pr^{\L,\dual}_\st$ is $\omega_1$-compactly generated.
+We define $\Cat_R^\dual$ to be the $\infty$-category
+of $\D(R)$-modules in $\Pr^{\L,\dual}$. We let $\bBr^\dual(R)=\bPic(\Cat_R^\dual)$. There is an
+inclusion of spaces $\bBr(R)\subseteq\bBr^\dual(R)$.
+
+Toën's question was whether or not $\Br(R)=\Br^\dual(R)$, say for $R$ a commutative ring. (More generally, there is
+a related definition for derived stacks.) At the time, as Toën remarks, this
+question seemed a bit exotic. However, in light of the recent focus on continuous $K$-theory and
+dualizable stable $\infty$-categories, thanks especially to the work of Efimov [\[2\]](#efimov),
+there has been renewed interest in Toën's question.
+
+
+
+# Results
+
+Germán Stefanich's paper [\[3\]](#stefanich) was first posted in 2023 and proved that $\Br(R)=\Br^\dual(R)$ for $R$ a field
+and more generally for $R$ a connective truncated $\bE_\infty$-ring $R$ with $\pi_0R$ Artinian.
+Maxime Ramzi and I then observed in unpublished work that we could bootstrap using Stefanich's results
+to get that $\Br(R)=\Br^\dual(R)$ also for noetherian commutative rings $R$. In particular,
+$\Br(\bZ)=\Br^\dual(\bZ)$, which is one result we particularly wanted.
+
+However, the recent update to Stefanich's paper now establishes that $\Br(R)=\Br^\dual(R)$ for all
+commutative rings and more generally for all connective truncated $\bE_\infty$-ring spectra $R$.
+There are several similarities in the arguments, but Stefanich is able to remove the noetherian
+hypotheses using a more clever argument to reduce to the Artin local case he had already
+proven.
+
+While not stated in his paper, Stefanich's result also implies that $\Br(X)=\Br^\dual(X)$ for $X$ a
+qcqs scheme. Indeed, one can prove this by induction on the number of affines needed to cover $X$,
+giving a standard argument as in [\[1, Thm. 6.11\]](#ag).
+
+Let $\Cscr$ denote an invertible dualizable $\D(R)$-linear category, which defines a point of
+$\bBr^\dual(R)$. Stefanich shows that it is compactly generated, and hence is in $\bBr(R)$.
+The argument used by Stefanich, which I very much like, is to look at the poset $P$ of ideals $I\subseteq R$ such
+that $\Cscr\otimes_R R/I$ is not compactly generated. The goal is to show it is empty. No maximal
+ideal is in $P$ by the fact that $\Br(k)=\Br^\dual(k)$ for a field $k$ (as proven in the first
+        version of the paper). One argues that $I$ is
+closed under filtered colimits inside the poset of all ideals of $R$. In particular, if $I$ is
+nonempty, then it contains a maximal element, say $J$. Stefanich then shows that $R/J$ is a domain.
+Over the fraction field $K$ one has that $\Cscr\otimes_R K$ does admit a compact generator. So, by
+another filtered colimit argument,
+there is some $0\neq x\in R$ such that $\Cscr$ admits a compact generator over $R/J[x^{-1}]$.
+But, now $\Cscr\otimes_R R/(J,x)$ does admit a compact generator too by the maximality hypothesis
+of $J$. By an arithmetic fracture square argument, one now concludes to see that $\Cscr\otimes_R
+R/J$ admits a
+compact generator, which is a contradiction. This means that $P$ is empty and that $\Cscr$ is compactly
+generated.
+
+The paper contains a lot of other interesting results, especially about Grothendieck abelian
+categories.
+
+
+
+# References
+
+<span id="ag">
+    [1] Antieau and Gepner, *Brauer groups and étale cohomology in derived algebraic geometry*,
+    Geom. Topol. **18** (2014), no. 2, 1149–1244.
+</span>
+
+<span id="efimov">
+    [2] Efimov, *K-theory and localizing invariants of large categories*,
+    [<tt>arXiv:2405.12169</tt>](https://arxiv.org/abs/2405.12169).
+</span>
+
+<span id="stefanich">
+    [3] Stefanich, *Classification of fully dualizable linear categories*,
+    [<tt>arXiv:2307.16337</tt>](https://arxiv.org/abs/2307.16337).
+</span>
+
+<span id="toen">
+    [4] Toën, *Derived Azumaya algebras and generators for twisted derived categories*, Invent. Math.
+    **189** (2012), no. 3, 581–652.
+</span>
+
+
+
+# Footnotes
