@@ -6,10 +6,12 @@ permalink: /events/
 
 <h1>future organization</h1>
 
-[PCMI program on motivic homotopy theory](https://www.ias.edu/pcmi/pcmi-2024-research-program), Summer 2024.
+<a href="https://people.math.wisc.edu/~caldararu/frgconf/">Derived categories and mirror symmetry,
+28 May to 1 June 2025, UW Madison</a>.
+
+
 
 <h1>future trips</h1>
-
 
 Berkeley, Winter and Spring 2025.
 
@@ -18,7 +20,6 @@ href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-
 Simons Collaboration annual meeting, 13-14 March 2025</a>.
 
 The Abel Symposium, 23-27 June 2025, Trondheim, Norway.
-
 
 <a
 href="https://sites.google.com/view/2025summerinstitute/home/week-3-july-28-aug-1">Connections
@@ -29,9 +30,14 @@ July to 3 August 2025, Fort Collins, CO</a>.
 <a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
 Oberwolfach, 10-15 August 2025</a>.
 
+<a href="https://aimath.org/workshops/upcoming/compstabhom/">Computations in stable homotopy
+theory, 27-31 October 2025, AIM</a>.
+
 
 
 <h1>past organization</h1>
+
+[PCMI program on motivic homotopy theory](https://www.ias.edu/pcmi/pcmi-2024-research-program), Summer 2024.
 
 <a href="../workshops/202303-frg.html">FRG workshop: Brauer groups and derived categories,
     20-22 October 2023 @ Northwestern</a>.
