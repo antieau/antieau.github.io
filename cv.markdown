@@ -32,6 +32,8 @@ Full cv \[[pdf](../assets/pdf/cv.pdf)\] \(04 Mar 2021\).
 
 # Notable grants and awards
 
+2024 Simons Fellowship
+
 2023 Simons Collaboration on Perfection.
 
 2022 NSF FRG Grant _Higher categorical structures in algebraic geometry_.
