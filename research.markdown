@@ -137,6 +137,7 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 [Noah Riggenbach](https://sites.google.com/view/riggenbachn) (Simons Collaboration postdoc).
 - Antieau and Riggenbach, _Cyclotomic synthetic spectra_, \[[arXiv:2411](https://arxiv.org/abs/2411.19929)\].
+- Elmanto and Riggenbach, _On the K-theory of the p-adic unit disk_, \[[arXiv:2410](https://arxiv.org/abs/2410.07101)\].
 - Darrell and Riggenbach, _TR of quasiregular semiperfect rings is even_, \[[arXiv:2308](https://arxiv.org/abs/2308.13008)\].
 - Riggenbach, _K-theory of truncated polynomials_, \[[arXiv:2211](https://arxiv.org/abs/2211.11110)\].
 - Riggenbach, _K-theory of cuspidal curves over a perfectoid base and formal analogues_, \[[arXiv:2203](https://arxiv.org/abs/2203.17136)\].
