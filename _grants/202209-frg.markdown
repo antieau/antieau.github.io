@@ -1,0 +1,82 @@
+---
+layout: page
+title: frg grant - higher categorical structures in algebraic geometry
+---
+
+# PIs
+Benjamin Antieau (Northwestern),
+[Andrei Căldăraru](https://people.math.wisc.edu/~caldararu/) (UW Madison),
+[Max Lieblich](http://max.lieblich.us/) (U Washington),
+[Akhil Mathew](https://math.uchicago.edu/~amathew/) (U Chicago),
+[Martin Olsson](https://sites.google.com/berkeley.edu/martin-olsson/) (UC Berkeley)
+
+
+
+# Activities
+
+`Conference:` [**Derived categories and mirrory symmetry**](https://people.math.wisc.edu/~caldararu/frgconf/)
+at UW Madison, 28 May to 1 June 2025.
+
+`Meeting:` Berkeley, 19-21 March 2025.
+
+`Seminar:` [FRG Preprint Seminar](../workshops/202304-preprint.html), Fall 2023.
+
+`Meeting:` Northwestern, 16-18 August 2023.
+
+`Conference:` [FRG workshop on Brauer groups and derived categories at
+Northwestern](../workshops/202303-frg.html), 20-22 October
+2023.
+
+`Meeting:` University of Washington, 5-7 December 2022.
+
+
+
+# Publications
+
+[1] B. Antieau, L. Meier, and V. Stojanoska, _Picard sheaves, local Brauer groups, and topological
+modular forms_, Journal of Topology **17** (2024), no. 2, e12333. \[[J. Top.](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.12333)\].
+\[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
+
+
+[2] B. Antieau, _Spherical Witt vectors and integral models for spaces_, submitted, \[[arXiv:2308](https://arxiv.org/abs/2308.07288)\].
+
+[3] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_, submitted,
+    \[[arXiv:2310](https://arxiv.org/abs/2310.12770)\].
+
+[4] B. Antieau, A. Krause, and T. Nikolaus, _On the K-theory of Z/p^n_,
+    submitted, \[[arXiv:2405](https://arxiv.org/abs/2405.04329)\].
+
+
+[5] B. Antieau, _Spectral sequences, décalage, and the Beilinson t-structure_,
+    submitted,
+    \[[arXiv:2411](https://arxiv.org/abs/2411.09115)\].
+
+[6] B. Antieau and N. Riggenbach, _Cyclotomic synthetic spectra_,
+    \[[arXiv:2411](https://arxiv.org/abs/2411.19929)\].
+
+[7] D. Bragg and M. Lieblich, _Murphy's law for algebraic stacks_,
+    \[[arXiv:2402](https://arxiv.org/abs/2402.00862)\].
+
+[8] D. Bragg, M. Olsson, and R. Webb, _Ample vector bundles and moduli of tame stacks_,
+    \[[arXiv:2407](https://arxiv.org/abs/2407.01743)\].
+
+[9] A. Căldăraru and J. Tu, _Effective categorical enumerative invariants_, 
+    \[[arXiv:2404](https://arxiv.org/abs/2404.01499)\].
+
+[10] S. Devadas and M. Lieblich, _Higher-weight Jacobians_,
+    \[[arXiv:2408](https://arxiv.org/abs/2408.12576)\].
+
+[11] J. de Jong and M. Olsson, _Point objects on abelian varieties_,
+    \[[arXiv:2209](https://arxiv.org/abs/2209.05553)\].
+
+[12] D. Krashen, M. Lieblich, and M. Shin, _Brauertsch fields_,
+    \[[arXiv:2305](https://arxiv.org/abs/2305.06464)\].
+
+[13] M. Olsson, _Hochschild homology for log schemes_,
+    \[[arXiv:2406](https://arxiv.org/abs/2406.08629)\].
+
+[14] M. Olsson and R. Webb, _Curves with colliding points: logarithmic and stacky_,
+    \[[arXiv:2412](https://arxiv.org/abs/2412.03408)\].
+
+[15] M. Olsson, _Twisted derived categories and Rouquier functors_,
+    \[[arXiv:2501](https://arxiv.org/abs/2501.05599)\].

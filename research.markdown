@@ -6,6 +6,15 @@ permalink: /research/
 
 I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
+# current grants
+
+09/2024 - 08/2025, _Simons Fellowship_.
+
+09/2023 - 08/2027, _<a href="https://scop.math.berkeley.edu/">Simons Collaboration on Perfection</a>_.
+
+09/2022 - 08/2025, _<a href="../grants/202209-frg.html">FRG grant</a>_.
+
+
 # publications and preprints
 
 [49] B. Antieau and N. Riggenbach, _Cyclotomic synthetic spectra_,

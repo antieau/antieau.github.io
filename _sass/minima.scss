@@ -61,3 +61,10 @@ $on-laptop:        800px !default;
     margin-bottom: $spacing-unit-small;
   }
 }
+
+pre,
+code {
+    background-color: #fdfdfd;
+    border: none;
+    padding: 0px;
+}
