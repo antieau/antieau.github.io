@@ -15,9 +15,8 @@ permalink: /events/
 
 Berkeley, Winter and Spring 2025.
 
-<a
-href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2025/">
-Simons Collaboration annual meeting, 13-14 March 2025</a>.
+<a href="https://sites.google.com/berkeley.edu/prismsinberkeley/home">Workshop on geometry and
+prismatic cohomology, 5-9 May 2025, Berkeley</a>.
 
 The Abel Symposium, 23-27 June 2025, Trondheim, Norway.
 
@@ -72,6 +71,10 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 <h1>recent past events</h1>
+
+<a
+href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2025/">
+Simons Collaboration annual meeting, 13-14 March 2025</a>.
 
 MPIM, Fall 2024.
 
