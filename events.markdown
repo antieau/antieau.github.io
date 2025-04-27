@@ -18,7 +18,7 @@ Berkeley, Winter and Spring 2025.
 <a href="https://sites.google.com/berkeley.edu/prismsinberkeley/home">Workshop on geometry and
 prismatic cohomology, 5-9 May 2025, Berkeley</a>.
 
-The Abel Symposium, 23-27 June 2025, Trondheim, Norway.
+<a href="https://www.math.ntnu.no/Abel2025/">The Abel Symposium, 23-27 June 2025, Trondheim, Norway</a>.
 
 <a
 href="https://sites.google.com/view/2025summerinstitute/home/week-3-july-28-aug-1">Connections
