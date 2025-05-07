@@ -172,7 +172,7 @@ Anna Lipman (PhD).
 
 Carlos Cortez (NU PhD 2024).
 
-[Adam Holeman](https://adamholeman.github.io/) (NU PhD 2024).
+[Adam Holeman](https://adamholeman.github.io/) (NU PhD 2024), research scientist at Meta.
 - Holeman, _Derived δ-Rings and relative prismatic cohomology_, \[[arXiv:2303](https://arxiv.org/abs/2303.17447)\].
 - Holeman, _K\_Theory\_Transformer_, \[[GitHub](https://github.com/AdamHoleman/K_Theory_Transformer)\].
 
@@ -181,13 +181,14 @@ Micah Darrell (NU PhD 2023).
 
 Joel Stapleton (UIC PhD 2021).
 
-Harry Smith (UIC PhD 2020).
+[Harry Smith](https://www.linkedin.com/in/hsmith14680/) (UIC PhD 2020), data scientist at Morgan Hill Consultants.
 
-Tasos Moulinos (UIC PhD 2018).
+[Tasos Moulinos](https://tmoulinos.com/) (UIC PhD 2018), CRNS chargé de recherche at University of Paris--Saclay.
 
-Jānis Lazovskis (UIC PhD 2019).
+[Jānis Lazovskis](https://www.jlazovskis.com/) (UIC PhD 2019), research scientist at the University
+of Latvia.
 
-Victor Jatoba (UIC PhD 2020).
+[Victor Jatoba](https://www.linkedin.com/in/vbjatoba/?locale=pt_BR) (UIC PhD 2020), Professor de matemática at Instituto Federal de Brasília.
 
-Xing Gu (UIC PhD 2017).
-
+[Xing Gu](https://its.westlake.edu.cn/info/1108/1426.htm) (UIC PhD 2017), Assistant Professor at
+Westlake University.
