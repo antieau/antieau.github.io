@@ -15,8 +15,8 @@ permalink: /events/
 
 Berkeley, Winter and Spring 2025.
 
-<a href="https://sites.google.com/berkeley.edu/prismsinberkeley/home">Workshop on geometry and
-prismatic cohomology, 5-9 May 2025, Berkeley</a>.
+<a href="https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-modern.html">Modern
+developments in geometry and higher structures, 9-13 June 2025, Brin MRC, Maryland</a>.
 
 <a href="https://www.math.ntnu.no/Abel2025/">The Abel Symposium, 23-27 June 2025, Trondheim, Norway</a>.
 
@@ -71,6 +71,9 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 <h1>recent past events</h1>
+
+<a href="https://sites.google.com/berkeley.edu/prismsinberkeley/home">Workshop on geometry and
+prismatic cohomology, 5-9 May 2025, Berkeley</a>.
 
 <a
 href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2025/">
