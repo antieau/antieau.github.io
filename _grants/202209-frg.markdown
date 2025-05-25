@@ -1,6 +1,6 @@
 ---
 layout: page
-title: frg grant - higher categorical structures in algebraic geometry
+title: nsf frg grant - higher categorical structures in algebraic geometry
 ---
 
 # PIs
