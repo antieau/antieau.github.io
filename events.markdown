@@ -32,6 +32,10 @@ Oberwolfach, 10-15 August 2025</a>.
 <a href="https://aimath.org/workshops/upcoming/compstabhom/">Computations in stable homotopy
 theory, 27-31 October 2025, AIM</a>.
 
+Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 2027.
+
+
+
 
 
 <h1>past organization</h1>
