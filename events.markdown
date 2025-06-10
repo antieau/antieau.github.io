@@ -6,8 +6,7 @@ permalink: /events/
 
 <h1>future organization</h1>
 
-<a href="https://people.math.wisc.edu/~caldararu/frgconf/">Derived categories and mirror symmetry,
-28 May to 1 June 2025, UW Madison</a>.
+Machine computation in homotopy theory, ICERM, sometime in 2026.
 
 
 
@@ -39,6 +38,10 @@ Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 20
 
 
 <h1>past organization</h1>
+
+<a href="https://people.math.wisc.edu/~caldararu/frgconf/">Derived categories and mirror symmetry,
+28 May to 1 June 2025, UW Madison</a>.
+
 
 [PCMI program on motivic homotopy theory](https://www.ias.edu/pcmi/pcmi-2024-research-program), Summer 2024.
 
