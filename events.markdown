@@ -6,7 +6,7 @@ permalink: /events/
 
 <h1>future organization</h1>
 
-Machine computation in homotopy theory, ICERM, sometime in 2026.
+Machine computation in homotopy theory, 22-26 June 2026, ICERM.
 
 
 
