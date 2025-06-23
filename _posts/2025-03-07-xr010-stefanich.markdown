@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "arXiv reviews 9: big invertible categories"
-stitle: "XR 9: Br=Br''"
+title:  "arXiv reviews 10: big invertible categories"
+stitle: "XR 10: Br=Br''"
 tags: 2025 XR
 ---
 <div style="display:none">

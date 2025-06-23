@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "arXiv reviews 8: no nonconnective theorem of the heart"
-stitle: "XR 8: no nonconnective theorem of the heart"
+title:  "arXiv reviews 9: no nonconnective theorem of the heart"
+stitle: "XR 9: no nonconnective theorem of the heart"
 tags: 2024 XR
 ---
 <div style="display:none">
