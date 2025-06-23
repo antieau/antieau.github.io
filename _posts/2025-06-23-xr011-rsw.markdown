@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "arXiv reviews 11: every motive is a motive"
+stitle: "XR 11: motiquity"
+tags: 2025 XR
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Vscr{\mathcal{V}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\we{\simeq}
+\newcommand\qc{\mathrm{qc}}
+\newcommand\id{\mathrm{id}}
+\newcommand\Sp{\mathrm{Sp}}
+\newcommand\Cat{\mathrm{Cat}}
+\newcommand\perf{\mathrm{perf}}
+\newcommand\Mot{\mathrm{Mot}}
+\newcommand\loc{\mathrm{loc}}
+\newcommand\unit{\mathbf{1}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Fun{\mathrm{Fun}}
+\newcommand\fin{\mathrm{fin}}
+\newcommand\Ac{\mathrm{Ac}}
+$
+</div>
+
+Motiquity means `the ubuquity of motives`.
+
+In their paper [\[2\]](#rsw), which I wrote about [here]({% post_url 2024-01-18-xr009-rsw %}),
+Ramzi--Sosnilo--Winges proved that every spectrum is the $\K$-theory spectrum of a stable
+$\infty$-category. Ramzi, Sosnilo, and Winges have posted [\[3\]](#rws2), which proves a fantastic result about the $\infty$-category $\Mot$ of
+noncommutative motives in the sense of [\[1\]](#bgt) and in particular gives a new proof of the theorem from the previous paper.
+
+**Theorem.** If $\M\colon\Cat_\infty^\perf\rightarrow\Mot$ denotes the universal finitary localizing
+invariant, then $\M$ is essentially surjective. More precisely, $\Mot$ is a Dwyer--Kan
+localization of $\Cat_\infty^\perf$ at the class of morphisms $W$ consisting of those $f$ such that $E(f)$ is an equivalence for
+every finitary localizing invariant.
+
+Moreover, using work of Efimov, $\Mot$ agrees with the Dwyer--Kan localization at the class of
+morphisms $f$ such that $\K(\Cscr\otimes(-))$ is an equivalence.
+
+*Methods.* The basic idea is to use a construction of
+Grayson to obtain suspensions for stability and to use. Another is to prove that
+$\Cat_\infty^\perf$ admits the structure of a cofibration category in Cisinski's sense.
+
+*Applications.* One notable application is that $\M$ preserves countable products. Another is that
+$\M$ admits another universal property as the universal $\aleph_1$-finitary localizing invariant,
+which means in particular that $\TC$ induces a functor $\Mot\rightarrow\Sp$.
+
+Coming to you live from the [Abel Symposium](https://www.math.ntnu.no/Abel2025/) meeting, Ramzi explained
+another application based on forthcoming joint work with Kaif Hilman. Specifically, if $G$ is a
+finite group and 
+$\underline{\Mot}$ denotes the functor $\underline{\Mot}(G/H)=\Mot((\Cat_\infty^\perf)^{\B H\})$,
+then $\underline{\Mot}$ admits the structure of a $G$-symmetric monoidal $G$-category.
+
+*Bonus material.* Details are given on Grayson's construction as well as the variant where one
+works with motives relative to some other symmetric monoidal $\infty$-category $\Vscr$.
+
+
+
+# References
+
+<span id="bgt">
+[1] Blumberg, Gepner, Tabuada, *A universal characterization of higher algebraic $\K$-theory*,
+Geometry & Topology **17** (2013), 733--838.
+</span>
+
+<span id="rsw">
+[2] Ramzi, Sosnilo, Winges, *Every spectrum is the K-theory of a stable $\infty$-category*,
+    [<tt>arXiv:2401.06510</tt>](https://arxiv.org/abs/2401.06510).
+</span>
+
+<span id="rsw2">
+[3] Ramzi, Sosnilo, Winges, *Every motive is the motive of a stable $\infty$-category*,
+[<tt>arXiv:2503.11338</tt>](https://arxiv.org/abs/2503.11338).
