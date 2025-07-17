@@ -12,16 +12,6 @@ Machine computation in homotopy theory, 22-26 June 2026, ICERM.
 
 <h1>future trips</h1>
 
-<a href="https://www.math.ntnu.no/Abel2025/">The Abel Symposium, 23-27 June 2025, Trondheim, Norway</a>.
-
-27 June to 12 July 2025, Oslo, Norway.
-
-<a
-href="https://sites.google.com/view/2025summerinstitute/home/week-3-july-28-aug-1">Connections
-between algebraic geometry and topology at the Summer Research Institute, 28
-July to 3 August 2025, Fort Collins, CO</a>.
-
-
 <a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
 Oberwolfach, 10-15 August 2025</a>.
 
@@ -75,6 +65,10 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 <h1>recent past events</h1>
+
+27 June to 12 July 2025, Oslo, Norway.
+
+<a href="https://www.math.ntnu.no/Abel2025/">The Abel Symposium, 23-27 June 2025, Trondheim, Norway</a>.
 
 <a href="https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-modern.html">Modern
 developments in geometry and higher structures, 9-13 June 2025, Brin MRC, Maryland</a>.
