@@ -68,10 +68,12 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 27 June to 12 July 2025, Oslo, Norway.
 
-<a href="https://www.math.ntnu.no/Abel2025/">The Abel Symposium, 23-27 June 2025, Trondheim, Norway</a>.
+<a href="https://www.math.ntnu.no/Abel2025/">The Abel Symposium, 23-27 June 2025, Trondheim, Norway</a>. [<a href="https://www.math.ntnu.no/Abel2025/images/AbelSymp-1.jpg">Group photo</a>.]
 
 <a href="https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-modern.html">Modern
-developments in geometry and higher structures, 9-13 June 2025, Brin MRC, Maryland</a>.
+developments in geometry and higher structures, 9-13 June 2025, Brin MRC, Maryland</a>. [<a
+href="https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-modern_files/gallery_image-1944.png">Group
+photo</a>.]
 
 Berkeley, Winter and Spring 2025.
 
