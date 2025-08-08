@@ -6,7 +6,7 @@ permalink: /events/
 
 <h1>future organization</h1>
 
-Machine computation in homotopy theory, 22-26 June 2026, ICERM.
+<a href="https://icerm.brown.edu/program/topical_workshop/tw-26-mch">Machine computation in homotopy theory</a>, 22-26 June 2026, ICERM.
 
 
 
