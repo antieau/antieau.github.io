@@ -12,9 +12,6 @@ permalink: /events/
 
 <h1>future trips</h1>
 
-<a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
-Oberwolfach, 10-15 August 2025</a>.
-
 <a href="https://aimath.org/workshops/upcoming/compstabhom/">Computations in stable homotopy
 theory, 27-31 October 2025, AIM</a>.
 
@@ -65,6 +62,9 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 <h1>recent past events</h1>
+
+<a href="https://www.mfo.de/occasion/2533/www_view">Algebraic K-theory,
+Oberwolfach, 10-15 August 2025</a>.
 
 27 June to 12 July 2025, Oslo, Norway.
 
