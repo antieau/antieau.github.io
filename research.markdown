@@ -18,9 +18,11 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 # publications and preprints
 
 [51] B. Antieau, _The animation of the opposite of finite sets_,
+    submitted,
     \[[arXiv:2508](http://arxiv.org/abs/2508.13106)\].
 
 [50] B. Antieau and G. Stefanich, _Report on E-infinity-descendability_,
+    submitted,
     \[[arXiv:2508](http://arxiv.org/abs/2508.13089)\].
 
 [49] B. Antieau and N. Riggenbach, _Cyclotomic synthetic spectra_,
