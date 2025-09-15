@@ -84,6 +84,9 @@ Another proof uses commutative algebra and the fact that if $S\leftarrow R\right
 a span of perfect commutative $\bF_p$-algebras, then the derived tensor product $S\otimes_RT$ is in
 fact equivalent to an ordinary commutative $\bF_p$-algebra. This was established in [\[2\]](#bs) by Bhatt and Scholze.
 
+*Thanks to Emile Bouaziz for the following.*
+A related result is noted by Pridham in [\[4\]](#pridham) who shows that animated $C^0$-rings take
+$\Set$-values.
 
 
 # References
@@ -103,3 +106,7 @@ Invent. math. (2017) 209:329--403,
 [3] Lehner, *Algebraic K-theory of coherent spaces*, 
 [<tt>arXiv:2507.00221</tt>](https://arxiv.org/abs/2507.00221).
 </span>
+
+<span id="pridham">
+[4] Pridham, *Derived topological stacks?*,
+[<tt>MathOverflow answer</tt>](https://mathoverflow.net/a/291414/100).
