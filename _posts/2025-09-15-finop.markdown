@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "New paper: the animation of the opposite of finite sets"
+stitle: "New paper: finop"
+tags: 2025 XR
+---
+<div style="display:none">
+$
+\newcommand\A{\mathrm{A}}
+\newcommand\B{\mathrm{B}}
+\newcommand\D{\mathrm{D}}
+\newcommand\E{\mathrm{E}}
+\newcommand\G{\mathrm{G}}
+\newcommand\H{\mathrm{H}}
+\newcommand\K{\mathrm{K}}
+\newcommand\L{\mathrm{L}}
+\newcommand\M{\mathrm{M}}
+\newcommand\Ascr{\mathcal{A}}
+\newcommand\Cscr{\mathcal{C}}
+\newcommand\Dscr{\mathcal{D}}
+\newcommand\Escr{\mathcal{E}}
+\newcommand\Kscr{\mathcal{K}}
+\newcommand\Vscr{\mathcal{V}}
+\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
+\newcommand\Acscr{\mathcal{A}\mathrm{c}}
+\newcommand\heart{\heartsuit}
+\newcommand\cn{\mathrm{cn}}
+\newcommand\op{\mathrm{op}}
+\newcommand\Ho{\mathrm{Ho}}
+\newcommand\dR{\mathrm{dR}}
+\newcommand\HH{\mathrm{HH}}
+\newcommand\TC{\mathrm{TC}}
+\newcommand{\bMap}{\mathbf{Map}}
+\newcommand{\End}{\mathrm{End}}
+\newcommand{\Mod}{\mathrm{Mod}}
+\newcommand\bE{\mathbf{E}}
+\newcommand\bF{\mathbf{F}}
+\newcommand\bZ{\mathbf{Z}}
+\newcommand\bAM{\mathbf{AM}}
+\newcommand\bLM{\mathbf{LM}}
+\newcommand\Spec{\mathrm{Spec}}
+\newcommand\we{\simeq}
+\newcommand\qc{\mathrm{qc}}
+\newcommand\id{\mathrm{id}}
+\newcommand\Sp{\mathrm{Sp}}
+\newcommand\Cat{\mathrm{Cat}}
+\newcommand\perf{\mathrm{perf}}
+\newcommand\Mot{\mathrm{Mot}}
+\newcommand\loc{\mathrm{loc}}
+\newcommand\unit{\mathbf{1}}
+\newcommand\Perf{\mathrm{Perf}}
+\newcommand\Fun{\mathrm{Fun}}
+\newcommand\fin{\mathrm{fin}}
+\newcommand\Ac{\mathrm{Ac}}
+\newcommand\An{\mathrm{An}}
+\newcommand\Fin{\mathrm{Fin}}
+\newcommand\Set{\mathrm{Set}}
+$
+</div>
+
+My paper [\[1\]](#finop) is out. The main result is that the animation of the category $\Fin^\op$
+is a $1$-category, where $\Fin^\op$ denotes the opposite of the category of finite sets. Recall
+that the animation of an $\infty$-category $\Cscr$ with finite coproducts is the full subcategory
+$\mathrm{An}(\Cscr)\subseteq\Fun(\Cscr^\op,\An)$ consisting of the
+functors $\Cscr^\op\rightarrow\An$ which preserve finite products. The animation of $\Fin^\op$
+is thus the $\infty$-category $\An(\Fin^\op)$ of functors $\Fin\rightarrow\An$ that preserve
+finite products.
+
+The proof is to show that any $X\in\mathrm{An}(\Fin^\op)$, when viewed as a product preserving
+functor $\Fin\rightarrow\An$ takes values in $\Set\subseteq\An$. For this, I observed that each set
+with $p$ elements admits a group structure corresponding to $\bZ/p$. Since $X$ preserves finite
+products, $X(\bZ/p)$ inherits the structure of a grouplike $\bE_\infty$-object in anima. But, it
+also has the property that $p=0$ on $X(\bZ/p)$, which implies that $p=0$ on $\pi_i(X(\bZ/p))$ for
+any $i\geq 0$ and any choice of base point. Using that $\bZ/p$ is a retract of $(\bZ/\ell)^N$ for
+any other prime $\ell$ and a suitable $N>0$, we conclude that $\pi_i(X(\bZ/p))=0$ for $i>0$ and any
+base point. It follows that $X(S)$ is a retract of a set for any nonempty finite set $S$ and is
+hence equivalent to a set.
+One can give a direct argument to show that $X(\emptyset)$ is also equivalent to a set, which finishes the
+proof.
+
+Georg Lehner has also proved this result Theorem 5.6 of [\[3\]](#lehner). His idea is very similar but instead
+of working with group objects in $\Fin$ he works with Boolean algebra objects.
+Another proof uses commutative algebra and the fact that if $S\leftarrow R\rightarrow T$ is
+a span of perfect commutative $\bF_p$-algebras, then the derived tensor product $S\otimes_RT$ is in
+fact equivalent to an ordinary commutative $\bF_p$-algebra. This was established in [\[2\]](#bs) by Bhatt and Scholze.
+
+
+
+# References
+
+<span id="finop">
+[1] Antieau, *The animation of the opposite of finite sets*,
+[<tt>arXiv:2508.13106</tt>](https://arxiv.org/abs/2508.13106).
+</span>
+
+<span id="bs">
+[2] Bhatt, Scholze, *Projectivity of the Witt vector affine Grassmannian*,
+Invent. math. (2017) 209:329--403,
+[<tt>arXiv:1507.06490</tt>](https://arxiv.org/abs/1507.06490).
+</span>
+
+<span id="lehner">
+[3] Lehner, *Algebraic K-theory of coherent spaces*, 
+[<tt>arXiv:2507.00221</tt>](https://arxiv.org/abs/2507.00221).
+</span>
