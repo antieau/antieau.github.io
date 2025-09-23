@@ -154,6 +154,8 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 # current group members and their research
 
+[Arpon Raksit](https://www.mit.edu/~arpon/) (Simons Collaboration postdoc).
+
 [Noah Riggenbach](https://sites.google.com/view/riggenbachn) (Simons Collaboration postdoc).
 - Antieau and Riggenbach, _Cyclotomic synthetic spectra_, \[[arXiv:2411](https://arxiv.org/abs/2411.19929)\].
 - Elmanto and Riggenbach, _On the K-theory of the p-adic unit disk_, \[[arXiv:2410](https://arxiv.org/abs/2410.07101)\].
@@ -161,7 +163,7 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 - Riggenbach, _K-theory of truncated polynomials_, \[[arXiv:2211](https://arxiv.org/abs/2211.11110)\].
 - Riggenbach, _K-theory of cuspidal curves over a perfectoid base and formal analogues_, \[[arXiv:2203](https://arxiv.org/abs/2203.17136)\].
 
-Kirill Magidson (PhD).
+[Kirill Magidson](https://kirillmagidson.com/) (PhD).
 - Brantner, Magidson, Nuiten, _Formal integration of derived foliations_, \[[arXiv:2502](https://arxiv.org/abs/2502.05257)\].
 - Magidson, _Witt vectors and $\delta$-Cartier algebras_, \[[arXiv:2409](https://arxiv.org/abs/2409.03877)\].
 - Magidson, _Divided powers and derived de Rham cohomology_, \[[arXiv:2405](https://arxiv.org/abs/2405.05153)\].
