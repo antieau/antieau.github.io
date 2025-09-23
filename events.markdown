@@ -15,6 +15,9 @@ permalink: /events/
 <a href="https://aimath.org/workshops/upcoming/compstabhom/">Computations in stable homotopy
 theory, 27-31 October 2025, AIM</a>.
 
+<a href="https://algtoppr.github.io/">Algebraic structures in topology, San Juan, Puerto Rico,
+10-17 2026</a>.
+
 Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 2027.
 
 
