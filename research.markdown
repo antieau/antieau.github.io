@@ -157,6 +157,7 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 [Arpon Raksit](https://www.mit.edu/~arpon/) (Simons Collaboration postdoc).
 
 [Noah Riggenbach](https://sites.google.com/view/riggenbachn) (Simons Collaboration postdoc).
+- Burghardt, Riggenbach, and Yang, _Involutive Brauer groups and Poincaré rings_, \[[arXiv:2509.25737](https://arxiv.org/abs/2509.25737)\].
 - Antieau and Riggenbach, _Cyclotomic synthetic spectra_, \[[arXiv:2411](https://arxiv.org/abs/2411.19929)\].
 - Elmanto and Riggenbach, _On the K-theory of the p-adic unit disk_, \[[arXiv:2410](https://arxiv.org/abs/2410.07101)\].
 - Darrell and Riggenbach, _TR of quasiregular semiperfect rings is even_, \[[arXiv:2308](https://arxiv.org/abs/2308.13008)\].
