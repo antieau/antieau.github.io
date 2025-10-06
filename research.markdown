@@ -26,6 +26,7 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
     \[[arXiv:2508](http://arxiv.org/abs/2508.13089)\].
 
 [49] B. Antieau and N. Riggenbach, _Cyclotomic synthetic spectra_,
+    submitted,
     \[[arXiv:2411](https://arxiv.org/abs/2411.19929)\].
     \[[Video](https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ea2fb1b4-a865-441e-ab70-b2ff008c7d2d)\].
 
