@@ -16,7 +16,7 @@ permalink: /events/
 theory, 27-31 October 2025, AIM</a>.
 
 <a href="https://algtoppr.github.io/">Algebraic structures in topology, San Juan, Puerto Rico,
-10-17 2026</a>.
+10-17 July 2026</a>.
 
 Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 2027.
 
