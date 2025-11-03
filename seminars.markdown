@@ -4,6 +4,8 @@ title: seminars
 permalink: /seminars/
 ---
 
+<a href="../workshops/202511-scop.html">SCoP Chicago Seminar</a>.
+
 <a href="../workshops/202305-topology.html">Topology seminar</a>.
 
 <a href="../workshops/202304-preprint.html">FRG preprint seminar</a>.
