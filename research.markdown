@@ -15,6 +15,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[52] B. Antieau, _Filtrations and cohomology I: crystallization_,
+    \[[arXiv:2511](https://arxiv.org/abs/2511.01567)\].
+
 [51] B. Antieau, _The animation of the opposite of finite sets_,
     submitted,
     \[[arXiv:2508](http://arxiv.org/abs/2508.13106)\].
