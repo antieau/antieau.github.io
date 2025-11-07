@@ -64,8 +64,8 @@ $
 
 ```11/06/25```
 
-```Shubhodip Mondal (Purdue).```
+```Shubhodip Mondal (Purdue). Unipotent spectra.```
 
-```Sanath Devalapurkar (Chicago).```
+```Sanath Devalapurkar (Chicago). Koszul duality and prismatic cohomology.```
 
 
