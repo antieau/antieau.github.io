@@ -61,35 +61,38 @@ modular forms_, Journal of Topology **17** (2024), no. 2, e12333. \[[J. Top.](ht
 [9] B. Antieau, _Filtrations and cohomology I: crystallization_,
     \[[arXiv:2511](https://arxiv.org/abs/2511.01567)\].
 
-[10] D. Bragg and M. Lieblich, _Murphy's law for algebraic stacks_,
+[10] B. Antieau, _Filtrations and cohomology II: the Gauss--Manin connection_,
+    \[[arXiv:2511](https://arxiv.org/abs/2511.14731)\].
+
+[11] D. Bragg and M. Lieblich, _Murphy's law for algebraic stacks_,
     \[[arXiv:2402](https://arxiv.org/abs/2402.00862)\].
 
-[11] D. Bragg, M. Olsson, and R. Webb, _Ample vector bundles and moduli of tame stacks_,
+[12] D. Bragg, M. Olsson, and R. Webb, _Ample vector bundles and moduli of tame stacks_,
     \[[arXiv:2407](https://arxiv.org/abs/2407.01743)\].
 
-[12] A. Căldăraru and J. Tu, _Effective categorical enumerative invariants_, 
+[13] A. Căldăraru and J. Tu, _Effective categorical enumerative invariants_, 
     \[[arXiv:2404](https://arxiv.org/abs/2404.01499)\].
 
-[13] A. Căldăraru, T. Pantev, E. Sharpe, B. Sung, and X. Yu, _Noninvertible symmetries in the B
+[14] A. Căldăraru, T. Pantev, E. Sharpe, B. Sung, and X. Yu, _Noninvertible symmetries in the B
 model TFT_, \[[arXiv:2504](https://arxiv.org/abs/2504.02023)\].
 
-[14] S. Devadas and M. Lieblich, _Higher-weight Jacobians_,
+[15] S. Devadas and M. Lieblich, _Higher-weight Jacobians_,
     \[[arXiv:2408](https://arxiv.org/abs/2408.12576)\].
 
-[15] J. de Jong and M. Olsson, _Point objects on abelian varieties_,
+[16] J. de Jong and M. Olsson, _Point objects on abelian varieties_,
     \[[arXiv:2209](https://arxiv.org/abs/2209.05553)\].
 
-[16] D. Krashen, M. Lieblich, and M. Shin, _Brauertsch fields_,
+[17] D. Krashen, M. Lieblich, and M. Shin, _Brauertsch fields_,
     \[[arXiv:2305](https://arxiv.org/abs/2305.06464)\].
 
-[17] M. Olsson, _Hochschild homology for log schemes_,
+[18] M. Olsson, _Hochschild homology for log schemes_,
     \[[arXiv:2406](https://arxiv.org/abs/2406.08629)\].
 
-[18] M. Olsson, _Twisted derived categories and Rouquier functors_,
+[19] M. Olsson, _Twisted derived categories and Rouquier functors_,
     \[[arXiv:2501](https://arxiv.org/abs/2501.05599)\].
 
-[19] M. Olsson and R. Webb, _Curves with colliding points: logarithmic and stacky_,
+[20] M. Olsson and R. Webb, _Curves with colliding points: logarithmic and stacky_,
     \[[arXiv:2412](https://arxiv.org/abs/2412.03408)\].
 
-[20] M. Olsson and R. Webb, _Twisted stable maps with colliding points_,
+[21] M. Olsson and R. Webb, _Twisted stable maps with colliding points_,
     \[[arXiv:2508](https://arxiv.org/abs/2508.08787)\].
