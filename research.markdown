@@ -174,23 +174,20 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 - Magidson, _Witt vectors and $\delta$-Cartier algebras_, \[[arXiv:2409](https://arxiv.org/abs/2409.03877)\].
 - Magidson, _Divided powers and derived de Rham cohomology_, \[[arXiv:2405](https://arxiv.org/abs/2405.05153)\].
 
-[Deven Manam](https://manam.dev/) (NU PhD 2025).
-- Lahoti and Manam, _Cohomology theories in the moduli of ring stacks_, \[[arXiv:2510](https://arxiv.org/abs/2510.09582)\].
-- Manam, _On the Drinfeld formal group_, \[[arXiv:2403](https://arxiv.org/abs/2403.02555)\].
-
 Yuanning Zhang (PhD).
 
 Anna Lipman (PhD).
 
 [Preston Cranford](https://prestoncranford.github.io/) (PhD).
 
-Dinglong Wang (Qual).
-
-Edith Hübner (Visitor).
 
 
 
 # past group members
+
+[Deven Manam](https://manam.dev/) (NU PhD 2025).
+- Lahoti and Manam, _Cohomology theories in the moduli of ring stacks_, \[[arXiv:2510](https://arxiv.org/abs/2510.09582)\].
+- Manam, _On the Drinfeld formal group_, \[[arXiv:2403](https://arxiv.org/abs/2403.02555)\].
 
 Carlos Cortez (NU PhD 2024).
 
