@@ -15,6 +15,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[54] B. Antieau, _Filtrations and cohomology III: cohomology of E-infinity rings_,
+    \[[arXiv:2512](https://arxiv.org/abs/2512.15509)\].
+
 [53] B. Antieau, _Filtrations and cohomology II: the Gauss--Manin connection_,
     \[[arXiv:2511](https://arxiv.org/abs/2511.14731)\].
 

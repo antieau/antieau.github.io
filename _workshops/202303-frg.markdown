@@ -103,7 +103,7 @@ In dimension two, hyperkaehler manifolds are K3 surfaces, while finding examples
  
 The aim of this mini-course is to investigate the recent developments about the construction of families of hyperkaehler manifolds, using derived categories techniques and moduli spaces of semistable objects.
 
-# Slides
+# Notes
 
 [Hotchkiss 1](../assets/pdf/hotchkiss_1.pdf),
 [Hotchkiss 2](../assets/pdf/hotchkiss_2.pdf),
