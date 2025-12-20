@@ -12,6 +12,8 @@ permalink: /events/
 
 <h1>future trips</h1>
 
+Midwest Topology Seminar, Michigan State University, 9-10 May 2026.
+
 <a href="https://algtoppr.github.io/">Algebraic structures in topology, San Juan, Puerto Rico,
 10-17 July 2026</a>.
 
