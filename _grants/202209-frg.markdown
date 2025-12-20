@@ -37,16 +37,15 @@ Northwestern](../workshops/202303-frg.html), 20-22 October
 modular forms_, Journal of Topology **17** (2024), no. 2, e12333. \[[J. Top.](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.12333)\].
 \[[arXiv:2210](https://arxiv.org/abs/2210.15743)\].
 
-[2] B. Antieau, _Spherical Witt vectors and integral models for spaces_, submitted, \[[arXiv:2308](https://arxiv.org/abs/2308.07288)\].
+[2] B. Antieau, _Spherical Witt vectors and integral models for spaces_, \[[arXiv:2308](https://arxiv.org/abs/2308.07288)\].
 
-[3] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_, submitted,
+[3] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_,
     \[[arXiv:2310](https://arxiv.org/abs/2310.12770)\].
 
 [4] B. Antieau, A. Krause, and T. Nikolaus, _On the K-theory of Z/p^n_,
-    submitted, \[[arXiv:2405](https://arxiv.org/abs/2405.04329)\].
+    \[[arXiv:2405](https://arxiv.org/abs/2405.04329)\].
 
 [5] B. Antieau, _Spectral sequences, décalage, and the Beilinson t-structure_,
-    submitted,
     \[[arXiv:2411](https://arxiv.org/abs/2411.09115)\].
 
 [6] B. Antieau and N. Riggenbach, _Cyclotomic synthetic spectra_,
