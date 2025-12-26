@@ -6,6 +6,9 @@ permalink: /events/
 
 <h1>future organization</h1>
 
+<a href="../workshops/2026-03-frg.html">FRG workshop on higher categories and geometry,
+    16-18 March 2026 @ Northwestern/NITMB</a>.
+
 <a href="https://icerm.brown.edu/program/topical_workshop/tw-26-mch">Machine computation in homotopy theory</a>, 22-26 June 2026, ICERM.
 
 
