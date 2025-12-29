@@ -72,7 +72,7 @@ On 16-17 March, it will take place at the [NITMB](https://www.nitmb.org/) in dow
 # Minicourses
 
 [David
-Gepner](https://arxiv.org/search/math?query=Gepner%2C+David&searchtype=author&abstracts=show&order=-announced_date_first&size=50) (JHU).
+Gepner](https://arxiv.org/search/math?query=Gepner%2C+David&searchtype=author&abstracts=show&order=-announced_date_first&size=50) (JHU) and [Hadrian Heine](https://arxiv.org/search/math?query=Heine%2C+Hadrian&searchtype=author&abstracts=show&order=-announced_date_first&size=50) (MPIM).
 
 [Naruki Masuda](https://nmasuda2.github.io/) (NU).
 
@@ -96,7 +96,7 @@ To be determined.
 |1400 Talk 3|1330 Talk 7|1400 Talk 11|
 |1530 Coffee|1435 Talk 8|1530 Coffee|
 |1600 Talk 4|1535 Coffee|1600 Talk 12|
-||1600 Collouquium||
+||1600 Colloquium||
 
 
 # Series titles and abstracts
