@@ -2,8 +2,8 @@
 layout: course
 year: 2026
 quarter: Winter
-number: Math 515-1
-title: Derived commutative rings
+number: Math 344-1
+title: Introduction to topology
 ---
 <div style="display:none">
 $
@@ -67,8 +67,8 @@ $
 <!-- éČ -->
 
 
-<a href="../assets/pdf/202601-515-1/syllabus.pdf">`syllabus`</a>
+<a href="../assets/pdf/202601-344-1/syllabus.pdf">`syllabus`</a>
 
-<a href="../assets/pdf/202601-515-1/9weeks.pdf">`previous lecture notes`</a>
+<a href="../assets/pdf/202601-344-1/note01.pdf">`note 1`</a>
 
-<a href="../assets/pdf/202601-515-1/ps01.pdf">`ps01`</a>
+<a href="../assets/pdf/202601-344-1/scs_01_topology.pdf">scs 01</a>
