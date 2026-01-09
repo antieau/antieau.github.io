@@ -72,3 +72,5 @@ $
 <a href="../assets/pdf/202601-515-1/9weeks.pdf">`previous lecture notes`</a>
 
 <a href="../assets/pdf/202601-515-1/ps01.pdf">`ps01`</a>
+
+<a href="../assets/pdf/202601-515-1/ps02.pdf">`ps02`</a>
