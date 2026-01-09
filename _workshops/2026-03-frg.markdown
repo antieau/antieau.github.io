@@ -82,9 +82,12 @@ Gepner](https://arxiv.org/search/math?query=Gepner%2C+David&searchtype=author&ab
 
 [Ko Aoki](https://koaoki.com/) (MPIM).
 
-[Tomer Schlank](https://sites.google.com/view/tomer-schlank) (Chicago).
+[Tim
+Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
 
-... and more!
+[Martin Rovelli](https://sites.google.com/view/mrovelli) (Ottawa) [to be confirmed].
+
+[Tomer Schlank](https://sites.google.com/view/tomer-schlank) (Chicago).
 
 # NITMB Colloquium
 
