@@ -71,6 +71,23 @@ $
 
 <a href="../assets/pdf/202601-515-1/9weeks.pdf">`previous lecture notes`</a>
 
-<a href="../assets/pdf/202601-515-1/ps01.pdf">`ps01`</a>
-
+<a href="../assets/pdf/202601-515-1/ps01.pdf">`ps01`</a>&emsp;
 <a href="../assets/pdf/202601-515-1/ps02.pdf">`ps02`</a>
+
+# Expected topics 
+- symmetric monoidal $\infty$-categories
+- $\bE_\infty$-rings
+- animated commutative rings
+- calculations of free objects
+- power operations
+- polynomial functors
+- right-left extension
+- filtered monads
+- derived commutative rings
+- affine stacks
+- graded objects and shearing
+- the cotangent complex
+- filtered derived commutative rings
+- Hochschild homology
+- infinitesimal cohomology
+- de Rham cohomology
