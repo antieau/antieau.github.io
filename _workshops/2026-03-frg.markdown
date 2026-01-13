@@ -123,7 +123,7 @@ The deadline to register and request funding is 31 January 2026. The deadline fo
 
 # Funding
 
-Some funding is available for graduate students, early-career researchers, and others based in the USA. To apply for it, your
+Some funding is available for graduate students and early-career researchers. To apply for it, your
 registration must be received by 31 January 2026, with decisions made by 4 February 2026.
 For funding, besides registering, graduate students must have a letter of recommendation submitted on their behalf to me,
 at ```antieau@northwestern.edu```, no later than 31 January 2026.
