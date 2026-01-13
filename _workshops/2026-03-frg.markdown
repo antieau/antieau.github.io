@@ -106,7 +106,9 @@ To be determined.
 ||1600 Colloquium||
 
 
-# Series titles and abstracts
+# Titles and abstracts
+
+TBD
 
 # Organizers
 
@@ -117,15 +119,15 @@ Benjamin Antieau, David Gepner, Naruki Masuda
 Registration is **required** for access to the building and to the NITMB.
 You will not be able to attend the workshop without registering by the deadlines below.
 
-The deadline to register and request funding is 15 January 2026. The deadline for registration is
-15 February 2026. Registration will be open shortly.
+The deadline to register and request funding is 31 January 2026. The deadline for registration is
+15 February 2026. Register [here](https://forms.gle/S5iXjGdbXh7B5eFB7) via Google Forms.
 
 # Funding
 
 Some funding is available for graduate students, early-career researchers, and others based in the USA. To apply for it, your
-registration must be received by 15 January 2026, with decisions made by 20 January 2026.
-For funding, graduate students must have a letter of recommendation submitted on their behalf to me,
-at ```antieau@northwestern.edu```, no later than 15 January 2026.
+registration must be received by 31 January 2026, with decisions made by 4 February 2026.
+For funding, besides registering, graduate students must have a letter of recommendation submitted on their behalf to me,
+at ```antieau@northwestern.edu```, no later than 31 January 2026.
 
 # Lodging
 
@@ -148,8 +150,6 @@ March. The location on Wednesday 18 March is to be determined.
 # Restaurants
 
 There are no official meals planned for this workshop.
-
-# Parking
 
 # Acknowledgments
 
