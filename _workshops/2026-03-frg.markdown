@@ -105,7 +105,6 @@ To be determined.
 |1600 Talk 4|1535 Coffee|1600 Talk 12|
 ||1600 Colloquium||
 
-
 # Titles and abstracts
 
 TBD
