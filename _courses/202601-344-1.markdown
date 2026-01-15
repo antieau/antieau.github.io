@@ -81,3 +81,4 @@ $
 
 <a href="../assets/pdf/202601-344-1/scs_04_connected.pdf">scs 04</a>
 
+<a href="../assets/pdf/202601-344-1/scs_05_universal.pdf">scs 05</a>
