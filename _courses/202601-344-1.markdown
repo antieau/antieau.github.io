@@ -71,9 +71,13 @@ $
 
 <a href="../assets/pdf/202601-344-1/note01.pdf">`note 1`</a>
 
+<a href="../assets/pdf/202601-344-1/ps01.pdf">`problem set 1`</a>
+
 <a href="../assets/pdf/202601-344-1/scs_01_topology.pdf">scs 01</a>
 
 <a href="../assets/pdf/202601-344-1/scs_02_category.pdf">scs 02</a>
 
 <a href="../assets/pdf/202601-344-1/scs_03_continuous.pdf">scs 03</a>
+
+<a href="../assets/pdf/202601-344-1/scs_04_connected.pdf">scs 04</a>
 
