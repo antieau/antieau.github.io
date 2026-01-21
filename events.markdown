@@ -20,6 +20,8 @@ Midwest Topology Seminar, Michigan State University, 9-10 May 2026.
 <a href="https://algtoppr.github.io/">Algebraic structures in topology, San Juan, Puerto Rico,
 10-17 July 2026</a>.
 
+<a href="https://www.slmath.org/programs/384">Motivic homotopy theory, SLMath, Fall 2026</a>.
+
 Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 2027.
 
 
