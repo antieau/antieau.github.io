@@ -84,3 +84,5 @@ $
 <a href="../assets/pdf/202601-344-1/scs_05_universal.pdf">scs 05</a>
 
 <a href="../assets/pdf/202601-344-1/scs_06_quotient.pdf">scs 06</a>
+
+<a href="../assets/pdf/202601-344-1/scs_07_separation.pdf">scs 07</a>
