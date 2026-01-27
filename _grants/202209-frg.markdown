@@ -14,7 +14,10 @@ Benjamin Antieau (Northwestern),
 
 # Activities
 
-`Conference:` [**Derived categories and mirror symmetry**](https://people.math.wisc.edu/~caldararu/frgconf/)
+`Conference:` [**FRG workshop on higher categories and geometry**](../workshops/2026-03-frg) in
+Chicago, 16-18 March 2026.
+
+`Conference:` [Derived categories and mirror symmetry](https://people.math.wisc.edu/~caldararu/frgconf/)
 at UW Madison, 28 May to 1 June 2025.
 
 `Meeting:` Berkeley, 19-21 March 2025.

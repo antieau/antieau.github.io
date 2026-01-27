@@ -69,7 +69,7 @@ A highly focused workshop on recent developments in $(\infty,\infty)$-categories
 On 16-17 March, it will take place at the [NITMB](https://www.nitmb.org/) in downtown Chicago. On
 18 March it will take place at the University of Chicago in Eckhart 206 and Ryerson 251.
 
-# Minicourses
+# Mini-courses
 
 [David
 Gepner](https://arxiv.org/search/math?query=Gepner%2C+David&searchtype=author&abstracts=show&order=-announced_date_first&size=50) (JHU) and [Hadrian Heine](https://arxiv.org/search/math?query=Heine%2C+Hadrian&searchtype=author&abstracts=show&order=-announced_date_first&size=50) (MPIM).
@@ -154,5 +154,5 @@ There are no official meals planned for this workshop.
 # Acknowledgments
 
 This conference is supported by the NSF grant DMS-2152235, [_FRG: higher categorical structures in
-algebraic geometry_](https://antieau.github.io/grants/202209-frg.html), by the [Simons Collaboration on Perfection](https://scop.math.berkeley.edu/), and by the
-[NITMB](https://www.nitmb.org/).
+algebraic geometry_](https://antieau.github.io/grants/202209-frg.html), by the [Simons Collaboration on Perfection](https://scop.math.berkeley.edu/), by the
+[NITMB](https://www.nitmb.org/), by Northwestern University, and by the University of Chicago.
