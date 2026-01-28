@@ -73,6 +73,8 @@ $
 
 <a href="../assets/pdf/202601-344-1/ps01.pdf">`problem set 1`</a>
 
+<a href="../assets/pdf/202601-344-1/ps02.pdf">`problem set 2`</a>
+
 <a href="../assets/pdf/202601-344-1/scs_01_topology.pdf">scs 01</a>
 
 <a href="../assets/pdf/202601-344-1/scs_02_category.pdf">scs 02</a>
@@ -86,3 +88,5 @@ $
 <a href="../assets/pdf/202601-344-1/scs_06_quotient.pdf">scs 06</a>
 
 <a href="../assets/pdf/202601-344-1/scs_07_separation.pdf">scs 07</a>
+
+<a href="../assets/pdf/202601-344-1/scs_08_compact.pdf">scs 08</a>
