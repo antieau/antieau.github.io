@@ -15,6 +15,10 @@ permalink: /events/
 
 <h1>future trips</h1>
 
+<a
+href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2026/">
+Simons Collaboration annual meeting, 5-6 March 2026</a>.
+
 Midwest Topology Seminar, Michigan State University, 9-10 May 2026.
 
 <a href="https://algtoppr.github.io/">Algebraic structures in topology, San Juan, Puerto Rico,
