@@ -85,8 +85,6 @@ Gepner](https://arxiv.org/search/math?query=Gepner%2C+David&searchtype=author&ab
 [Tim
 Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
 
-[Martina Rovelli](https://sites.google.com/view/mrovelli) (Ottawa/UMass Amherst) [to be confirmed].
-
 [Tomer Schlank](https://sites.google.com/view/tomer-schlank) (Chicago).
 
 # NITMB Colloquium
@@ -97,13 +95,12 @@ Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&ab
 
 |M|Tu|W|
 |-|--|-|
-|0930 Talk 1|0900 Talk 5|0930 Talk 9|
-|1100 Talk 2|1030 Talk 6|1100 Talk 10|
-|1200 Lunch|1130 Lunch|1200 Lunch|
-|1400 Talk 3|1330 Talk 7|1400 Talk 11|
-|1530 Coffee|1435 Talk 8|1530 Coffee|
-|1600 Talk 4|1535 Coffee|1600 Talk 12|
-||1600 Colloquium||
+|0930 Talk 1|0930 Talk 5|0930 Talk 8|
+|1100 Talk 2|1100 Talk 6|1100 Talk 9|
+|1200 Lunch|1200 Lunch|1200 Lunch|
+|1400 Talk 3|1400 Talk 7|1400 Talk 10|
+|1530 Coffee|1530 Coffee|1530 Coffee|
+|1600 Talk 4|1600 Spivak Colloquium|1600 Talk 11|
 
 # Titles and abstracts
 
