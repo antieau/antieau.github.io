@@ -106,3 +106,5 @@ $
 <a href="../assets/pdf/202601-344-1/scs_13_birkhoff.pdf">scs 13</a>
 
 <a href="../assets/pdf/202601-344-1/scs_14_locale.pdf">scs 14</a>
+
+<a href="../assets/pdf/202601-344-1/scs_15_locale2.pdf">scs 15</a>
