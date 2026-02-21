@@ -104,7 +104,15 @@ Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&ab
 
 # Titles and abstracts
 
-TBD
+Aoki. (Commutative) higher motives.
+
+Gepner/Heine 1. From $(\infty,\infty)$-categories to oriented categories.
+
+Gepner/Heine 2. Towards the categorification of homotopy theory.
+
+Gepner/Heine 3. Hypercompletion, Postnikov towers, and coinductive equivalences.
+
+Spivak. Accounting for our inventiveness.
 
 # Organizers
 
