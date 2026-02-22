@@ -112,12 +112,13 @@ Gepner/Heine 2. Towards the categorification of homotopy theory.
 
 Gepner/Heine 3. Hypercompletion, Postnikov towers, and coinductive equivalences.
 
-Masuda 1. Categorical spectra and stability of oriented categories
+Masuda 1. Categorical spectra and stability of oriented categories.
 
-Masuda 2. Categorical spectra with adjoints
+Masuda 2. Categorical spectra with adjoints.
 
+Spivak. Accounting for our inventiveness.
 
-Spivak. *Accounting for our inventiveness.*
+Stefanich. Higher algebraic geometry.
 
 # Abstracts
 
@@ -125,6 +126,28 @@ Spivak. *Accounting for our inventiveness.*
 This talk is written to be heard in two registers: one that category theorists can trust and another that biologists can find motivating. These two audiences may seem to have very little in common. However, every mathematician is a biological entity, and our ability to "do mathematics," e.g. to invent and employ abstractions, is one that biology had to produce in a stack of technologies that grounds out in bare physics. I'll try to make clear that humans are not the first biological systems to be inventive: biology is a story rife with inventiveness at every stage. The key inventions all tend to increase portability of form so that it can take hold in new substrates, and this is the heart of abstraction. I'll propose that the mechanism is accounting: a system develops sensitivities, works to bring them into coherence, and when the accounts settle, what emerges is a new portable capacity. This is sensemaking, and its product is abstraction.
 
 I'll then pivot to discuss polynomial functors in one variable, which I think is itself a highly portable abstraction. As a category, Poly is easy to generate (the free completely distributive category on a point), yet extraordinarily rich and computationally tractable, with a wide range of monoidal closed structures, (co)free (co)monads, and applications from dependent type theory to interacting dynamical systems. In the remainder of the talk I'll discuss my attempt to model living systems, and suggest that the accounts are not yet settled: we do not have a formal account of our own physical ability to create new abstractions. I believe this is a problem both audiences can work on.
+
+# Bibliography
+
+Aoki, _Higher presentable categories and limits_, [arXiv](https://arxiv.org/abs/2510.13503).
+
+Aoki, Barthel, Chedalavada, Schlank, and Stevenson, _Higher Zariski geometry_, [arXiv](https://arxiv.org/abs/2508.11621).
+
+Campion, _An $(\infty,n)$-categorical pasting theorem_, [arXiv](https://arxiv.org/abs/2311.00200).
+
+Campion, _The Gray tensor product of $(\infty,n)$-categories_, [arXiv](https://arxiv.org/abs/2311.00205).
+
+Heine, _On the categorification of homology_, [arXiv](https://arxiv.org/abs/2505.22640).
+
+Gepner and Heine, _Oriented category theory_, [arXiv](https://arxiv.org/abs/2510.10504).
+
+Masuda, _The algebra of categorical spectra_, [pdf](https://nmasuda2.github.io/notes/thesis_stable.pdf).
+
+Stefanich, _Categorification of sheaf theory_, [arXiv](https://arxiv.org/abs/2511.09553).
+
+Stefanich, _Presentable $(\infty,n)$-categories_, [arXiv](https://arxiv.org/abs/2011.03035).
+
+Stefanich, _Higher sheaf theory I: correspondences_, [arXiv](https://arxiv.org/abs/2011.03027).
 
 # Organizers
 
