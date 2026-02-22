@@ -112,6 +112,11 @@ Gepner/Heine 2. Towards the categorification of homotopy theory.
 
 Gepner/Heine 3. Hypercompletion, Postnikov towers, and coinductive equivalences.
 
+Masuda 1. Categorical spectra and stability of oriented categories
+
+Masuda 2. Categorical spectra with adjoints
+
+
 Spivak. *Accounting for our inventiveness.*
 
 # Abstracts
