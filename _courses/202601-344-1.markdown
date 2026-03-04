@@ -73,6 +73,8 @@ $
 
 <a href="../assets/pdf/202601-344-1/note02.pdf">`note 2`</a>
 
+<a href="../assets/pdf/202601-344-1/note03.pdf">`note 3`</a>
+
 <a href="../assets/pdf/202601-344-1/ps01.pdf">`problem set 1`</a>
 
 <a href="../assets/pdf/202601-344-1/ps02.pdf">`problem set 2`</a>
@@ -112,3 +114,5 @@ $
 <a href="../assets/pdf/202601-344-1/scs_16_locale3.pdf">scs 16</a>
 
 <a href="../assets/pdf/202601-344-1/scs_17_tychonoff.pdf">scs 17</a>
+
+<a href="../assets/pdf/202601-344-1/scs_17_urysohn.pdf">scs 18</a>
