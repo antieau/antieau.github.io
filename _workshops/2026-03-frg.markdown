@@ -95,12 +95,12 @@ Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&ab
 
 |M|Tu|W|
 |-|--|-|
-|0930 Talk 1|0930 Talk 5|0930 Talk 8|
-|1100 Talk 2|1100 Talk 6|1100 Talk 9|
+|0930 Gepner/Heine 1|0930 Stefanich 2|0930 Gepner/Heine 3|
+|1100 Stefanich 1|1100 Gepner/Heine 2|1100 Stefanich 3|
 |1200 Lunch|1200 Lunch|1200 Lunch|
-|1400 Talk 3|1400 Talk 7|1400 Talk 10|
+|1400 Campion|1400 Masuda 2|1400 Aoki|
 |1530 Coffee|1530 Coffee|1530 Coffee|
-|1600 Talk 4|1600 Spivak Colloquium|1600 Talk 11|
+|1600 Masuda 1|1600 Spivak Colloquium|1600 Schlank|
 
 # Titles
 
