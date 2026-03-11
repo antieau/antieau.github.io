@@ -154,9 +154,13 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 [i] B. Antieau, _The even filtration after Hahn, Raksit, and Wilson_, [Oberwolfach Report
 24/2022](https://publications.mfo.de/handle/mfo/3959).
 
-# software
+# algorithms
 
 [a] B. Antieau, A. Krause, and T. Nikolaus, `KZPN`, \[[GitHub](https://github.com/antieau/kzpn)\].
+
+# software
+
+[1] [snforacle](https://antieau.github.io/snforacle/).
 
 
 
