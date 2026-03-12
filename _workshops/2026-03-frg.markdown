@@ -149,7 +149,12 @@ Heine, _On the categorification of homology_, [arXiv](https://arxiv.org/abs/2505
 
 Gepner and Heine, _Oriented category theory_, [arXiv](https://arxiv.org/abs/2510.10504).
 
+Gepner and Heine, _Homotopy posets, Postnikov towers, and hypercompletions of ∞-categories_,
+       [arXiv](https://arxiv.org/abs/2603.09903).
+
 Masuda, _The algebra of categorical spectra_, [pdf](https://nmasuda2.github.io/notes/thesis_stable.pdf).
+
+Ozornova and Rovelli and Walde, _Cores and localizations of (∞,∞)-categories_, [arXiv](https://arxiv.org/abs/2603.11005).
 
 Stefanich, _Categorification of sheaf theory_, [arXiv](https://arxiv.org/abs/2511.09553).
 
@@ -191,7 +196,32 @@ Eckhart 206 and Ryerson 251.
 
 # Restaurants
 
-There are no official meals planned for this workshop.
+There are no official meals planned for this workshop. However, the following are nearby
+restaurants that might be suitable:
+- Beatnik On The River
+- Beatrix
+- Bistronomic
+- Cafecito
+- Can't Believe It's Not Meat
+- Chicago Diner
+- Ema
+- Feed Your Head
+- Francesca's On Chestnut
+- Jake Melnick's Corner Tap
+- Labriola
+- Lucky Cross
+- Luxbar
+- Pierrot Gourmet
+- Pizzeria Portofino
+- Planta
+- Quartino Restorante
+- RL Restaurant
+- SIFR
+- Somerset
+- Sunny Side Up Restaurant
+- Tempo Cafe
+- The Original Pancake House
+- Wildberry Pancakes and Cafe
 
 # Acknowledgments
 
