@@ -106,6 +106,8 @@ Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&ab
 
 Aoki. (Commutative) higher motives. 
 
+Campion. The universal property of the Gray tensor product.
+
 Gepner/Heine 1. From $(\infty,\infty)$-categories to oriented categories.
 
 Gepner/Heine 2. Towards the categorification of homotopy theory.
@@ -128,10 +130,17 @@ My thesis connects this theory with higher presentable category theory. More pre
 
 I will begin by explaining classical 1-categorical motives and then describe how higher methods naturally arise in this context. The thesis also proves an analogous result for Scholze’s Berkovich motives, which provide a theory of motives for analytic varieties (i.e., allowing inequalities). If time permits, I will explain why this analytic version of the (∞,2)-category of 2-motives behaves better than its algebraic counterpart, in particular in light of my higher rigidity theorem.
 
+Campion. *The universal property of the Gray tensor product.*
+A strong monoidal left adjoint ωCat^Gray $\rightarrow (A , \otimes, I)$ is a 1-cocategory object Γ in A  whose coobject part is identified with I, such that for all $a \in A$,
+  the double category $A( Γ \otimes Γ , a)$ has all companions.
+
 Spivak. *Accounting for our inventiveness.*
 This talk is written to be heard in two registers: one that category theorists can trust and another that biologists can find motivating. These two audiences may seem to have very little in common. However, every mathematician is a biological entity, and our ability to "do mathematics," e.g. to invent and employ abstractions, is one that biology had to produce in a stack of technologies that grounds out in bare physics. I'll try to make clear that humans are not the first biological systems to be inventive: biology is a story rife with inventiveness at every stage. The key inventions all tend to increase portability of form so that it can take hold in new substrates, and this is the heart of abstraction. I'll propose that the mechanism is accounting: a system develops sensitivities, works to bring them into coherence, and when the accounts settle, what emerges is a new portable capacity. This is sensemaking, and its product is abstraction.
 
 I'll then pivot to discuss polynomial functors in one variable, which I think is itself a highly portable abstraction. As a category, Poly is easy to generate (the free completely distributive category on a point), yet extraordinarily rich and computationally tractable, with a wide range of monoidal closed structures, (co)free (co)monads, and applications from dependent type theory to interacting dynamical systems. In the remainder of the talk I'll discuss my attempt to model living systems, and suggest that the accounts are not yet settled: we do not have a formal account of our own physical ability to create new abstractions. I believe this is a problem both audiences can work on.
+
+Stefanich. *Higher algebraic geometry.* The goal of this mini-course will be to give an introduction to a world of geometry in which one is allowed to consider, not just spectra of commutative rings, but also spectra of symmetric monoidal higher categories. In contrast to usual algebraic geometry, this is a setting where every object is affine in a suitable sense, and thus its geometry can be faithfully described in terms of higher categorical algebra. The talks will feature a mixture of general theory and examples; we will see along the way how to use this theory to geometrize arbitrary six-functor formalisms, and make precise the connection between invertible topological field theories and stable homotopy groups of spheres. Based on joint work with Peter Scholze.
+
 
 # Bibliography
 
