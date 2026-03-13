@@ -108,11 +108,11 @@ Aoki. (Commutative) higher motives.
 
 Campion. The universal property of the Gray tensor product.
 
-Gepner/Heine 1. From $(\infty,\infty)$-categories to oriented categories.
+Gepner/Heine 1. Towards the categorification of homotopy theory.
 
-Gepner/Heine 2. Towards the categorification of homotopy theory.
+Gepner/Heine 2. Hypercompletion, Postnikov towers, and coinductive equivalences.
 
-Gepner/Heine 3. Hypercompletion, Postnikov towers, and coinductive equivalences.
+Gepner/Heine 3. Homotopy posets and the oriented exact sequence.
 
 Masuda 1. Categorical spectra and stability of oriented categories.
 
