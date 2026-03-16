@@ -114,7 +114,7 @@ Gepner/Heine 2. Hypercompletion, Postnikov towers, and coinductive equivalences.
 
 Gepner/Heine 3. Homotopy posets and the oriented exact sequence.
 
-Masuda 1. Categorical spectra and stability of oriented categories.
+Masuda 1. Categorical spectra and stability of oriented categories. [\[pdf notes\]](../assets/pdf/masuda - frg workshop - categorical spectra and stability.pdf)
 
 Masuda 2. Categorical spectra with adjoints.
 
