@@ -108,7 +108,7 @@ Aoki. (Commutative) higher motives.
 
 Campion. The universal property of the Gray tensor product.
 
-Gepner/Heine 1. Towards the categorification of homotopy theory.
+Gepner/Heine 1. Towards the categorification of homotopy theory. [\[pdf notes\]](../assets/pdf/gepner - frg workshop - towards the categorification of homotopy theory.pdf)
 
 Gepner/Heine 2. Hypercompletion, Postnikov towers, and coinductive equivalences.
 
