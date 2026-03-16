@@ -106,7 +106,7 @@ Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&ab
 
 Aoki. (Commutative) higher motives. 
 
-Campion. The universal property of the Gray tensor product.
+Campion. The universal property of the Gray tensor product. [\[pdf notes\]](../assets/pdf/campion - frg workshop - universal property of gray tensor product.pdf)
 
 Gepner/Heine 1. Towards the categorification of homotopy theory. [\[pdf notes\]](../assets/pdf/gepner - frg workshop - towards the categorification of homotopy theory.pdf)
 
