@@ -91,7 +91,7 @@ Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&ab
 
 [David Spivak](https://dspivak.net/) (Topos Institute).
 
-# Draft Schedule
+# Schedule
 
 |M|Tu|W|
 |-|--|-|
@@ -120,7 +120,7 @@ Masuda 2. Categorical spectra with adjoints.
 
 Spivak. Accounting for our inventiveness.
 
-Stefanich. Higher algebraic geometry.
+Stefanich. Higher algebraic geometry. [\[talk 1\]](../assets/pdf/stefanich - frg workshop - higher algebraic geometry 1.pdf)
 
 # Abstracts
 
