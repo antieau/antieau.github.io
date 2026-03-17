@@ -65,7 +65,7 @@ $
 
 # What
 
-A highly focused workshop on recent developments in $(\infty,\infty)$-categories.
+A highly focused workshop on recent developments in $\omega$-categories.
 On 16-17 March, it will take place at the [NITMB](https://www.nitmb.org/) in downtown Chicago. On
 18 March it will take place at the University of Chicago in Eckhart 206 and Ryerson 251.
 
