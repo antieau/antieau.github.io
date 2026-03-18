@@ -116,7 +116,7 @@ Gepner/Heine 3. Homotopy posets and the oriented exact sequence.
 
 Masuda 1. Categorical spectra and stability of oriented categories. [\[pdf notes\]](../assets/pdf/masuda - frg workshop - categorical spectra and stability.pdf)
 
-Masuda 2. Categorical spectra 2. [\[pdf notes\]]((../assets/pdf/masuda - frg worskhop - categorical spectra 2.pdf)
+Masuda 2. Categorical spectra 2. [\[pdf notes\]](../assets/pdf/masuda - frg worskhop - categorical spectra 2.pdf)
 
 Spivak. Accounting for our inventiveness. [\[slides\]](../assets/pdf/spivak - frg workshop.pdf)
 
