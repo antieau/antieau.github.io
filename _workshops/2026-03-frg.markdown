@@ -118,7 +118,7 @@ Masuda 1. Categorical spectra and stability of oriented categories. [\[pdf notes
 
 Masuda 2. Categorical spectra with adjoints.
 
-Spivak. Accounting for our inventiveness.
+Spivak. Accounting for our inventiveness. [\[slides\]](../assets/pdf/spivak - frg workshop.pdf)
 
 Stefanich. Higher algebraic geometry. [\[talk 1\]](../assets/pdf/stefanich - frg workshop - higher algebraic geometry 1.pdf)
 [\[talk 2\]](../assets/pdf/stefanich - frg workshop - higher algebraic geometry 2.pdf)
