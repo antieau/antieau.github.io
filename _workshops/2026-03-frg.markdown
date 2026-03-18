@@ -67,7 +67,7 @@ $
 
 A highly focused workshop on recent developments in $(\infty,\infty)$-categories.
 On 16-17 March, it will take place at the [NITMB](https://www.nitmb.org/) in downtown Chicago. On
-18 March it will take place at the University of Chicago in Eckhart 206 and Ryerson 251.
+18 March it will take place at the University of Chicago in Ryerson 251.
 
 # Mini-courses
 
@@ -202,7 +202,7 @@ Midway airports. For more details, see the NITMB's [getting here](https://www.ni
 
 The workshop will take place in the lecture hall at the NITMB on Monday and Tuesday, 16 and 17
 March. On Wednesday 18 March it will take place at the University of Chicago's Hyde Park campus in
-Eckhart 206 and Ryerson 251.
+Ryerson 251.
 
 # Restaurants
 
