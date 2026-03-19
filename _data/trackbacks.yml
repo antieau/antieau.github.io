@@ -1,0 +1,3 @@
+# Tracks which arXiv trackback pings have been sent.
+# Format: list of {post, arxiv_id, sent_at} entries.
+# Managed automatically by _scripts/send_trackbacks.py
