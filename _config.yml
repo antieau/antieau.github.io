@@ -20,8 +20,8 @@
 
 title: Benjamin Antieau
 email: antieau@northwestern.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a professor of mathematics at Northwestern University.
+description: >-
+  Blog on K-theory, Hochschild homology, and algebraic geometry by Benjamin Antieau.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://antieau.github.io"
 github_username: antieau
