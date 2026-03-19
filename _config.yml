@@ -32,6 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+kramdown:
+  math_engine: mathjax
+
 author:
     name: Benjamin Antieau
     email: antieau@northwestern.edu

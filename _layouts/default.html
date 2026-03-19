@@ -8,19 +8,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/png/favicon-16x16.png">
   <link rel="manifest" href="/assets/png/site.webmanifest">
 
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']]
-      },
-      TeX: {
-        extensions: ["AMSmath.js", "AMSsymbols.js", "AMScd.js"]
-      },
-      displayAlign: "center",
-      displayIndent: "2em",
-    });
-  </script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+  {%- include mathjax.html -%}
 
   <body>
 
