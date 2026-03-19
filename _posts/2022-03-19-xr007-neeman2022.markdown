@@ -4,41 +4,6 @@ title:  "arXiv reviews 7: the bounded t-structure conjecture"
 stitle: "XR 7: bounded t-structures"
 tags: 2022 XR
 ---
-<div style="display:none">
-$
-\newcommand\A{\mathrm{A}}
-\newcommand\E{\mathrm{E}}
-\newcommand\G{\mathrm{G}}
-\newcommand\H{\mathrm{H}}
-\newcommand\K{\mathrm{K}}
-\newcommand\L{\mathrm{L}}
-\newcommand\M{\mathrm{M}}
-\newcommand\Ascr{\mathcal{A}}
-\newcommand\Cscr{\mathcal{C}}
-\newcommand\Dscr{\mathcal{D}}
-\newcommand\Escr{\mathcal{E}}
-\newcommand\Kscr{\mathcal{K}}
-\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
-\newcommand\Acscr{\mathcal{A}\mathrm{c}}
-\newcommand\heart{\heartsuit}
-\newcommand\cn{\mathrm{cn}}
-\newcommand\op{\mathrm{op}}
-\newcommand\Ho{\mathrm{Ho}}
-\newcommand\dR{\mathrm{dR}}
-\newcommand\HH{\mathrm{HH}}
-\newcommand\TC{\mathrm{TC}}
-\newcommand{\bMap}{\mathbf{Map}}
-\newcommand{\End}{\mathrm{End}}
-\newcommand{\Mod}{\mathrm{Mod}}
-\newcommand\bE{\mathbf{E}}
-\newcommand\bZ{\mathbf{Z}}
-\newcommand\bAM{\mathbf{AM}}
-\newcommand\bLM{\mathbf{LM}}
-\newcommand\Spec{\mathrm{Spec}}
-\newcommand\we{\simeq}
-\newcommand\qc{\mathrm{qc}}
-$
-</div>
 
 Neeman is at it again: after *disproving* in [\[4\]](#neeman-counterexample) the conjectures of Schlichting and of myself,
 Gepner, and Heller on the vanishing of $K$-theory of stable

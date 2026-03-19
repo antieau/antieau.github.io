@@ -4,42 +4,6 @@ title:  "arXiv reviews 8: the even filtration after Hahn, Raksit, and Wilson"
 stitle: "XR 8: the even filtration"
 tags: 2022 XR
 ---
-<div style="display:none">
-$
-\newcommand\A{\mathrm{A}}
-\newcommand\E{\mathrm{E}}
-\newcommand\G{\mathrm{G}}
-\newcommand\H{\mathrm{H}}
-\newcommand\K{\mathrm{K}}
-\newcommand\L{\mathrm{L}}
-\newcommand\M{\mathrm{M}}
-\newcommand\Ascr{\mathcal{A}}
-\newcommand\Cscr{\mathcal{C}}
-\newcommand\Dscr{\mathcal{D}}
-\newcommand\Escr{\mathcal{E}}
-\newcommand\Kscr{\mathcal{K}}
-\newcommand\Perfscr{\mathcal{P}\mathrm{erf}}
-\newcommand\Acscr{\mathcal{A}\mathrm{c}}
-\newcommand\heart{\heartsuit}
-\newcommand\cn{\mathrm{cn}}
-\newcommand\op{\mathrm{op}}
-\newcommand\Ho{\mathrm{Ho}}
-\newcommand\dR{\mathrm{dR}}
-\newcommand\HH{\mathrm{HH}}
-\newcommand\TC{\mathrm{TC}}
-\newcommand\ku{\mathrm{ku}}
-\newcommand{\bMap}{\mathbf{Map}}
-\newcommand{\End}{\mathrm{End}}
-\newcommand{\Mod}{\mathrm{Mod}}
-\newcommand\bE{\mathbf{E}}
-\newcommand\bZ{\mathbf{Z}}
-\newcommand\bAM{\mathbf{AM}}
-\newcommand\bLM{\mathbf{LM}}
-\newcommand\Spec{\mathrm{Spec}}
-\newcommand\we{\simeq}
-\newcommand\qc{\mathrm{qc}}
-$
-</div>
 
 I have posted two Oberwolfach Reports ([\[1\]](#mfo1) and [\[2\]](#mfo2)) from this year, one on the *even filtration* of
 Hahn--Raksit--Wilson [\[3\]](#hrw) and one on forthcoming work of my own on filtered derived commutative rings.
