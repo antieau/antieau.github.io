@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 10: big invertible categories"
 stitle: "XR 10: Br=Br''"
 tags: 2025 XR
+description: "Review of Stefanich's proof that every invertible dualizable linear category is compactly generated."
 ---
 
 <!--ëé-->

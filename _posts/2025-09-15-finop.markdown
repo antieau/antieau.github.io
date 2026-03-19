@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: the animation of the opposite of finite sets"
 stitle: "New paper: finop"
 tags: 2025 XR
+description: "New paper proving that the animation of the opposite of finite sets is a 1-category."
 ---
 
 My paper [\[1\]](#finop) is out. The main result is that the animation of the category $\Fin^\op$

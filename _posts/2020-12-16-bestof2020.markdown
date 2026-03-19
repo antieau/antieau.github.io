@@ -2,6 +2,7 @@
 layout: post
 title:  "Best of 2020"
 tags: 2020 bestof
+description: "Index for a series on favorite papers and results of 2020."
 ---
 I am writing this month about the papers and results I have most enjoyed or
 thought about this year. As always with such lists, exclusion is not meant to

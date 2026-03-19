@@ -2,6 +2,7 @@
 layout: post
 title:  "A de Rham cohomology example"
 tags: homology examples
+description: "An example due to Bhatt showing Hodge-complete derived de Rham cohomology can fail to be coconnective in characteristic 0."
 ---
 While discussing an interesting forthcoming preprint [2], I asked [Shubhodip Mondal](https://lsa.umich.edu/math/people/phd-students/smondal.html)
 whether there was an example in characteristic $$0$$ where Hodge-complete

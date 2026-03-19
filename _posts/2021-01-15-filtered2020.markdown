@@ -2,6 +2,7 @@
 layout: post
 title:  "Best of 2020: the filtered circle"
 tags: 2020 bestof
+description: "Exposition of the filtered circle constructions of Moulinos-Robalo-Toen and Raksit explaining the HKR filtration on Hochschild homology."
 ---
 
 <!--ë-->

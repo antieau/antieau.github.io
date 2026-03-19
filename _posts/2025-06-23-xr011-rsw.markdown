@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 11: every motive is a motive"
 stitle: "XR 11: motiquity"
 tags: 2025 XR
+description: "Review of Ramzi-Sosnilo-Winges proving the universal localizing invariant is essentially surjective."
 ---
 
 Motiquity means `the ubuquity of motives`.

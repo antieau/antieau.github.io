@@ -3,6 +3,7 @@ layout: post
 title:  "Postdoc for the Simons Collaboration on Perfection"
 stitle: "SCoP Postdoc"
 tags: 2022
+description: "Postdoc position for the Simons Collaboration on Perfection, starting Fall 2024."
 ---
 
 <!--ëéłö-->

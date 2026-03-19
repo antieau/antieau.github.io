@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 6: Coherent cochain complexes"
 stitle: "XR 6: Coherent cochain complexes" 
 tags: 2021 XR
+description: "Review of Ariotta's theorem identifying complete filtered objects with coherent cochain complexes."
 ---
 
 <!--ëé-->

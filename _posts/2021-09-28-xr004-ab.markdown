@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 4: Hodge numbers in positive characteristic"
 stitle: "XR 4: Hodge numbers in positive characteristic"
 tags: 2021 XR
+description: "Review of Addington-Bragg's construction of derived-equivalent Calabi-Yau 3-folds with different Hodge numbers in positive characteristic."
 ---
 
 <!--ëéö-->

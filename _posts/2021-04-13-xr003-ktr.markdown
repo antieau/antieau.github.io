@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 3: Curves in K-theory and TR"
 stitle: "XR 3: Curves in K-theory"
 tags: 2021 XR
+description: "Review of McCandless's paper connecting topological restriction homology to curves in algebraic K-theory."
 ---
 
 <!--ëéö-->

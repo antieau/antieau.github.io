@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: the K-theory of perfectoid rings"
 stitle: "New paper: K-theory of perfectoids"
 tags: 2021
+description: "New paper with Mathew and Morrow on p-adic K-theory of smooth algebras over perfectoid rings."
 ---
 
 <!--ëéłö-->

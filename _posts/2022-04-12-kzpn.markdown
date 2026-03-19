@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: the K-theory of Z$/p^n$"
 stitle: "New paper: K-theory of Z$/p^n$"
 tags: 2021
+description: "Research announcement with Krause and Nikolaus of an algorithm to compute K-groups of Z/p^n via syntomic cohomology."
 ---
 
 <!--ëéłö-->

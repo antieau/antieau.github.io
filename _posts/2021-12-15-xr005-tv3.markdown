@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 5: Algebraic foliations III"
 stitle: "XR 5: Algebraic foliations III"
 tags: 2021 XR
+description: "Review of Toen and Vezzosi's vanishing theorem for Chern classes of crystals along derived foliations."
 ---
 
 <!--ëé-->

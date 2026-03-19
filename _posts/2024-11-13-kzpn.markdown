@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: the K-theory of Z$/p^n$"
 stitle: "New paper: K-theory of Z$/p^n$"
 tags: 2024
+description: "Full paper with Krause and Nikolaus on K-groups of Z/p^n, with a publicly available algorithm implementation."
 ---
 
 <!--ëéłö-->

@@ -3,6 +3,7 @@ layout: post
 title:  "Year in review"
 stitle: "Year in review"
 tags: 2021
+description: "Year-in-review for 2021 with an annotated list of notable papers in K-theory, p-adic Hodge theory, and chromatic homotopy theory."
 ---
 
 <!--ąëéłü-->

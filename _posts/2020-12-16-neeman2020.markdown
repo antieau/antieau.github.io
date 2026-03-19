@@ -2,6 +2,7 @@
 layout: post
 title:  "Best of 2020: Neeman's counterexample"
 tags: 2020 bestof
+description: "Neeman's disproof of conjectures on vanishing of negative K-theory for stable infinity-categories with bounded t-structures."
 ---
 This is the first post in a [series]({% post_url 2020-12-16-bestof2020 %}) on my favorite work of 2020.
 

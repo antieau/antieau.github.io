@@ -3,6 +3,7 @@ layout: post
 title:  "Complete Segal objects"
 stitle: "Segal objects" 
 tags: 2025
+description: "Expository post explaining that complete Segal objects in E-infinity-spaces model symmetric monoidal infinity-categories."
 ---
 <div style="display:none">
 $\renewcommand\CGp{\mathrm{CGp}}\renewcommand\CMon{\mathrm{CMon}}$

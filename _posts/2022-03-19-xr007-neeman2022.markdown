@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 7: the bounded t-structure conjecture"
 stitle: "XR 7: bounded t-structures"
 tags: 2022 XR
+description: "Review of Neeman's proof that bounded t-structures on perfect complexes characterize regular schemes."
 ---
 
 Neeman is at it again: after *disproving* in [\[4\]](#neeman-counterexample) the conjectures of Schlichting and of myself,

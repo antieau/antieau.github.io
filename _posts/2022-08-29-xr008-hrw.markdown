@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 8: the even filtration after Hahn, Raksit, and Wilson"
 stitle: "XR 8: the even filtration"
 tags: 2022 XR
+description: "Brief discussion of the even filtration of Hahn-Raksit-Wilson and its role as a motivic filtration on TC."
 ---
 
 I have posted two Oberwolfach Reports ([\[1\]](#mfo1) and [\[2\]](#mfo2)) from this year, one on the *even filtration* of

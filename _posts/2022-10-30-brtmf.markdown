@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: the local Brauer group of TMF"
 stitle: "New paper: Br of TMF"
 tags: 2022
+description: "New paper with Meier and Stojanoska computing the local Brauer group of topological modular forms."
 ---
 
 <!--ëéłö-->

@@ -2,6 +2,7 @@
 layout: post
 title:  "Update on the liquid tensor experiment"
 tags: condensed
+description: "The Lean formalization community reaches the halfway point on Scholze's liquid tensor experiment."
 ---
 In a previous [post]({% post_url 2020-12-07-liquidtensor %}), I pointed
 out Peter Scholze's liquid tensor challenge to the formalization community. I

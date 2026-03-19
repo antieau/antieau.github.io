@@ -3,6 +3,7 @@ layout: post
 title:  "arXiv reviews 9: no nonconnective theorem of the heart"
 stitle: "XR 9: no nonconnective theorem of the heart"
 tags: 2024 XR
+description: "Review of Ramzi-Sosnilo-Winges proving every spectrum is the K-theory of some stable infinity-category."
 ---
 
 Ramzi, Sosnilo, and Winges have proved a lovely result in [\[6\]](#rsw), showing that every spectrum

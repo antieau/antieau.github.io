@@ -3,6 +3,7 @@ layout: post
 title:  "Simons Collaboration on Perfection"
 stitle: "SCoP"
 tags: 2022
+description: "Announcement of the Simons Collaboration on Perfection in algebra, geometry, and topology."
 ---
 
 <!--ëéłö-->

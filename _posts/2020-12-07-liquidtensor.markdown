@@ -2,6 +2,7 @@
 layout: post
 title:  "Scholze's liquid tensor experiment"
 tags: condensed
+description: "On Scholze's challenge to formalize a key result in condensed mathematics using the Lean proof assistant."
 ---
 Peter Scholze
 [proposes](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/) to formalize 

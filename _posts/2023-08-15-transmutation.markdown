@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: spherical Witt vectors and integral models for spaces"
 stitle: "New paper: SW"
 tags: 2022
+description: "New paper constructing spherical Witt vectors via transmutation and integral models for nilpotent spaces."
 ---
 
 <!--ëéłö-->

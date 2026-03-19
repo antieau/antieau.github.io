@@ -2,6 +2,7 @@
 layout: post
 title:  "New paper: genus $1$ curves and Brauer groups"
 tags: 2021
+description: "New paper with Auel on splitting Brauer classes of small degree over global fields using genus 1 curves."
 ---
 
 <!--ëéö-->

@@ -2,6 +2,7 @@
 layout: post
 title:  "PCMI Summer School"
 tags: 2021 conferences
+description: "Announcement of the PCMI Graduate Summer School on Motivic Homotopy, July 2021."
 ---
 <!--ë-->
 

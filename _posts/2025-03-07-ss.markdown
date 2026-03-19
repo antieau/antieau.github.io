@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: spectral sequences, décalage, and the Beilinson t-structure"
 stitle: "New paper: spectral sequences" 
 tags: 2025
+description: "New paper constructing spectral sequence pages via the Beilinson t-structure and iterated décalage."
 ---
 
 <!--ëé-->
