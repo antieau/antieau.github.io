@@ -160,11 +160,11 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 
 # software
 
-[2] [snforacle](https://antieau.github.io/snforacle/).
-
 [1] [jacamar](https://github.com/antieau/jacamar).
 
+# software created by llm
 
+[1] [snforacle](https://antieau.github.io/snforacle/).
 
 # current group members and their research
 
