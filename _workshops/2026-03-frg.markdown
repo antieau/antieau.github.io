@@ -104,24 +104,27 @@ Campion](https://arxiv.org/search/math?query=Campion%2C+Tim&searchtype=author&ab
 
 # Titles
 
-Aoki. (Commutative) higher motives. 
+Aoki. (Commutative) higher motives. [\[pdf notes\]](../assets/pdf/aoki - frg workshop - commutative higher motives.pdf)
 
 Campion. The universal property of the Gray tensor product. [\[pdf notes\]](../assets/pdf/campion - frg workshop - universal property of gray tensor product.pdf) [\[more notes\]](../assets/pdf/CampionUniversalPropOfGrayTensor_TalkNotes.pdf)
 
 Gepner/Heine 1. Towards the categorification of homotopy theory. [\[pdf notes\]](../assets/pdf/gepner - frg workshop - towards the categorification of homotopy theory.pdf) [\[more notes\]](../assets/pdf/GepnerCategoricalHomotopyTheory_TalkNotes.pdf)
 
-Gepner/Heine 2. Hypercompletion, Postnikov towers, and coinductive equivalences.
+Gepner/Heine 2. Hypercompletion, Postnikov towers, and coinductive equivalences. [\[pdf notes\]](../assets/pdf/heine - frg workshop - postnikov towers.pdf)
 
-Gepner/Heine 3. Homotopy posets and the oriented exact sequence.
+Gepner/Heine 3. Homotopy posets and the oriented exact sequence. [\[pdf notes\]](../assets/pdf/heine - frg workshop - homotopy posets.pdf)
 
 Masuda 1. Categorical spectra and stability of oriented categories. [\[pdf notes\]](../assets/pdf/masuda - frg workshop - categorical spectra and stability.pdf) [\[both talks\]](../assets/pdf/masuda-spectra-with-adjoints.pdf)
 
 Masuda 2. Categorical spectra 2. [\[pdf notes\]](../assets/pdf/masuda - frg workshop - categorical spectra 2.pdf) [\[more notes\]](../assets/pdf/masuda-spectra-with-adjoints.pdf)
 
+Schlank. Height, additivity, Galois, and categorification. [\[pdf notes\]](../assets/pdf/schlank - frg workshop.pdf)
+
 Spivak. Accounting for our inventiveness. [\[slides\]](../assets/pdf/spivak - frg workshop.pdf)
 
 Stefanich. Higher algebraic geometry. [\[talk 1\]](../assets/pdf/stefanich - frg workshop - higher algebraic geometry 1.pdf)
-[\[talk 2\]](../assets/pdf/stefanich - frg workshop - higher algebraic geometry 2.pdf) [\[all talks\]](../assets/pdf/StefanichHigherAlgGeom_TalkNotes.pdf)
+[\[talk 2\]](../assets/pdf/stefanich - frg workshop - higher algebraic geometry 2.pdf) [\[talk 3\]](../assets/pdf/stefanich - frg workshop - higher algebraic geometry 3.pdf) [\[all talks\]](../assets/pdf/StefanichHigherAlgGeom_TalkNotes.pdf)
+
 
 # Abstracts
 
