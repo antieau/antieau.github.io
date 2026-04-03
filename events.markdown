@@ -6,23 +6,19 @@ permalink: /events/
 
 <h1>future organization</h1>
 
-<a href="../workshops/2026-03-frg.html">FRG workshop on higher categories and geometry,
-    16-18 March 2026 @ Northwestern/NITMB</a>.
-
 <a href="https://icerm.brown.edu/program/topical_workshop/tw-26-mch">Machine computation in homotopy theory</a>, 22-26 June 2026, ICERM.
 
 
 
 <h1>future trips</h1>
 
-<a
-href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2026/">
-Simons Collaboration annual meeting, 5-6 March 2026</a>.
-
 Midwest Topology Seminar, Michigan State University, 9-10 May 2026.
 
 <a href="https://www.slmath.org/programs/384">Motivic homotopy theory, SLMath, Fall 2026</a>, 17
 August to 18 December 2026.
+
+<a href="https://www.slmath.org/workshops/1167">Pathways workshop: Representation Theory Under the
+Influence of Quantum Field Theory & Motivic Homotopy Theory</a>, SLMath, 19-21 August 2026.
 
 Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 2027.
 
@@ -31,6 +27,10 @@ Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 20
 
 
 <h1>past organization</h1>
+
+<a href="../workshops/2026-03-frg.html">FRG workshop on higher categories and geometry,
+    16-18 March 2026 @ Northwestern/NITMB</a>.
+
 
 <a href="https://people.math.wisc.edu/~caldararu/frgconf/">Derived categories and mirror symmetry,
 28 May to 1 June 2025, UW Madison</a>.
@@ -71,6 +71,11 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 <h1>recent past events</h1>
+
+<a
+href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2026/">
+Simons Collaboration annual meeting, 5-6 March 2026</a>.
+
 
 <a href="https://aimath.org/workshops/upcoming/compstabhom/">Computations in stable homotopy
 theory, 27-31 October 2025, AIM</a>.
