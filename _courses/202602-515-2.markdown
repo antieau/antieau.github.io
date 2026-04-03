@@ -73,6 +73,8 @@ $
 
 [Six-functor formalisms](https://arxiv.org/abs/2510.26269) (Scholze)
 
+<a href="../assets/pdf/202602_ps01.pdf">`ps01`</a>&emsp;
+
 # Expected topics 
 - presentable $\infty$-categories
 - compactly assembled $\infty$-categories
