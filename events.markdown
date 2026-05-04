@@ -20,6 +20,8 @@ August to 18 December 2026.
 <a href="https://www.slmath.org/workshops/1167">Pathways workshop: Representation Theory Under the
 Influence of Quantum Field Theory & Motivic Homotopy Theory</a>, SLMath, 19-21 August 2026.
 
+Homotopy theory @ Oberwolach, 21-26 March 2027.
+
 Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 2027.
 
 
