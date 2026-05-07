@@ -44,7 +44,8 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 [47] B. Antieau, A. Krause, and T. Nikolaus, _On the K-theory of Z/p^n_,
     submitted, \[[arXiv:2405](https://arxiv.org/abs/2405.04329)\].
 
-[46] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_, submitted,
+[46] B. Antieau, A. Krause, and T. Nikolaus, _Prismatic cohomology relative to $\delta$-rings_, to
+appear in Annales scientifiques de l'Ecole normale supérieure,
     \[[arXiv:2310](https://arxiv.org/abs/2310.12770)\].
 
 [45] B. Antieau, _Spherical Witt vectors and integral models for spaces_, submitted, \[[arXiv:2308](https://arxiv.org/abs/2308.07288)\].
