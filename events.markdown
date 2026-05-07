@@ -12,7 +12,7 @@ permalink: /events/
 
 <h1>future trips</h1>
 
-Midwest Topology Seminar, Michigan State University, 9-10 May 2026.
+<a href="https://sites.google.com/view/mts-spring2026">Midwest Topology Seminar</a>, Michigan State University, 9-10 May 2026.
 
 <a href="https://www.slmath.org/programs/384">Motivic homotopy theory, SLMath, Fall 2026</a>, 17
 August to 18 December 2026.
