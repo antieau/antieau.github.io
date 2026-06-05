@@ -190,6 +190,9 @@ Anna Lipman (PhD).
 
 [Preston Cranford](https://prestoncranford.github.io/) (PhD).
 
+Dinglong Wang (PhD).
+
+Vladimir Shein (PhD).
 
 
 
