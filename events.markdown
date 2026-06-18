@@ -12,13 +12,13 @@ permalink: /events/
 
 <h1>future trips</h1>
 
-<a href="https://sites.google.com/view/mts-spring2026">Midwest Topology Seminar</a>, Michigan State University, 9-10 May 2026.
-
 <a href="https://www.slmath.org/programs/384">Motivic homotopy theory, SLMath, Fall 2026</a>, 17
 August to 18 December 2026.
 
 <a href="https://www.slmath.org/workshops/1167">Pathways workshop: Representation Theory Under the
 Influence of Quantum Field Theory & Motivic Homotopy Theory</a>, SLMath, 19-21 August 2026.
+
+Colloquium @ San José State University, 7 October 2026.
 
 Homotopy theory @ Oberwolach, 21-26 March 2027.
 
@@ -73,6 +73,8 @@ Midwest Topology Seminar @ UIC, 28 February 2015</a>.
 
 
 <h1>recent past events</h1>
+
+<a href="https://sites.google.com/view/mts-spring2026">Midwest Topology Seminar</a>, Michigan State University, 9-10 May 2026.
 
 <a
 href="https://www.simonsfoundation.org/event/simons-collaboration-on-perfection-in-algebra-geometry-and-topology-annual-meeting-2026/">
