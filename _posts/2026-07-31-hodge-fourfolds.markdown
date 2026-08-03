@@ -171,7 +171,7 @@ please write this up as a TeX/PDF file for me to read.</code>
 This resulted in a summary after 20 minutes of the state of the art. I asked the model to keep
 pushing. After an additional 1 hour and 50 minutes it had solved dimension $4$, but hadn't stopped.
 It was working on the general case. I paused it and asked for the proof in dimension $4$, which it
-provided: [here]({% link assets/pdf/fourfold_hodge_invariance.pdf %}) after some back-and-forth on
+provided [here]({% link assets/pdf/fourfold_hodge_invariance.pdf %}), after some back-and-forth on
 the correctness of some results in the literature (a paper it cited on the arXiv had been withdrawn).
 
 As you can see from the prompt, I expect this to be false in general. I was pleasantly surprised to see a proof in
@@ -180,6 +180,8 @@ dimension $4$.
 The original output included a formalization, but it was very incomplete, just formalizing Theorem
 A from Theorem B and all of the easy reduction steps. Theorem B itself was not formalized. I have
 no doubt this could have been done; however, the humans were able to check the proof directly.
+
+Thanks to Bryna Kra for suggesting I include the exact details here.
 
 
 
@@ -212,6 +214,7 @@ Mathew provided the subscription used to access Opus 4.8. This work was
 supported by NSF grant DMS-2152235, *FRG: Higher categorical structures in
 algebraic geometry* (Benjamin Antieau, Andrei Căldăraru, Akhil Mathew, and
 Martin Olsson).
+
 
 # References
 
