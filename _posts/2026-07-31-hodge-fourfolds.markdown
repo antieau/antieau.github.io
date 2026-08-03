@@ -192,7 +192,7 @@ The following uses the
 
 - **GPT-5.6 Sol Extra High** (OpenAI): Conceptualization, Formal analysis,
   Investigation, Methodology, Validation, Writing -- original draft.
-- **Opus 4.8** (Anthropic): Validation.
+- **Opus 5.0** (Anthropic): Validation.
 - **Benjamin Antieau** (Northwestern): Formal analysis, Funding
   acquisition, Validation, Writing -- review & editing.
 - **Andrei Căldăraru** (Wisconsin): Formal analysis,
@@ -210,7 +210,7 @@ The following uses the
 
 All of the named contributors checked the proof carefully. Benjamin Antieau
 provided the subscription used to access GPT-5.6 Sol Extra High and Akhil
-Mathew provided the subscription used to access Opus 4.8. This work was
+Mathew provided the subscription used to access Opus 5.0. This work was
 supported by NSF grant DMS-2152235, *FRG: Higher categorical structures in
 algebraic geometry* (Benjamin Antieau, Andrei Căldăraru, Akhil Mathew, and
 Martin Olsson).
