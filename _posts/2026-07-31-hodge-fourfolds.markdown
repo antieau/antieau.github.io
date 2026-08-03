@@ -76,6 +76,7 @@ The main insight due to GPT 5.6 Sol is that the topological signature is a deriv
 projective complex variety, then the cup product pairing on $\H^{2d}(X;\mathbf{R})$ is symmetric and non-degenerate. The topological signature of $X$, denoted here by $\sigma(X)$,
 is the signature of this pairing. Hirzebruch's signature formula gives
 $$\sigma(X)=\sum_{p,q}(-1)^qh^{p,q}.$$
+See Voisin [[6]](#voisin), Theorem 6.33.
 
 **Theorem B.** Let $X$ and $Y$ be derived equivalent smooth projective complex varieties of even
 dimension. Then, $\sigma(X)=\sigma(Y)$.
@@ -217,4 +218,10 @@ Oxford Mathematical Monographs, Oxford University Press, 2006.
 [5] Andrei Căldăraru and Simon Willerton, *The Mukai pairing, I: a
 categorical approach*, New York J. Math. **16** (2010), 61--98.
 [arXiv:0707.2052](https://arxiv.org/abs/0707.2052).
+</span>
+
+<span id="voisin">
+[6] Claire Voisin, *Hodge theory and complex algebraic geometry, I*,
+Cambridge Studies in Advanced Mathematics **76**, Cambridge University Press,
+2002.
 </span>
