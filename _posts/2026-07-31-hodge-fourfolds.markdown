@@ -165,19 +165,19 @@ The following uses the
 - **GPT-5.6 Sol Extra High** (OpenAI): Conceptualization, Formal analysis,
   Investigation, Methodology, Validation, Writing -- original draft.
 - **Opus 4.8** (Anthropic): Validation.
-- **Benjamin Antieau** (Northwestern University): Formal analysis, Funding
+- **Benjamin Antieau** (Northwestern): Formal analysis, Funding
   acquisition, Validation, Writing -- review & editing.
-- **Andrei Căldăraru** (University of Wisconsin--Madison): Formal analysis,
+- **Andrei Căldăraru** (Wisconsin): Formal analysis,
   Funding acquisition, Validation, Writing -- review & editing.
-- **Akhil Mathew** (University of Chicago): Formal analysis, Funding
+- **Akhil Mathew** (Chicago): Formal analysis, Funding
   acquisition, Validation, Writing -- review & editing.
-- **Martin Olsson** (University of California, Berkeley): Formal analysis,
+- **Martin Olsson** (Berkeley): Formal analysis,
   Funding acquisition, Validation, Writing -- review & editing.
-- **Ruoxi Li** (University of California, Berkeley): Formal analysis,
+- **Ruoxi Li** (Berkeley): Formal analysis,
   Validation, Writing -- review & editing.
-- **Noah Olander** (University of California, Berkeley): Formal analysis,
+- **Noah Olander** (Berkeley): Formal analysis,
   Validation, Writing -- review & editing.
-- **Joshua Mundinger** (University of California, Berkeley): Formal analysis,
+- **Joshua Mundinger** (Berkeley): Formal analysis,
   Validation, Writing -- review & editing.
 
 All of the named contributors checked the proof carefully. Benjamin Antieau
