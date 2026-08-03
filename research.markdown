@@ -15,6 +15,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[55] B. Antieau, A. Auel, and F. Scavia, _Splitting Brauer classes by genus one curves over number
+fields_, \[[arXiv:2607](https://arxiv.org/abs/2607.26915)\].
+
 [54] B. Antieau, _Filtrations and cohomology III: cohomology of E-infinity rings_,
     \[[arXiv:2512](https://arxiv.org/abs/2512.15509)\].
 
@@ -185,6 +188,7 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 - Magidson, _Divided powers and derived de Rham cohomology_, \[[arXiv:2405](https://arxiv.org/abs/2405.05153)\].
 
 Yuanning Zhang (PhD).
+- Zhang, _Higher dimensional dominoes in de Rham--Witt theory_, \[[arXiv:2607](https://arxiv.org/abs/2607.26323)\].
 
 Anna Lipman (PhD).
 
