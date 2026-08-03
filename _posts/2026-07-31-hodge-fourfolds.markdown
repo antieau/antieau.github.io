@@ -43,6 +43,7 @@ for every $p,q$.
 
 
 
+
 # Reductions
 
 We can assume that $X$ and $Y$ are connected and of dimension $4$.
@@ -158,7 +159,34 @@ therefore preserves $\sigma(X)$. This completes the proof of Theorem B.
 
 
 
-## Contributions and support
+# Comments on the process
+
+This was produced in more-or-less a single shot from the following prompt.
+
+<code>There is a conjecture that if
+X and Y are derived equivalent smooth projective varieties over the complex numbers, then they have
+the same Hodge numbers. Can you find a counterexample to this conjecture (or prove it)? If so,
+please write this up as a TeX/PDF file for me to read.</code>
+
+A PDF of the proof produced during the exchange is available
+[here]({% link assets/pdf/fourfold_hodge_invariance.pdf %}).
+
+As you can see from the prompt, I expect this to be false in general. I was pleasantly surprised to see a proof in
+dimension $4$.
+
+The more-or-less above comes from the fact that the first proof produced by GPT 5.6 Sol cited a paper that had been
+withdrawn from the <code>arXiv</code> because of an error. I asked if it could supply a proof of
+the relevant statement in the special case we needed. GPT 5.6 did so in what looked like a clever
+way. Later, we discovered via Claude Code that in fact the relevant argument appeared entirely in
+Addington--Bragg.
+
+The original output included a formalization, but it was very incomplete, just formalizing Theorem
+A from Theorem B and all of the easy reduction steps. Theorem B itself was not formalized. I have
+no doubt this could have been done; however, the humans were able to check the proof directly.
+
+
+
+# Contributions and support
 
 The following uses the
 [CRediT contributor-role taxonomy](https://credit.niso.org/contributor-roles-defined/).
@@ -188,7 +216,7 @@ supported by NSF grant DMS-2152235, *FRG: Higher categorical structures in
 algebraic geometry* (Benjamin Antieau, Andrei Căldăraru, Akhil Mathew, and
 Martin Olsson).
 
-## References
+# References
 
 <span id="orlov">
 [1] Dmitri Orlov, *Derived categories of coherent sheaves and motives*,
