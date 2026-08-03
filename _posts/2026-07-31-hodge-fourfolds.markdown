@@ -161,24 +161,21 @@ therefore preserves $\sigma(X)$. This completes the proof of Theorem B.
 
 # Comments on the process
 
-This was produced in more-or-less a single shot from the following prompt.
+I provided the following prompt.
 
 <code>There is a conjecture that if
 X and Y are derived equivalent smooth projective varieties over the complex numbers, then they have
 the same Hodge numbers. Can you find a counterexample to this conjecture (or prove it)? If so,
 please write this up as a TeX/PDF file for me to read.</code>
 
-A PDF of the proof produced during the exchange is available
-[here]({% link assets/pdf/fourfold_hodge_invariance.pdf %}).
+This resulted in a summary after 20 minutes of the state of the art. I asked the model to keep
+pushing. After an additional 1 hour and 50 minutes it had solved dimension $4$, but hadn't stopped.
+It was working on the general case. I paused it and asked for the proof in dimension $4$, which it
+provided: [here]({% link assets/pdf/fourfold_hodge_invariance.pdf %}) after some back-and-forth on
+the correctness of some results in the literature (a paper it cited on the arXiv had been withdrawn).
 
 As you can see from the prompt, I expect this to be false in general. I was pleasantly surprised to see a proof in
 dimension $4$.
-
-The more-or-less above comes from the fact that the first proof produced by GPT 5.6 Sol cited a paper that had been
-withdrawn from the <code>arXiv</code> because of an error. I asked if it could supply a proof of
-the relevant statement in the special case we needed. GPT 5.6 did so in what looked like a clever
-way. Later, we discovered via Claude Code that in fact the relevant argument appeared entirely in
-Addington--Bragg.
 
 The original output included a formalization, but it was very incomplete, just formalizing Theorem
 A from Theorem B and all of the easy reduction steps. Theorem B itself was not formalized. I have
