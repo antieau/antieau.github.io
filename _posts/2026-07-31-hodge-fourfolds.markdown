@@ -22,7 +22,7 @@ models is given toward the end of this post.
 # Background and statement of theorem
 
 Let $X$ and $Y$ be smooth projective varieties over $\mathbf C$. Orlov's
-conjecture [[1]](#orlov) asserts that an equivalence
+conjecture [[5]](#orlov) asserts that an equivalence
 
 $$D^b(X)\simeq D^b(Y)$$
 
@@ -30,9 +30,9 @@ implies that the rational Chow motives of $X$ and $Y$ are isomorphic, which in t
 $h^{p,q}(X)=h^{p,q}(Y)$ for all $p,q$.
 
 Popa and Schnell proved that Hodge numbers are derived invariants for complex threefolds
-[[2]](#popa-schnell). The characteristic-zero hypothesis is essential:
+[[6]](#popa-schnell). The characteristic-zero hypothesis is essential:
 Addington and Bragg constructed derived-equivalent Calabi--Yau threefolds in
-characteristic $3$ with different Hodge numbers [[3]](#addington-bragg).
+characteristic $3$ with different Hodge numbers [[2]](#addington-bragg).
 
 **Theorem A.** If $X$ and $Y$ are derived-equivalent smooth projective complex fourfolds,
 then
@@ -50,12 +50,12 @@ We can assume that $X$ and $Y$ are connected and of dimension $4$.
 We have *Serre duality*, which implies that $h^{p,q}=h^{4-p,4-q}$, and *Hodge symmetry*, which implies
 that $h^{p,q}=h^{q,p}$.
 
-Popa and Schnell in [[2]](#popa-schnell) prove that $h^{0,1}$ is a derived invariant (for $X$ and
+Popa and Schnell in [[6]](#popa-schnell) prove that $h^{0,1}$ is a derived invariant (for $X$ and
 $Y$ of any dimension, in characteristic $0$).
 
-In their appendix, Addington and Bragg prove that, in dimensions at most four and in characteristic
-$0$, derived equivalence preserves the Hodge numbers $h^{0,q}$. In fact, their argument gives an
-alternative proof of the Popa--Schnell result in this case.
+Abuaf [[1]](#abuaf) proved that, in dimensions at most four and in characteristic $0$, derived
+equivalence preserves the Hodge numbers $h^{0,q}$. Addington and Bragg [[2]](#addington-bragg),
+Appendix A, streamline his argument.
 
 A final classical argument is to use the derived invariants of Hochschild homology together with
 HKR degeneration. Specifically, $\dim_k\HH_i(X/k)$ is a derived invariant and we have by HKR that
@@ -77,7 +77,7 @@ The main insight due to GPT 5.6 Sol is that the topological signature is a deriv
 projective complex variety, then the cup product pairing on $\H^{2d}(X;\mathbf{R})$ is symmetric and non-degenerate. The topological signature of $X$, denoted here by $\sigma(X)$,
 is the signature of this pairing. Hirzebruch's signature formula gives
 $$\sigma(X)=\sum_{p,q}(-1)^qh^{p,q}.$$
-See Voisin [[6]](#voisin), Theorem 6.33.
+See Voisin [[7]](#voisin), Theorem 6.33.
 
 **Theorem B.** Let $X$ and $Y$ be derived equivalent smooth projective complex varieties of even
 dimension. Then, $\sigma(X)=\sigma(Y)$.
@@ -112,7 +112,7 @@ $$
 $$
 
 see Căldăraru and Willerton
-[[5]](#caldararu-willerton) or Huybrechts [[4]](#huybrechts), Propositions
+[[3]](#caldararu-willerton) or Huybrechts [[4]](#huybrechts), Propositions
 5.39 and 5.44. 
 
 We can symmetrize the Mukai pairing to obtain
@@ -219,23 +219,22 @@ Martin Olsson).
 
 # References
 
-<span id="orlov">
-[1] Dmitri Orlov, *Derived categories of coherent sheaves and motives*,
-Russian Math. Surveys **60** (2005), 1242--1244.
-[doi:10.1070/RM2005v060n06ABEH004292](https://doi.org/10.1070/RM2005v060n06ABEH004292).
-</span>
-
-<span id="popa-schnell">
-[2] Mihnea Popa and Christian Schnell, *Derived invariance of the number of
-holomorphic $1$-forms and vector fields*, Ann. Sci. Éc. Norm. Supér. (4)
-**44** (2011), 527--536.
-[doi:10.24033/asens.2149](https://doi.org/10.24033/asens.2149).
+<span id="abuaf">
+[1] Roland Abuaf, *Homological units*, Int. Math. Res. Not. IMRN **2017**,
+no. 22, 6943--6960.
+[arXiv:1510.01583](https://arxiv.org/abs/1510.01583).
 </span>
 
 <span id="addington-bragg">
-[3] Nicolas Addington and Daniel Bragg, *Hodge numbers are not derived
+[2] Nicolas Addington and Daniel Bragg, *Hodge numbers are not derived
 invariants in positive characteristic*, Math. Ann. **387** (2023), 847--878.
 [arXiv:2106.09949](https://arxiv.org/abs/2106.09949).
+</span>
+
+<span id="caldararu-willerton">
+[3] Andrei Căldăraru and Simon Willerton, *The Mukai pairing, I: a
+categorical approach*, New York J. Math. **16** (2010), 61--98.
+[arXiv:0707.2052](https://arxiv.org/abs/0707.2052).
 </span>
 
 <span id="huybrechts">
@@ -243,14 +242,21 @@ invariants in positive characteristic*, Math. Ann. **387** (2023), 847--878.
 Oxford Mathematical Monographs, Oxford University Press, 2006.
 </span>
 
-<span id="caldararu-willerton">
-[5] Andrei Căldăraru and Simon Willerton, *The Mukai pairing, I: a
-categorical approach*, New York J. Math. **16** (2010), 61--98.
-[arXiv:0707.2052](https://arxiv.org/abs/0707.2052).
+<span id="orlov">
+[5] Dmitri Orlov, *Derived categories of coherent sheaves and motives*,
+Russian Math. Surveys **60** (2005), 1242--1244.
+[doi:10.1070/RM2005v060n06ABEH004292](https://doi.org/10.1070/RM2005v060n06ABEH004292).
+</span>
+
+<span id="popa-schnell">
+[6] Mihnea Popa and Christian Schnell, *Derived invariance of the number of
+holomorphic $1$-forms and vector fields*, Ann. Sci. Éc. Norm. Supér. (4)
+**44** (2011), 527--536.
+[doi:10.24033/asens.2149](https://doi.org/10.24033/asens.2149).
 </span>
 
 <span id="voisin">
-[6] Claire Voisin, *Hodge theory and complex algebraic geometry, I*,
+[7] Claire Voisin, *Hodge theory and complex algebraic geometry, I*,
 Cambridge Studies in Advanced Mathematics **76**, Cambridge University Press,
 2002.
 </span>
