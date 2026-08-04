@@ -94,10 +94,11 @@ completes the proof of Theorem A.
 
 # The Mukai pairing and the proof of Theorem B.
 
-The Mukai pairing on $\HH_0(X/\bC)$ is induced by the functor $D^b(X)^\op\times D^b(X)\rightarrow D^b(\bC)$ given by
-taking mapping complexes together with the fact that $\HH(D^b(X)^\op/\bC)\we\HH(D^b(X)/\bC)$. Using
-topological $K$-theory one can also obtain a version of this pairing on the direct sum of even rational or complex cohomology groups of
-$X$ using the Chern character. The Mukai pairing is a derived invariant, by construction.
+A derived equivalence, represented by a Fourier--Mukai kernel, induces an isomorphism on
+topological $K$-theory that preserves the index pairing. The Mukai vector
+$v_X(-)=\operatorname{ch}(-)\sqrt{\operatorname{td}(X)}$ identifies
+$K^0_{\mathrm{top}}(X)\otimes\bQ$ with $\H^{\mathrm{ev}}(X;\bQ)$ and transports the index pairing
+to the Mukai pairing. Thus the Mukai pairing on even cohomology is a derived invariant.
 
 In this form, if $\alpha=\sum\alpha_j$ is an element of $\H^\mathrm{ev}(X;\bC)=\oplus_j\H^{2j}(X;\bC)$, then let
 
