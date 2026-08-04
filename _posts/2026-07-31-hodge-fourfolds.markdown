@@ -7,9 +7,10 @@ description: "A signature argument showing that derived-equivalent smooth projec
 ---
 
 In July 2026 several members of my [FRG grant]({% link _grants/202209-frg.markdown %}) met at UC Berkeley to work. Several
-participants were coming directly from the ICM and AI was an impossible-to-avoid topic. Akhil
-Mathew and I had been playing around extensively with these tools for quite a while, but not
-everyone had, so we decided to brainstorm a list of problems related to our grant and pose them as
+participants were coming directly from the ICM and AI was an impossible-to-avoid topic. [Akhil
+Mathew](https://math.uchicago.edu/~amathew/) and I had been playing around extensively with these
+tools for quite a while, but not everyone had, so we decided to brainstorm a list of problems
+related to our grant and pose them as
 problems to Codex and Claude Code. The most surprising result is a Codex proof that Hodge numbers
 are derived invariants in dimension $4$, the proof of which we present below.
 
@@ -196,17 +197,17 @@ The following uses the
 - **Opus 5.0** (Anthropic): Validation.
 - **Benjamin Antieau** (Northwestern): Formal analysis, Funding
   acquisition, Validation, Writing -- review & editing.
-- **Andrei Căldăraru** (Wisconsin): Formal analysis,
+- **[Andrei Căldăraru](https://people.math.wisc.edu/~caldararu/)** (Wisconsin): Formal analysis,
   Funding acquisition, Validation, Writing -- review & editing.
-- **Akhil Mathew** (Chicago): Formal analysis, Funding
+- **[Akhil Mathew](https://math.uchicago.edu/~amathew/)** (Chicago): Formal analysis, Funding
   acquisition, Validation, Writing -- review & editing.
-- **Martin Olsson** (Berkeley): Formal analysis,
+- **[Martin Olsson](https://sites.google.com/berkeley.edu/martin-olsson/)** (Berkeley): Formal analysis,
   Funding acquisition, Validation, Writing -- review & editing.
-- **Ruoxi Li** (Berkeley): Formal analysis,
+- **[Ruoxi Li](https://math.berkeley.edu/people/ruoxi-li)** (Berkeley): Formal analysis,
   Validation, Writing -- review & editing.
-- **Noah Olander** (Berkeley): Formal analysis,
+- **[Noah Olander](https://noaholander.github.io/)** (Berkeley): Formal analysis,
   Validation, Writing -- review & editing.
-- **Joshua Mundinger** (Berkeley): Formal analysis,
+- **[Joshua Mundinger](https://joshuamundinger.github.io/)** (Berkeley): Formal analysis,
   Validation, Writing -- review & editing.
 
 All of the named contributors checked the proof carefully. Benjamin Antieau
