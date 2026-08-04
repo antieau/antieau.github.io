@@ -214,7 +214,7 @@ All of the named contributors checked the proof carefully. Benjamin Antieau
 provided the subscription used to access GPT-5.6 Sol Extra High and Akhil
 Mathew provided the subscription used to access Opus 5.0. This work was
 supported by NSF grant DMS-2152235, *FRG: Higher categorical structures in
-algebraic geometry* (Benjamin Antieau, Andrei Căldăraru, Akhil Mathew, and
+algebraic geometry* (Benjamin Antieau, Andrei Căldăraru, Max Lieblich, Akhil Mathew, and
 Martin Olsson).
 
 
