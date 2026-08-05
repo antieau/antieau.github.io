@@ -27,6 +27,23 @@ url: "https://antieau.github.io"
 github_username: antieau
 rss: "RSS"
 
+social_links:
+  - name: GitHub
+    icon: github
+    url: https://github.com/antieau
+  - name: Bluesky
+    icon: bluesky
+    url: https://bsky.app/profile/antieau.bsky.social
+  - name: Mathstodon
+    icon: mastodon
+    url: https://mathstodon.xyz/@antieau
+  - name: X
+    icon: x
+    url: https://x.com/benantieau
+  - name: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/benjamin-antieau-16526a3b6
+
 # Build settings
 theme: minima
 plugins:
