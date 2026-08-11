@@ -187,7 +187,7 @@ Brauer classes_. \[[arXiv:2106](https://arxiv.org/abs/2106.04291)\].
 - Magidson, _Witt vectors and $\delta$-Cartier algebras_, \[[arXiv:2409](https://arxiv.org/abs/2409.03877)\].
 - Magidson, _Divided powers and derived de Rham cohomology_, \[[arXiv:2405](https://arxiv.org/abs/2405.05153)\].
 
-Yuanning Zhang (PhD).
+[Yuanning Zhang](https://andyzhangyn.github.io/) (PhD).
 - Zhang, _Higher dimensional dominoes in de Rham--Witt theory_, \[[arXiv:2607](https://arxiv.org/abs/2607.26323)\].
 
 Anna Lipman (PhD).
