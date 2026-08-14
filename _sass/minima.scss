@@ -15,11 +15,13 @@ $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
 // Northwestern Purple
 $brand-color:      #9282b2 !default;
+$brand-color-dark: #544374 !default;
+$brand-color-light: #d8d1e5 !default;
 
 // Purple 50
 $grey-color:       #9380b6 !default;
-$grey-color-light: lighten($grey-color, 25%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-light: $brand-color-light !default;
+$grey-color-dark:  $brand-color-dark !default;
 
 $table-text-align: left !default;
 

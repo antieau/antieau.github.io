@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627" role="img" aria-labelledby="title description">
+  <title id="title">Akhil Mathew on AI and mathematical research</title>
+  <desc id="description">Social preview card for a post by Benjamin Antieau.</desc>
+  <rect width="1200" height="627" fill="#fdfdfd"/>
+  <rect width="1200" height="5" fill="#544374"/>
+
+  <text x="110" y="77" fill="#544374" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' font-size="32" font-weight="300" letter-spacing="-1">Benjamin Antieau</text>
+  <text x="1090" y="77" fill="#111" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' font-size="21" font-weight="400" text-anchor="end">antieau.github.io</text>
+  <line x1="0" y1="105" x2="1200" y2="105" stroke="#d8d1e5" stroke-width="1"/>
+
+  <text x="110" y="218" fill="#111" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' font-size="68" font-weight="400" letter-spacing="-1.5">Akhil Mathew on AI and</text>
+      <text x="110" y="294" fill="#111" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' font-size="68" font-weight="400" letter-spacing="-1.5">mathematical research</text>
+
+  <line x1="110" y1="515" x2="1090" y2="515" stroke="#d8d1e5" stroke-width="1"/>
+  <text x="110" y="565" fill="#9380b6" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' font-size="24" font-weight="400">10 Aug 2026</text>
+</svg>

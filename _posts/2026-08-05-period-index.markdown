@@ -10,6 +10,10 @@ I was blown away last night to read that Alex Perry had disproved the period-ind
 the help of AI, specifically some version of GPT [\[17\]](#perry). This problem is what my PhD thesis was about,
 so it is much more than a curiosity to me.
 
+For two other recent perspectives on AI-assisted mathematics, see the
+[Codex-assisted fourfold argument]({% link _posts/2026-07-31-hodge-fourfolds.markdown %})
+and [my interview with Akhil Mathew about his AI-assisted research]({% link _posts/2026-08-10-akhil-mathew-ai.markdown %}).
+
 
 
 # The period-index conjecture

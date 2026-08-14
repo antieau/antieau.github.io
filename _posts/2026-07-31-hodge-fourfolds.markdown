@@ -14,6 +14,10 @@ related to our grant and pose them as
 problems to Codex and Claude Code. The most surprising result is a Codex proof that Hodge numbers
 are derived invariants in dimension $4$, the proof of which we present below.
 
+For two other recent perspectives on AI-assisted mathematics, see my discussion of
+[Alex Perry's counterexample to the period-index conjecture]({% link _posts/2026-08-05-period-index.markdown %})
+and [my interview with Akhil Mathew about his AI-assisted research]({% link _posts/2026-08-10-akhil-mathew-ai.markdown %}).
+
 The [Leiden Declaration](https://leidendeclaration.ai/) asserts the primacy of human authors. To
 that end, and since this is my blog, I am the author of this blog post. Full credit to humans and
 models is given toward the end of this post.
