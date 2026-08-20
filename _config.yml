@@ -43,6 +43,9 @@ social_links:
   - name: LinkedIn
     icon: linkedin
     url: https://www.linkedin.com/in/benjamin-antieau-16526a3b6
+  - name: RSS
+    icon: rss
+    url: /feed.xml
 
 # Build settings
 theme: minima
