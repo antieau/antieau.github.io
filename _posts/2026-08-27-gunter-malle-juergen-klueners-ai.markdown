@@ -145,7 +145,7 @@ In my PhD, I did most of these exceptional groups of Lie type, but the Suzuki gr
 
 **Jürgen Klüners:** There is also the question of which type of problem you ask. Are you asking over $\mathbb Q$, or are you asking over $\mathbb Q(t)$? Shafarevich is also only over $\mathbb Q$ by now (or more exactly over global fields). Even if you have some crazy 2-groups, it is not known whether you can realize them over $\mathbb Q(t)$. The first open groups are not that big.
 
-If you have solvable groups over $\matbb Q$, I think you have a tool: you have class field theory, you have Shafarevich, you have embedding problems, and I think you have some structure for what you can do. If you have nonsolvable groups, then for simple groups—for some groups you might have modular forms and things like that, but for most of them perhaps you do not have this approach. Then you have to use the rigidity method or some other method, and perhaps it is difficult to make progress.
+If you have solvable groups over $\mathbb Q$, I think you have a tool: you have class field theory, you have Shafarevich, you have embedding problems, and I think you have some structure for what you can do. If you have nonsolvable groups, then for simple groups—for some groups you might have modular forms and things like that, but for most of them perhaps you do not have this approach. Then you have to use the rigidity method or some other method, and perhaps it is difficult to make progress.
 
 ## Related reading on mathematics and AI
 
