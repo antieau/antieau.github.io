@@ -27,9 +27,10 @@ On 25 August 2026, I spoke with [Jürgen Klüners](https://www.uni-paderborn.de/
 
 **Gunter Malle:** The challenge was to produce at least one polynomial for every transitive group of degree 24 and for every possible signature. There was a system to weight the various submissions. It wasn’t exactly the number of successes; it also depended on how many other people had the same polynomial, or whether you were the only one to get it.
 
-**Jürgen Klüners:** At some point we learned that there was this competition. Gunter took the initiative to open an account and produce some first examples. Then I talked to him and said, “Let us do it together,” in some sense. In the beginning, our biggest problem was how to submit them, not how to produce them. At least I spent more time than I should have done.
+**Jürgen Klüners:** At some point we learned that there was this competition. Gunter took the initiative to open an account and produce some first examples. Then I talked to him and said, “Let us do it together,” in some sense. In the beginning, our biggest problem was how to submit them, not how to produce them. I have to say that I spent more time on this competition than I should have done.
 
-We have this database up to degree 23, and some years ago we tried to fill in more or less all the signatures in degree 16. We were almost successful. In degree 12, you have 301 groups; in degree eight, you only have 50 groups [[2]](#database).
+We have this database up to degree 23, and some years ago we tried to fill in more or less all the signatures in degree 16, where we have 1954 groups and many more signatures.
+We were almost successful with missing cases in two groups. In degree 12, you have 301 groups; in degree eight, you only have 50 groups [[2]](#database).
 
 **Benjamin Antieau:** What makes this hard?
 
@@ -95,7 +96,8 @@ Also, if it’s a small group, I’m pretty sure that if you say it’s really i
 
 **Benjamin Antieau:** At least one other team reported using a truly crazy number of cores at once, like 3,400 or something.
 
-**Jürgen Klüners:** I used one computer with 32 processors—64 with hyperthreading—which I bought in 2022. I had one machine that was quite useful with one terabyte of memory. But I don’t think the computing power is really impressive. I could have run more jobs.
+**Jürgen Klüners:** I used one computer with 32 processors—64 with hyperthreading—which I bought in 2022. I used two other machines of similar size
+which I bought in 2011 and 2013. I had one machine that was quite useful with one terabyte of memory. But I don’t think the computing power is really impressive. I could have run more jobs.
 
 ## OSCAR, Magma, and Galois-group computation
 
@@ -141,9 +143,9 @@ Of course, the main difference from the result on $M_{23}$ is that the proof of 
 
 In my PhD, I did most of these exceptional groups of Lie type, but the Suzuki groups—which were the ones I started with—I never managed to realize over $\mathbb Q^{\mathrm{ab}}$, even over the maximal abelian extension. So that is definitely open. It’s in degree, I think, 65 or something.
 
-**Jürgen Klüners:** There is also the question of which type of problem you ask. Are you asking over $\mathbb Q$, or are you asking over $\mathbb Q(t)$? Shafarevich is also only over $\mathbb Q$ by now. Even if you have some crazy 2-groups, it is not known whether you can realize them over $\mathbb Q(t)$. The first open groups are not that big.
+**Jürgen Klüners:** There is also the question of which type of problem you ask. Are you asking over $\mathbb Q$, or are you asking over $\mathbb Q(t)$? Shafarevich is also only over $\mathbb Q$ by now (or more exactly over global fields). Even if you have some crazy 2-groups, it is not known whether you can realize them over $\mathbb Q(t)$. The first open groups are not that big.
 
-If you have solvable groups, I think you have a tool: you have classical theory, you have Shafarevich, you have embedding problems, and I think you have some structure for what you can do. If you have nonsolvable groups, then for simple groups—for some groups you might have modular forms and things like that, but for most of them perhaps you do not have this approach. Then you have to use the rigidity method or some other method, and perhaps it is difficult to make progress.
+If you have solvable groups over $\matbb Q$, I think you have a tool: you have class field theory, you have Shafarevich, you have embedding problems, and I think you have some structure for what you can do. If you have nonsolvable groups, then for simple groups—for some groups you might have modular forms and things like that, but for most of them perhaps you do not have this approach. Then you have to use the rigidity method or some other method, and perhaps it is difficult to make progress.
 
 ## Related reading on mathematics and AI
 
