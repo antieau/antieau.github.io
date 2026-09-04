@@ -2,9 +2,11 @@
 layout: post
 title:  "What I have asked AI about mathematics"
 stitle: "What I asked AI about mathematics"
+social_title: "What I asked AI about mathematics"
 date: 2026-09-04
 tags: 2026
 description: "An audit of the mathematics questions and major computer-algebra tasks I have asked AI."
+image: /assets/social/what-i-asked-ai-about-mathematics.png
 ---
 
 I have been using agentic systems heavily since February 2026, mostly for coding, but more recently
