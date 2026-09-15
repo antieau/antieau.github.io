@@ -12,7 +12,7 @@ excerpt: "A proposal for fast and slow mathematics and collective standards for 
 To resolve a central tension in the practice of mathematics by academics, I suggest
 the parallel with fast food and its attendant slow food movement.
 
-*This essay was written by Benjamin Antieau and lightly edited with LLM assistance.*
+
 
 ## Three hearts
 
