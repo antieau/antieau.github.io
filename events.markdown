@@ -4,34 +4,9 @@ title: events
 permalink: /events/
 ---
 
-<h1>future organization</h1>
+<h1>past organization</h1>
 
 <a href="https://icerm.brown.edu/program/topical_workshop/tw-26-mch">Machine computation in homotopy theory</a>, 22-26 June 2026, ICERM.
-
-
-
-<h1>future trips</h1>
-
-<a href="https://www.slmath.org/programs/384">Motivic homotopy theory, SLMath, Fall 2026</a>, 17
-August to 18 December 2026.
-
-<a href="https://www.slmath.org/workshops/1167">Pathways workshop: Representation Theory Under the
-Influence of Quantum Field Theory & Motivic Homotopy Theory</a>, SLMath, 19-21 August 2026.
-
-<a href="https://aimathconference.github.io/">Accelerating Mathematical Discovery</a>, UC Santa
-Cruz, 28 October to 1 November 2026.
-
-Colloquium @ San José State University, 4 November 2026.
-
-Homotopy theory @ Oberwolach, 21-26 March 2027.
-
-Brave new algebra in honor of Waldhausen, Bielefeld, 30 August to 3 September 2027.
-
-
-
-
-
-<h1>past organization</h1>
 
 <a href="../workshops/2026-03-frg.html">FRG workshop on higher categories and geometry,
     16-18 March 2026 @ Northwestern/NITMB</a>.

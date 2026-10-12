@@ -15,6 +15,9 @@ I study Brauer groups, derived algebraic geometry, and algebraic K-theory.
 
 # publications and preprints
 
+[56] B. Antieau, E. Hübner, D. Kubrak, and J. Nuiten, _Derived plethystic algebra_,
+    \[[arXiv:2610](https://arxiv.org/abs/2610.12839)\].
+
 [55] B. Antieau, A. Auel, and F. Scavia, _Splitting Brauer classes by genus one curves over number
 fields_, \[[arXiv:2607](https://arxiv.org/abs/2607.26915)\].
 
